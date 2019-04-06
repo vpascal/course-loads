@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Department,course,level,class,Term,percent
 HCSE,CONS 1100,Undergraduate,Opportunities Fam and Con Sci,Fall 13-14,32
 HCSE,CONS 2500,Undergraduate,Family as Consumers Global Com,Fall 13-14,76.7
@@ -764,3 +765,319 @@ HCSE,RHT 4900,Undergraduate,Special Topics in RHT,Sum 17-18,
 HCSE,RHT 4920,Undergraduate,Hospitality Practicum,Sum 17-18,79.2
 HCSE,RHT 4930,Undergraduate,Independent Study in Hosp,Sum 17-18,
 HCSE,T3 4725,Undergraduate,Women and Leadership,Sum 17-18,
+=======
+Term,Department,level,course,Class,percent
+Fall 13-14,RSP,Graduate,COED 6400,Coaching Performance Eval,5
+Fall 13-14,RSP,Graduate,REC 5400,Environmental Interpretation,60
+Fall 13-14,RSP,Graduate,COED 6170,Ethics and Diversity,72
+Fall 13-14,RSP,Graduate,COED 6110,Foundations of Coaching I,76
+Fall 13-14,RSP,Graduate,COED 6930,Guided Independent Study,0
+Fall 13-14,RSP,Graduate,REC 6930,Guided Independent Study,4
+Fall 13-14,RSP,Graduate,COED 6150,Injury Prevention & Risk Mgt.,92
+Fall 13-14,RSP,Graduate,COED 5911,Instructional Experience,40
+Fall 13-14,RSP,Graduate,REC 5901,Instructional Experience,0
+Fall 13-14,RSP,Graduate,REC 6170,Leisure and Sport in Society,80
+Fall 13-14,RSP,Graduate,COED 6920,Practicum,40
+Fall 13-14,RSP,Graduate,REC 6920,Practicum,12
+Fall 13-14,RSP,Graduate,COED 6200,Research and Analysis Methods,76
+Fall 13-14,RSP,Graduate,COED 6940,Research Dynamics,10
+Fall 13-14,RSP,Graduate,REC 6940,Research Dynamics,0
+Fall 13-14,RSP,Graduate,COED 6941,Special Problems,5
+Fall 13-14,RSP,Graduate,REC 6932,Special Problems,10
+Fall 13-14,RSP,Graduate,COED 6950,Thesis,0
+Fall 13-14,RSP,Graduate,REC 6950,Thesis,13.3
+Fall 13-14,RSP,Graduate,REC 6010,Trends and Global Iss in Rec,95
+Fall 13-14,RSP,Graduate,REC 5800,Wilderness Literature,100
+Fall 14-15,RSP,Graduate,COED 6330,Analysis of Sport Performance,45
+Fall 14-15,RSP,Graduate,COED 6400,Coaching Performance Eval,15
+Fall 14-15,RSP,Graduate,COED 6170,Ethics and Diversity,100
+Fall 14-15,RSP,Graduate,COED 6110,Foundations of Coaching I,100
+Fall 14-15,RSP,Graduate,COED 6930,Guided Independent Study,0
+Fall 14-15,RSP,Graduate,REC 6930,Guided Independent Study,34.3
+Fall 14-15,RSP,Graduate,COED 6150,Injury Prevention & Risk Mgt.,100
+Fall 14-15,RSP,Graduate,COED 5911,Instructional Experience,20
+Fall 14-15,RSP,Graduate,REC 5901,Instructional Experience,45
+Fall 14-15,RSP,Graduate,REC 6170,Leisure and Sport in Society,100
+Fall 14-15,RSP,Graduate,REC 6800,Phil Experiential Education,50
+Fall 14-15,RSP,Graduate,COED 6920,Practicum,30
+Fall 14-15,RSP,Graduate,REC 6920,Practicum,16
+Fall 14-15,RSP,Graduate,REC 5550,Principles of Ecotourism,80
+Fall 14-15,RSP,Graduate,COED 6140,Psychology of Coaching,4
+Fall 14-15,RSP,Graduate,COED 6200,Research and Analysis Methods,100
+Fall 14-15,RSP,Graduate,COED 6940,Research Dynamics,0
+Fall 14-15,RSP,Graduate,REC 6940,Research Dynamics,30
+Fall 14-15,RSP,Graduate,COED 6941,Special Problems,15
+Fall 14-15,RSP,Graduate,REC 6932,Special Problems,5
+Fall 14-15,RSP,Graduate,COED 6950,Thesis,0
+Fall 14-15,RSP,Graduate,REC 6950,Thesis,0
+Fall 14-15,RSP,Graduate,REC 6010,Trends and Global Iss in Rec,80
+Fall 15-16,RSP,Graduate,COED 6400,Coaching Performance Eval,90
+Fall 15-16,RSP,Graduate,COED 6100,Coaching Workshop I,48
+Fall 15-16,RSP,Graduate,REC 5400,Environmental Interpretation,40
+Fall 15-16,RSP,Graduate,COED 6170,Ethics and Diversity,76
+Fall 15-16,RSP,Graduate,COED 6110,Foundations of Coaching I,80
+Fall 15-16,RSP,Graduate,COED 6930,Guided Independent Study,6.7
+Fall 15-16,RSP,Graduate,REC 6930,Guided Independent Study,8
+Fall 15-16,RSP,Graduate,COED 5911,Instructional Experience,40
+Fall 15-16,RSP,Graduate,REC 5901,Instructional Experience,22.9
+Fall 15-16,RSP,Graduate,COED 5305,Issues in Athletic Coaching,35
+Fall 15-16,RSP,Graduate,REC 6170,Leisure and Sport in Society,85
+Fall 15-16,RSP,Graduate,COED 6120,Mgt and Leadership in Sport,100
+Fall 15-16,RSP,Graduate,COED 6920,Practicum,40
+Fall 15-16,RSP,Graduate,REC 6920,Practicum,28
+Fall 15-16,RSP,Graduate,REC 5550,Principles of Ecotourism,100
+Fall 15-16,RSP,Graduate,COED 6200,Research and Analysis Methods,92
+Fall 15-16,RSP,Graduate,COED 6940,Research Dynamics,16.7
+Fall 15-16,RSP,Graduate,REC 6940,Research Dynamics,13.3
+Fall 15-16,RSP,Graduate,COED 6941,Special Problems,20
+Fall 15-16,RSP,Graduate,REC 6932,Special Problems,12
+Fall 15-16,RSP,Graduate,COED 6950,Thesis,0
+Fall 15-16,RSP,Graduate,REC 6950,Thesis,0
+Fall 15-16,RSP,Graduate,REC 6010,Trends and Global Iss in Rec,26
+Fall 16-17,RSP,Graduate,COED 6400,Coaching Performance Eval,37.5
+Fall 16-17,RSP,Graduate,COED 6170,Ethics and Diversity,100
+Fall 16-17,RSP,Graduate,COED 6110,Foundations of Coaching I,100
+Fall 16-17,RSP,Graduate,COED 6930,Guided Independent Study,5
+Fall 16-17,RSP,Graduate,REC 6930,Guided Independent Study,12
+Fall 16-17,RSP,Graduate,COED 5911,Instructional Experience,30
+Fall 16-17,RSP,Graduate,REC 5901,Instructional Experience,30
+Fall 16-17,RSP,Graduate,COED 5305,Issues in Athletic Coaching,75
+Fall 16-17,RSP,Graduate,REC 6170,Leisure and Sport in Society,100
+Fall 16-17,RSP,Graduate,COED 6120,Mgt and Leadership in Sport,100
+Fall 16-17,RSP,Graduate,COED 6920,Practicum,50
+Fall 16-17,RSP,Graduate,REC 6920,Practicum,10
+Fall 16-17,RSP,Graduate,REC 5550,Principles of Ecotourism,100
+Fall 16-17,RSP,Graduate,COED 6200,Research and Analysis Methods,100
+Fall 16-17,RSP,Graduate,COED 6940,Research Dynamics,20
+Fall 16-17,RSP,Graduate,REC 6940,Research Dynamics,13.3
+Fall 16-17,RSP,Graduate,COED 6941,Special Problems,30
+Fall 16-17,RSP,Graduate,REC 6932,Special Problems,8
+Fall 16-17,RSP,Graduate,COED 5900,Special Topics in COED,70
+Fall 16-17,RSP,Graduate,COED 6950,Thesis,10
+Fall 16-17,RSP,Graduate,REC 6950,Thesis,20
+Fall 16-17,RSP,Graduate,REC 6010,Trends and Global Iss in Rec,38
+Fall 17-18,RSP,Graduate,COED 6230,Applying Research,66.7
+Fall 17-18,RSP,Graduate,COED 6400,Coaching Performance Eval,0
+Fall 17-18,RSP,Graduate,REC 5400,Environmental Interpretation,70
+Fall 17-18,RSP,Graduate,COED 6170,Ethics and Diversity,86.7
+Fall 17-18,RSP,Graduate,COED 6110,Foundations of Coaching I,93.3
+Fall 17-18,RSP,Graduate,COED 6930,Guided Independent Study,20
+Fall 17-18,RSP,Graduate,REC 6930,Guided Independent Study,16
+Fall 17-18,RSP,Graduate,COED 5911,Instructional Experience,60
+Fall 17-18,RSP,Graduate,REC 5901,Instructional Experience,44
+Fall 17-18,RSP,Graduate,COED 5305,Issues in Athletic Coaching,20
+Fall 17-18,RSP,Graduate,REC 6170,Leisure and Sport in Society,50
+Fall 17-18,RSP,Graduate,COED 6120,Mgt and Leadership in Sport,100
+Fall 17-18,RSP,Graduate,COED 6920,Practicum,40
+Fall 17-18,RSP,Graduate,REC 6920,Practicum,4
+Fall 17-18,RSP,Graduate,REC 5550,Principles of Ecotourism,87.5
+Fall 17-18,RSP,Graduate,COED 6940,Research Dynamics,30
+Fall 17-18,RSP,Graduate,REC 6940,Research Dynamics,0
+Fall 17-18,RSP,Graduate,COED 5213,Skill Acquisition,100
+Fall 17-18,RSP,Graduate,COED 6941,Special Problems,10
+Fall 17-18,RSP,Graduate,REC 6932,Special Problems,8
+Fall 17-18,RSP,Graduate,COED 6950,Thesis,0
+Fall 17-18,RSP,Graduate,REC 6950,Thesis,6.7
+Fall 17-18,RSP,Graduate,REC 6010,Trends and Global Iss in Rec,50
+Spr 15-16,RSP,Graduate,COED 5900,Special Topics in COED,20
+Spr 17-18,RSP,Graduate,COED 5900,Special Topics in COED,43.3
+Spr 15-16,RSP,Graduate,COED 5901,Coaching Symposium,80
+Spr 15-16,RSP,Graduate,COED 5911,Instructional Experience,40
+Spr 16-17,RSP,Graduate,COED 5911,Instructional Experience,45
+Spr 17-18,RSP,Graduate,COED 5911,Instructional Experience,100
+Spr 13-14,RSP,Graduate,COED 5911,Instructional Experience,40
+Spr 14-15,RSP,Graduate,COED 5911,Instructional Experience,60
+Spr 14-15,RSP,Graduate,COED 6100,Coaching Workshop I,60
+Spr 13-14,RSP,Graduate,COED 6100,Coaching Workshop I,68
+Spr 13-14,RSP,Graduate,COED 6120,Mgt and Leadership in Sport,90
+Spr 14-15,RSP,Graduate,COED 6120,Mgt and Leadership in Sport,100
+Spr 14-15,RSP,Graduate,COED 6130,Finance for Sport Coaches,60
+Spr 15-16,RSP,Graduate,COED 6130,Finance for Sport Coaches,96
+Spr 15-16,RSP,Graduate,COED 6140,Psychology of Coaching,90
+Spr 13-14,RSP,Graduate,COED 6140,Psychology of Coaching,63.3
+Spr 16-17,RSP,Graduate,COED 6140,Psychology of Coaching,93.3
+Spr 14-15,RSP,Graduate,COED 6140,Psychology of Coaching,100
+Spr 17-18,RSP,Graduate,COED 6140,Psychology of Coaching,86.7
+Spr 16-17,RSP,Graduate,COED 6150,Injury Prevention & Risk Mgt.,65.7
+Spr 17-18,RSP,Graduate,COED 6150,Injury Prevention & Risk Mgt.,82.5
+Spr 15-16,RSP,Graduate,COED 6150,Injury Prevention & Risk Mgt.,100
+Spr 15-16,RSP,Graduate,COED 6160,Perf and Cond for Coaches,100
+Spr 14-15,RSP,Graduate,COED 6160,Perf and Cond for Coaches,100
+Spr 13-14,RSP,Graduate,COED 6160,Perf and Cond for Coaches,46.7
+Spr 16-17,RSP,Graduate,COED 6160,Perf and Cond for Coaches,68.6
+Spr 17-18,RSP,Graduate,COED 6160,Perf and Cond for Coaches,83.3
+Spr 16-17,RSP,Graduate,COED 6190,Coaching through Games,65
+Spr 17-18,RSP,Graduate,COED 6190,Coaching through Games,46.7
+Spr 16-17,RSP,Graduate,COED 6200,Research and Analysis Methods,40
+Spr 13-14,RSP,Graduate,COED 6400,Coaching Performance Eval,20
+Spr 16-17,RSP,Graduate,COED 6400,Coaching Performance Eval,75
+Spr 14-15,RSP,Graduate,COED 6400,Coaching Performance Eval,30
+Spr 17-18,RSP,Graduate,COED 6400,Coaching Performance Eval,32.5
+Spr 15-16,RSP,Graduate,COED 6400,Coaching Performance Eval,57.5
+Spr 16-17,RSP,Graduate,COED 6920,Practicum,80
+Spr 14-15,RSP,Graduate,COED 6920,Practicum,55
+Spr 15-16,RSP,Graduate,COED 6920,Practicum,70
+Spr 13-14,RSP,Graduate,COED 6920,Practicum,40
+Spr 17-18,RSP,Graduate,COED 6920,Practicum,60
+Spr 17-18,RSP,Graduate,COED 6930,Guided Independent Study,0
+Spr 14-15,RSP,Graduate,COED 6930,Guided Independent Study,0
+Spr 16-17,RSP,Graduate,COED 6930,Guided Independent Study,33.3
+Spr 15-16,RSP,Graduate,COED 6930,Guided Independent Study,26.7
+Spr 13-14,RSP,Graduate,COED 6930,Guided Independent Study,0
+Spr 16-17,RSP,Graduate,COED 6940,Research Dynamics,20
+Spr 15-16,RSP,Graduate,COED 6940,Research Dynamics,13.3
+Spr 13-14,RSP,Graduate,COED 6940,Research Dynamics,10
+Spr 14-15,RSP,Graduate,COED 6940,Research Dynamics,0
+Spr 17-18,RSP,Graduate,COED 6940,Research Dynamics,20
+Spr 15-16,RSP,Graduate,COED 6941,Special Problems,15
+Spr 17-18,RSP,Graduate,COED 6941,Special Problems,100
+Spr 16-17,RSP,Graduate,COED 6941,Special Problems,15
+Spr 13-14,RSP,Graduate,COED 6941,Special Problems,20
+Spr 14-15,RSP,Graduate,COED 6941,Special Problems,32.5
+Spr 17-18,RSP,Graduate,COED 6950,Thesis,0
+Spr 15-16,RSP,Graduate,COED 6950,Thesis,0
+Spr 16-17,RSP,Graduate,COED 6950,Thesis,6.7
+Spr 14-15,RSP,Graduate,COED 6950,Thesis,0
+Spr 13-14,RSP,Graduate,COED 6950,Thesis,0
+Spr 15-16,RSP,Graduate,REC 5430,Marketing for Recreation,100
+Spr 16-17,RSP,Graduate,REC 5430,Marketing for Recreation,100
+Spr 17-18,RSP,Graduate,REC 5430,Marketing for Recreation,100
+Spr 17-18,RSP,Graduate,REC 5460,Parks & Protected Areas,60
+Spr 17-18,RSP,Graduate,REC 5550,Principles of Ecotourism,20
+Spr 13-14,RSP,Graduate,REC 5550,Principles of Ecotourism,100
+Spr 14-15,RSP,Graduate,REC 5560,Ecotourism Destinations,0
+Spr 15-16,RSP,Graduate,REC 5560,Ecotourism Destinations,0
+Spr 16-17,RSP,Graduate,REC 5560,Ecotourism Destinations,0
+Spr 13-14,RSP,Graduate,REC 5620,Convention & Event Planning,100
+Spr 14-15,RSP,Graduate,REC 5620,Convention & Event Planning,100
+Spr 16-17,RSP,Graduate,REC 5620,Convention & Event Planning,80
+Spr 17-18,RSP,Graduate,REC 5620,Convention & Event Planning,80
+Spr 15-16,RSP,Graduate,REC 5620,Convention & Event Planning,60
+Spr 15-16,RSP,Graduate,REC 5740,Facilitating the Adventure Exp,60
+Spr 13-14,RSP,Graduate,REC 5740,Facilitating the Adventure Exp,100
+Spr 14-15,RSP,Graduate,REC 5800,Wilderness Literature,80
+Spr 16-17,RSP,Graduate,REC 5800,Wilderness Literature,60
+Spr 17-18,RSP,Graduate,REC 5800,Wilderness Literature,60
+Spr 15-16,RSP,Graduate,REC 5800,Wilderness Literature,20
+Spr 16-17,RSP,Graduate,REC 5901,Instructional Experience,24
+Spr 14-15,RSP,Graduate,REC 5901,Instructional Experience,40
+Spr 13-14,RSP,Graduate,REC 5901,Instructional Experience,50
+Spr 15-16,RSP,Graduate,REC 5901,Instructional Experience,16
+Spr 17-18,RSP,Graduate,REC 5901,Instructional Experience,24
+Spr 13-14,RSP,Graduate,REC 6011,Finance and Marketing of Rec,45
+Spr 14-15,RSP,Graduate,REC 6011,Finance and Marketing of Rec,40
+Spr 16-17,RSP,Graduate,REC 6080,Research Meth and Stat App,52
+Spr 17-18,RSP,Graduate,REC 6080,Research Meth and Stat App,44
+Spr 17-18,RSP,Graduate,REC 6490,Administration of Recreation,44
+Spr 14-15,RSP,Graduate,REC 6490,Administration of Recreation,85
+Spr 13-14,RSP,Graduate,REC 6490,Administration of Recreation,100
+Spr 15-16,RSP,Graduate,REC 6490,Administration of Recreation,60
+Spr 16-17,RSP,Graduate,REC 6490,Administration of Recreation,60
+Spr 13-14,RSP,Graduate,REC 6750,Adventure Programming,55
+Spr 16-17,RSP,Graduate,REC 6750,Adventure Programming,44
+Spr 17-18,RSP,Graduate,REC 6800,Phil Experiential Education,28
+Spr 15-16,RSP,Graduate,REC 6800,Phil Experiential Education,28
+Spr 14-15,RSP,Graduate,REC 6920,Practicum,45
+Spr 13-14,RSP,Graduate,REC 6920,Practicum,33.3
+Spr 15-16,RSP,Graduate,REC 6920,Practicum,28
+Spr 16-17,RSP,Graduate,REC 6920,Practicum,12
+Spr 17-18,RSP,Graduate,REC 6920,Practicum,20
+Spr 17-18,RSP,Graduate,REC 6930,Guided Independent Study,20
+Spr 15-16,RSP,Graduate,REC 6930,Guided Independent Study,12
+Spr 16-17,RSP,Graduate,REC 6930,Guided Independent Study,20
+Spr 13-14,RSP,Graduate,REC 6930,Guided Independent Study,0
+Spr 14-15,RSP,Graduate,REC 6930,Guided Independent Study,15
+Spr 15-16,RSP,Graduate,REC 6932,Special Problems,8
+Spr 17-18,RSP,Graduate,REC 6932,Special Problems,4
+Spr 14-15,RSP,Graduate,REC 6932,Special Problems,33.3
+Spr 13-14,RSP,Graduate,REC 6932,Special Problems,0
+Spr 16-17,RSP,Graduate,REC 6932,Special Problems,12
+Spr 15-16,RSP,Graduate,REC 6940,Research Dynamics,33.3
+Spr 14-15,RSP,Graduate,REC 6940,Research Dynamics,30
+Spr 17-18,RSP,Graduate,REC 6940,Research Dynamics,13.3
+Spr 16-17,RSP,Graduate,REC 6940,Research Dynamics,20
+Spr 13-14,RSP,Graduate,REC 6940,Research Dynamics,0
+Spr 16-17,RSP,Graduate,REC 6950,Thesis,6.7
+Spr 13-14,RSP,Graduate,REC 6950,Thesis,0
+Spr 14-15,RSP,Graduate,REC 6950,Thesis,6.7
+Spr 17-18,RSP,Graduate,REC 6950,Thesis,0
+Spr 15-16,RSP,Graduate,REC 6950,Thesis,0
+Sum 15-16,RSP,Graduate,COED 5212,Elite Athlete,44
+Sum 17-18,RSP,Graduate,COED 5212,Elite Athlete,100
+Sum 14-15,RSP,Graduate,COED 5212,Elite Athlete,44
+Sum 16-17,RSP,Graduate,COED 5212,Elite Athlete,86.7
+Sum 14-15,RSP,Graduate,COED 5300,Readings in Coaching,100
+Sum 16-17,RSP,Graduate,COED 5901,Coaching Symposium,64
+Sum 17-18,RSP,Graduate,COED 5901,Coaching Symposium,40
+Sum 14-15,RSP,Graduate,COED 5901,Coaching Symposium,68
+Sum 13-14,RSP,Graduate,COED 5901,Coaching Symposium,44
+Sum 15-16,RSP,Graduate,COED 5901,Coaching Symposium,52
+Sum 13-14,RSP,Graduate,COED 5911,Instructional Experience,20
+Sum 13-14,RSP,Graduate,COED 6130,Finance for Sport Coaches,24
+Sum 17-18,RSP,Graduate,COED 6230,Applying Research,5
+Sum 17-18,RSP,Graduate,COED 6330,Analysis of Sport Performance,60
+Sum 13-14,RSP,Graduate,COED 6330,Analysis of Sport Performance,36
+Sum 14-15,RSP,Graduate,COED 6330,Analysis of Sport Performance,60
+Sum 15-16,RSP,Graduate,COED 6340,Performance Recovery,56
+Sum 14-15,RSP,Graduate,COED 6340,Performance Recovery,72
+Sum 17-18,RSP,Graduate,COED 6400,Coaching Performance Eval,20
+Sum 16-17,RSP,Graduate,COED 6400,Coaching Performance Eval,24
+Sum 13-14,RSP,Graduate,COED 6400,Coaching Performance Eval,12
+Sum 15-16,RSP,Graduate,COED 6400,Coaching Performance Eval,14
+Sum 14-15,RSP,Graduate,COED 6400,Coaching Performance Eval,40
+Sum 16-17,RSP,Graduate,COED 6920,Practicum,50
+Sum 14-15,RSP,Graduate,COED 6920,Practicum,90
+Sum 13-14,RSP,Graduate,COED 6920,Practicum,80
+Sum 17-18,RSP,Graduate,COED 6920,Practicum,50
+Sum 15-16,RSP,Graduate,COED 6920,Practicum,30
+Sum 14-15,RSP,Graduate,COED 6930,Guided Independent Study,20
+Sum 15-16,RSP,Graduate,COED 6930,Guided Independent Study,13.3
+Sum 17-18,RSP,Graduate,COED 6930,Guided Independent Study,40
+Sum 13-14,RSP,Graduate,COED 6930,Guided Independent Study,0
+Sum 16-17,RSP,Graduate,COED 6930,Guided Independent Study,20
+Sum 16-17,RSP,Graduate,COED 6940,Research Dynamics,60
+Sum 14-15,RSP,Graduate,COED 6940,Research Dynamics,20
+Sum 15-16,RSP,Graduate,COED 6940,Research Dynamics,0
+Sum 17-18,RSP,Graduate,COED 6940,Research Dynamics,20
+Sum 13-14,RSP,Graduate,COED 6940,Research Dynamics,10
+Sum 16-17,RSP,Graduate,COED 6941,Special Problems,20
+Sum 14-15,RSP,Graduate,COED 6941,Special Problems,20
+Sum 17-18,RSP,Graduate,COED 6941,Special Problems,60
+Sum 13-14,RSP,Graduate,COED 6941,Special Problems,30
+Sum 15-16,RSP,Graduate,COED 6941,Special Problems,60
+Sum 16-17,RSP,Graduate,REC 5240,Outdoor Leadership,0
+Sum 17-18,RSP,Graduate,REC 5240,Outdoor Leadership,50
+Sum 13-14,RSP,Graduate,REC 5240,Outdoor Leadership,10
+Sum 14-15,RSP,Graduate,REC 5240,Outdoor Leadership,0
+Sum 15-16,RSP,Graduate,REC 5240,Outdoor Leadership,50
+Sum 17-18,RSP,Graduate,REC 5901,Instructional Experience,0
+Sum 14-15,RSP,Graduate,REC 5901,Instructional Experience,12
+Sum 16-17,RSP,Graduate,REC 5901,Instructional Experience,0
+Sum 13-14,RSP,Graduate,REC 5901,Instructional Experience,6.7
+Sum 15-16,RSP,Graduate,REC 5901,Instructional Experience,8
+Sum 13-14,RSP,Graduate,REC 6920,Practicum,6
+Sum 16-17,RSP,Graduate,REC 6920,Practicum,0
+Sum 14-15,RSP,Graduate,REC 6920,Practicum,16
+Sum 15-16,RSP,Graduate,REC 6920,Practicum,12
+Sum 17-18,RSP,Graduate,REC 6920,Practicum,0
+Sum 16-17,RSP,Graduate,REC 6930,Guided Independent Study,0
+Sum 15-16,RSP,Graduate,REC 6930,Guided Independent Study,16
+Sum 17-18,RSP,Graduate,REC 6930,Guided Independent Study,0
+Sum 14-15,RSP,Graduate,REC 6930,Guided Independent Study,16
+Sum 13-14,RSP,Graduate,REC 6930,Guided Independent Study,15
+Sum 17-18,RSP,Graduate,REC 6932,Special Problems,4
+Sum 15-16,RSP,Graduate,REC 6932,Special Problems,12
+Sum 13-14,RSP,Graduate,REC 6932,Special Problems,13.3
+Sum 16-17,RSP,Graduate,REC 6932,Special Problems,0
+Sum 14-15,RSP,Graduate,REC 6932,Special Problems,4
+Sum 17-18,RSP,Graduate,REC 6940,Research Dynamics,0
+Sum 16-17,RSP,Graduate,REC 6940,Research Dynamics,20
+Sum 14-15,RSP,Graduate,REC 6940,Research Dynamics,6.7
+Sum 15-16,RSP,Graduate,REC 6940,Research Dynamics,6.7
+Sum 13-14,RSP,Graduate,REC 6940,Research Dynamics,10
+Sum 14-15,RSP,Graduate,REC 6950,Thesis,6.7
+Sum 13-14,RSP,Graduate,REC 6950,Thesis,0
+Sum 16-17,RSP,Graduate,REC 6950,Thesis,6.7
+Sum 17-18,RSP,Graduate,REC 6950,Thesis,0
+Sum 15-16,RSP,Graduate,REC 6950,Thesis,0
+>>>>>>> 477069434e8e6b41837db66f64c56f64fa8d8517
