@@ -63,8 +63,7 @@ d3.csv("data_small.csv", function(data) {
   // Labels of row and columns -> unique identifier of the column called 'Term' and 'variable'
   var myGroups = d3.map(data, function(d){return d.Term;}).keys()
   var myVars = d3.map(data, function(d){return d.course;}).keys()
-  myVars.sort();
-  myVars.reverse();
+  myVars.sort().reverse();
 
   // Build X scales and axis:
   var x = d3.scaleBand()
@@ -150,7 +149,11 @@ d3.csv("data_small.csv", function(data) {
       .attr("ry", 4)
       .attr("width", x.bandwidth() )
       .attr("height", y.bandwidth() )
-      .style("fill", function(d) {return myColor(d.percent);} )
+      .style("fill", function(d) {
+                      if(d) {
+                        return myColor(d.percent);
+                        } 
+                        else {return '#fff';}} )
       .style("stroke-width", 4)
       .style("stroke", "none")
       .style("opacity", 0.8)
