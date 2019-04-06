@@ -78,6 +78,7 @@ d3.csv("data_small.csv", function(data) {
   
  svg.append("g")
     .style("font-size", 12)
+    .style('font-family','monospace')
     .attr("transform", "translate(0," + height + ")")
     .call(d3.axisBottom(x).tickSize(0))
     .attr('id','xtext')
@@ -91,6 +92,7 @@ d3.csv("data_small.csv", function(data) {
     .padding(0.1);
   svg.append("g")
     .style("font-size", 12)
+    .style('font-family','monospace')
     .call(d3.axisLeft(y).tickSize(0))
     .select(".domain").remove()
 
@@ -139,9 +141,21 @@ d3.csv("data_small.csv", function(data) {
       .style("opacity", 0.8) 
   }
 
+  svg.append('defs')
+            .append('pattern')
+            .attr('id', 'diagonalHatch')
+            .attr('patternUnits', 'userSpaceOnUse')
+            .attr('width', 4)
+            .attr('height', 4)
+            .append('path')
+            .attr('d', 'M-1,1 l2,-2 M0,4 l4,-4 M3,5 l2,-2')
+            .attr('stroke', '#000000')
+            .attr('stroke-width', 1);
+
+
   // add the squares
   svg.selectAll()
-    .data(data, function(d) {return d.Term+':'+d.course ;})
+    .data(data, function(d) {return d.Term+':'+d.course;})
     .enter()
     .append("rect")
       .attr("x", function(d) { return x(d.Term) })
@@ -150,7 +164,11 @@ d3.csv("data_small.csv", function(data) {
       .attr("ry", 4)
       .attr("width", x.bandwidth() )
       .attr("height", y.bandwidth() )
-      .style("fill", function(d) {return myColor(d.percent);} )
+      .style("fill", function(d) { 
+                          if(d.percent !==''){
+                            return myColor(d.percent);
+                          } else { return "url(#diagonalHatch)";}
+                              } )
       .style("stroke-width", 4)
       .style("stroke", "none")
       .style("opacity", 0.8)
@@ -158,6 +176,7 @@ d3.csv("data_small.csv", function(data) {
     .on("mousemove", mousemove)
     .on("mouseleave", mouseleave)
   
+
  
 
 svg.selectAll('#xtext text').call(wrap, 10); 
