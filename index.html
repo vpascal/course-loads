@@ -163,19 +163,11 @@ d3.csv("data_small.csv", function(data) {
       .attr("ry", 4)
       .attr("width", x.bandwidth() )
       .attr("height", y.bandwidth() )
-<<<<<<< HEAD
       .style("fill", function(d) { 
                           if(d.percent !==''){
                             return myColor(d.percent);
                           } else { return "url(#diagonalHatch)";}
                               } )
-=======
-      .style("fill", function(d) {
-                      if(d) {
-                        return myColor(d.percent);
-                        } 
-                        else {return '#fff';}} )
->>>>>>> 477069434e8e6b41837db66f64c56f64fa8d8517
       .style("stroke-width", 4)
       .style("stroke", "none")
       .style("opacity", 0.8)
