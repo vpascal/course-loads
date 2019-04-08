@@ -129,8 +129,8 @@ svg.append("g")
                 + "<br>Term: "+ d.Term
                 + "<br>Course ID: "+d.course
                 + "<br>Course: "+d.class)
-      .style("left", (d3.mouse(this)[0]+70) + "px")
-      .style("top", (d3.mouse(this)[1]) + "px")
+      .style("left", (d3.mouse(this)[0]+10) + "px")
+      .style("top", (d3.mouse(this)[1]+100) + "px")
   }
   let mouseleave = function(d) {
     tooltip
