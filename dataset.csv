@@ -202,19 +202,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Fall 13-14",0
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Fall 13-14",0
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Fall 13-14",98
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Fall 13-14",
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Fall 13-14",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Fall 13-14",
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Fall 13-14",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Fall 13-14",
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Fall 13-14",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Fall 13-14",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Fall 13-14",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Fall 13-14",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Fall 13-14",0
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Fall 13-14",0
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Fall 13-14",0
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Fall 13-14",0
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Fall 13-14",20
 "HCSE","CONS 5953","Graduate","Customer Service","Fall 13-14",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Fall 13-14",13.3
@@ -236,7 +223,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Fall 13-14",
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Fall 13-14",
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Fall 13-14",
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Fall 13-14",
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Fall 13-14",20
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Fall 13-14",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Fall 13-14",33.3
@@ -248,13 +234,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Fall 13-14",60
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Fall 13-14",100
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Fall 13-14",73.3
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Fall 13-14",26.7
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Fall 13-14",65
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Fall 13-14",61.7
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Fall 13-14",
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Fall 13-14",18.3
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Fall 13-14",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Fall 13-14",13.3
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Fall 13-14",94.4
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Fall 13-14",7.1
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Fall 13-14",100
@@ -275,7 +259,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Fall 13-14",
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Fall 13-14",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Fall 13-14",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Fall 13-14",10
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Fall 13-14",5
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Fall 13-14",0
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Fall 13-14",100
@@ -305,7 +288,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Fall 13-14",10
 "RSP","COED 6941","Graduate","Special Problems","Fall 13-14",5
 "RSP","COED 6950","Graduate","Thesis","Fall 13-14",0
-"RSP","REC 5240","Graduate","Outdoor Leadership","Fall 13-14",
 "RSP","REC 5400","Graduate","Environmental Interpretation","Fall 13-14",60
 "RSP","REC 5430","Graduate","Marketing for Recreation","Fall 13-14",
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Fall 13-14",
@@ -417,22 +399,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Fall 13-14",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Fall 13-14",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Fall 13-14",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Fall 13-14",90
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Fall 13-14",
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Fall 13-14",100
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Fall 13-14",70
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Fall 13-14",96.7
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Fall 13-14",20
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Fall 13-14",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Fall 13-14",
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Fall 13-14",80
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Fall 13-14",90
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Fall 13-14",100
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Fall 13-14",70
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Fall 13-14",
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Fall 13-14",
-"RSP","REC 1190","Undergraduate","Caving","Fall 13-14",90
-"RSP","REC 1200","Undergraduate","Mountain Biking","Fall 13-14",90
 "RSP","REC 1220","Undergraduate","Scuba Diver","Fall 13-14",81.8
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Fall 13-14",48
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Fall 13-14",60
@@ -441,9 +409,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Fall 13-14",100
 "RSP","REC 3100","Undergraduate","Recreation Programming","Fall 13-14",100
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Fall 13-14",
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Fall 13-14",
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Fall 13-14",100
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Fall 13-14",
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Fall 13-14",100
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Fall 13-14",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Fall 13-14",100
@@ -461,18 +426,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Fall 13-14",32
 "RSP","REC 4850","Undergraduate","Adventure Programming","Fall 13-14",84
 "RSP","REC 4901","Undergraduate","Special Topics","Fall 13-14",30
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Fall 13-14",15
 "RSP","REC 4920","Undergraduate","Practicum","Fall 13-14",0
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Fall 13-14",100
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Fall 13-14",12
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Fall 13-14",8
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Fall 13-14",8
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Fall 13-14",12
-"TEDU","EDPL 5620","Graduate","Professional Internship","Fall 13-14",12.5
-"TEDU","EDPL 5630","Graduate","Professional Internship","Fall 13-14",12.5
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Fall 13-14",12.5
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Fall 13-14",0
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Fall 13-14",23.8
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Fall 13-14",72
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Fall 13-14",
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Fall 13-14",40
@@ -490,18 +449,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Fall 13-14",60
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Fall 13-14",
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Fall 13-14",100
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Fall 13-14",4
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Fall 13-14",12.5
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Fall 13-14",100
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Fall 13-14",100
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Fall 13-14",100
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Fall 13-14",100
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Fall 13-14",35
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Fall 13-14",100
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Fall 13-14",15
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Fall 13-14",50
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Fall 13-14",
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Fall 13-14",
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Fall 13-14",
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Fall 13-14",16.7
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Fall 13-14",50
@@ -511,14 +467,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Fall 13-14",8.5
 "TEDU","EDTE 6930","Graduate","Research in Education","Fall 13-14",33.3
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Fall 13-14",90
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Fall 13-14",53.3
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Fall 13-14",
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Fall 13-14",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Fall 13-14",
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Fall 13-14",32.2
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Fall 13-14",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Fall 13-14",66.7
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Fall 13-14",33.3
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Fall 13-14",
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Fall 13-14",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Fall 13-14",15
@@ -579,31 +533,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Fall 13-14",93.3
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Fall 13-14",
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Fall 13-14",
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Fall 13-14",
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Fall 13-14",72
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Fall 13-14",53.3
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Fall 13-14",53.3
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Fall 13-14",40
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Fall 13-14",32
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Fall 13-14",
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Fall 13-14",
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Fall 13-14",19.3
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Fall 13-14",11.7
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Fall 13-14",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Fall 13-14",
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Fall 13-14",27.6
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Fall 13-14",27.9
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Fall 13-14",23.7
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Fall 13-14",23.9
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Fall 13-14",13.9
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Fall 13-14",10.2
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Fall 13-14",34.7
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Fall 13-14",75
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Fall 13-14",50
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Fall 13-14",88.3
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Fall 13-14",63.7
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Fall 13-14",46.7
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Fall 13-14",46.7
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Fall 13-14",76
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Fall 13-14",63.3
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Fall 13-14",98.3
@@ -837,19 +773,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Spr 13-14",
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Spr 13-14",0
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Spr 13-14",100
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Spr 13-14",
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Spr 13-14",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Spr 13-14",
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Spr 13-14",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Spr 13-14",
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Spr 13-14",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Spr 13-14",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Spr 13-14",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Spr 13-14",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Spr 13-14",
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Spr 13-14",
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Spr 13-14",
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Spr 13-14",
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Spr 13-14",0
 "HCSE","CONS 5953","Graduate","Customer Service","Spr 13-14",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Spr 13-14",
@@ -871,7 +794,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Spr 13-14",
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Spr 13-14",
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Spr 13-14",
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Spr 13-14",50
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Spr 13-14",20
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Spr 13-14",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Spr 13-14",69.2
@@ -883,13 +805,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Spr 13-14",93.3
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Spr 13-14",100
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Spr 13-14",
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Spr 13-14",100
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Spr 13-14",
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Spr 13-14",53.3
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Spr 13-14",78.3
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Spr 13-14",8.3
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Spr 13-14",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Spr 13-14",26.7
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Spr 13-14",
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Spr 13-14",31.8
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Spr 13-14",83.6
@@ -910,7 +830,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Spr 13-14",100
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Spr 13-14",0
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Spr 13-14",0
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Spr 13-14",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Spr 13-14",35
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Spr 13-14",0
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Spr 13-14",
@@ -940,7 +859,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Spr 13-14",10
 "RSP","COED 6941","Graduate","Special Problems","Spr 13-14",20
 "RSP","COED 6950","Graduate","Thesis","Spr 13-14",0
-"RSP","REC 5240","Graduate","Outdoor Leadership","Spr 13-14",
 "RSP","REC 5400","Graduate","Environmental Interpretation","Spr 13-14",
 "RSP","REC 5430","Graduate","Marketing for Recreation","Spr 13-14",
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Spr 13-14",
@@ -1052,22 +970,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Spr 13-14",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Spr 13-14",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Spr 13-14",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Spr 13-14",100
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Spr 13-14",60
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Spr 13-14",100
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Spr 13-14",60
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Spr 13-14",100
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Spr 13-14",40
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Spr 13-14",11.1
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Spr 13-14",100
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Spr 13-14",80
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Spr 13-14",90
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Spr 13-14",
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Spr 13-14",100
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Spr 13-14",
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Spr 13-14",
-"RSP","REC 1190","Undergraduate","Caving","Spr 13-14",96.7
-"RSP","REC 1200","Undergraduate","Mountain Biking","Spr 13-14",90
 "RSP","REC 1220","Undergraduate","Scuba Diver","Spr 13-14",81.8
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Spr 13-14",
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Spr 13-14",73.3
@@ -1076,9 +980,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Spr 13-14",90
 "RSP","REC 3100","Undergraduate","Recreation Programming","Spr 13-14",76.7
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Spr 13-14",70
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Spr 13-14",
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Spr 13-14",
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Spr 13-14",
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Spr 13-14",
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Spr 13-14",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Spr 13-14",
@@ -1096,18 +997,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Spr 13-14",
 "RSP","REC 4850","Undergraduate","Adventure Programming","Spr 13-14",
 "RSP","REC 4901","Undergraduate","Special Topics","Spr 13-14",0
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Spr 13-14",64
 "RSP","REC 4920","Undergraduate","Practicum","Spr 13-14",10
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Spr 13-14",
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Spr 13-14",
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Spr 13-14",
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Spr 13-14",
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Spr 13-14",
-"TEDU","EDPL 5620","Graduate","Professional Internship","Spr 13-14",44.3
-"TEDU","EDPL 5630","Graduate","Professional Internship","Spr 13-14",44.3
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Spr 13-14",33.3
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Spr 13-14",
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Spr 13-14",
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Spr 13-14",
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Spr 13-14",32
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Spr 13-14",
@@ -1125,18 +1020,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Spr 13-14",0
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Spr 13-14",
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Spr 13-14",
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Spr 13-14",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Spr 13-14",20
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Spr 13-14",
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Spr 13-14",
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Spr 13-14",
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Spr 13-14",
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Spr 13-14",97.5
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Spr 13-14",0
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Spr 13-14",10
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Spr 13-14",
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Spr 13-14",100
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Spr 13-14",60
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Spr 13-14",100
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Spr 13-14",22.3
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Spr 13-14",
@@ -1146,14 +1038,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Spr 13-14",26
 "TEDU","EDTE 6930","Graduate","Research in Education","Spr 13-14",100
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Spr 13-14",
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Spr 13-14",
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Spr 13-14",
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Spr 13-14",20
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Spr 13-14",20
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Spr 13-14",59.5
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Spr 13-14",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Spr 13-14",
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Spr 13-14",
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Spr 13-14",85
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Spr 13-14",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Spr 13-14",
@@ -1214,31 +1104,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Spr 13-14",
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Spr 13-14",90
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Spr 13-14",70
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Spr 13-14",70
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Spr 13-14",
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Spr 13-14",
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Spr 13-14",
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Spr 13-14",
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Spr 13-14",
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Spr 13-14",63.3
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Spr 13-14",63.3
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Spr 13-14",20
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Spr 13-14",40
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Spr 13-14",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Spr 13-14",0
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Spr 13-14",19.6
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Spr 13-14",22.6
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Spr 13-14",28.7
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Spr 13-14",29.4
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Spr 13-14",26.1
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Spr 13-14",23.1
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Spr 13-14",64.1
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Spr 13-14",82.5
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Spr 13-14",55
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Spr 13-14",63.3
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Spr 13-14",44.2
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Spr 13-14",
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Spr 13-14",
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Spr 13-14",
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Spr 13-14",
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Spr 13-14",84.4
@@ -1472,19 +1344,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Sum 13-14",2
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Sum 13-14",2
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Sum 13-14",98
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Sum 13-14",
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Sum 13-14",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Sum 13-14",
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Sum 13-14",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Sum 13-14",
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Sum 13-14",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Sum 13-14",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Sum 13-14",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Sum 13-14",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Sum 13-14",
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Sum 13-14",
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Sum 13-14",
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Sum 13-14",
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Sum 13-14",
 "HCSE","CONS 5953","Graduate","Customer Service","Sum 13-14",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Sum 13-14",0
@@ -1506,7 +1365,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Sum 13-14",28
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Sum 13-14",
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Sum 13-14",
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Sum 13-14",12
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Sum 13-14",
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Sum 13-14",0
 "HCSE","CONS 4953","Undergraduate","Customer Service","Sum 13-14",
@@ -1518,13 +1376,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Sum 13-14",
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Sum 13-14",
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Sum 13-14",
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Sum 13-14",66.7
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Sum 13-14",
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Sum 13-14",
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Sum 13-14",
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Sum 13-14",60
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Sum 13-14",20
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Sum 13-14",100
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Sum 13-14",
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Sum 13-14",
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Sum 13-14",
@@ -1545,7 +1401,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Sum 13-14",
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Sum 13-14",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Sum 13-14",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Sum 13-14",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Sum 13-14",100
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Sum 13-14",
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Sum 13-14",60
@@ -1575,7 +1430,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Sum 13-14",10
 "RSP","COED 6941","Graduate","Special Problems","Sum 13-14",30
 "RSP","COED 6950","Graduate","Thesis","Sum 13-14",
-"RSP","REC 5240","Graduate","Outdoor Leadership","Sum 13-14",10
 "RSP","REC 5400","Graduate","Environmental Interpretation","Sum 13-14",
 "RSP","REC 5430","Graduate","Marketing for Recreation","Sum 13-14",
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Sum 13-14",
@@ -1687,22 +1541,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Sum 13-14",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Sum 13-14",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Sum 13-14",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Sum 13-14",
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Sum 13-14",
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Sum 13-14",
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Sum 13-14",
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Sum 13-14",
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Sum 13-14",
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Sum 13-14",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Sum 13-14",
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Sum 13-14",
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Sum 13-14",
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Sum 13-14",
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Sum 13-14",
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Sum 13-14",
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Sum 13-14",
-"RSP","REC 1190","Undergraduate","Caving","Sum 13-14",
-"RSP","REC 1200","Undergraduate","Mountain Biking","Sum 13-14",
 "RSP","REC 1220","Undergraduate","Scuba Diver","Sum 13-14",
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Sum 13-14",
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Sum 13-14",64
@@ -1711,9 +1551,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Sum 13-14",
 "RSP","REC 3100","Undergraduate","Recreation Programming","Sum 13-14",
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Sum 13-14",
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Sum 13-14",95.5
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Sum 13-14",
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Sum 13-14",100
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Sum 13-14",
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Sum 13-14",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Sum 13-14",
@@ -1731,18 +1568,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Sum 13-14",
 "RSP","REC 4850","Undergraduate","Adventure Programming","Sum 13-14",
 "RSP","REC 4901","Undergraduate","Special Topics","Sum 13-14",0
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Sum 13-14",64
 "RSP","REC 4920","Undergraduate","Practicum","Sum 13-14",5
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Sum 13-14",28
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Sum 13-14",92
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Sum 13-14",88
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Sum 13-14",88
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Sum 13-14",92
-"TEDU","EDPL 5620","Graduate","Professional Internship","Sum 13-14",
-"TEDU","EDPL 5630","Graduate","Professional Internship","Sum 13-14",
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Sum 13-14",
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Sum 13-14",
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Sum 13-14",
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Sum 13-14",46.7
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Sum 13-14",
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Sum 13-14",
@@ -1760,18 +1591,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Sum 13-14",
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Sum 13-14",
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Sum 13-14",60
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Sum 13-14",20
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Sum 13-14",100
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Sum 13-14",100
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Sum 13-14",54.6
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Sum 13-14",47.7
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Sum 13-14",
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Sum 13-14",51.8
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Sum 13-14",28.3
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Sum 13-14",
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Sum 13-14",
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Sum 13-14",
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Sum 13-14",
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Sum 13-14",66.7
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Sum 13-14",15.8
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Sum 13-14",
@@ -1781,14 +1609,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Sum 13-14",11.4
 "TEDU","EDTE 6930","Graduate","Research in Education","Sum 13-14",100
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Sum 13-14",
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Sum 13-14",
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Sum 13-14",
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Sum 13-14",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Sum 13-14",
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Sum 13-14",8.9
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Sum 13-14",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Sum 13-14",
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Sum 13-14",
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Sum 13-14",
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Sum 13-14",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Sum 13-14",
@@ -1849,31 +1675,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Sum 13-14",
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Sum 13-14",
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Sum 13-14",
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Sum 13-14",
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Sum 13-14",
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Sum 13-14",
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Sum 13-14",
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Sum 13-14",
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Sum 13-14",
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Sum 13-14",
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Sum 13-14",
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Sum 13-14",
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Sum 13-14",4
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Sum 13-14",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Sum 13-14",
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Sum 13-14",0
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Sum 13-14",0
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Sum 13-14",6.7
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Sum 13-14",6.7
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Sum 13-14",0
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Sum 13-14",0
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Sum 13-14",6.7
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Sum 13-14",52
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Sum 13-14",52
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Sum 13-14",
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Sum 13-14",
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Sum 13-14",
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Sum 13-14",
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Sum 13-14",
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Sum 13-14",
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Sum 13-14",
@@ -2107,19 +1915,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Fall 14-15",0
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Fall 14-15",0
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Fall 14-15",100
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Fall 14-15",
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Fall 14-15",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Fall 14-15",
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Fall 14-15",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Fall 14-15",
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Fall 14-15",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Fall 14-15",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Fall 14-15",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Fall 14-15",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Fall 14-15",20
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Fall 14-15",0
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Fall 14-15",16.7
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Fall 14-15",0
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Fall 14-15",0
 "HCSE","CONS 5953","Graduate","Customer Service","Fall 14-15",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Fall 14-15",20
@@ -2141,7 +1936,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Fall 14-15",
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Fall 14-15",
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Fall 14-15",
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Fall 14-15",8
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Fall 14-15",20
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Fall 14-15",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Fall 14-15",17.1
@@ -2153,13 +1947,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Fall 14-15",100
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Fall 14-15",100
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Fall 14-15",91.7
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Fall 14-15",13.3
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Fall 14-15",85
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Fall 14-15",
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Fall 14-15",
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Fall 14-15",18.3
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Fall 14-15",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Fall 14-15",26.7
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Fall 14-15",100
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Fall 14-15",0
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Fall 14-15",95.6
@@ -2180,7 +1972,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Fall 14-15",
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Fall 14-15",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Fall 14-15",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Fall 14-15",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Fall 14-15",10
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Fall 14-15",0
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Fall 14-15",
@@ -2210,7 +2001,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Fall 14-15",0
 "RSP","COED 6941","Graduate","Special Problems","Fall 14-15",15
 "RSP","COED 6950","Graduate","Thesis","Fall 14-15",0
-"RSP","REC 5240","Graduate","Outdoor Leadership","Fall 14-15",
 "RSP","REC 5400","Graduate","Environmental Interpretation","Fall 14-15",
 "RSP","REC 5430","Graduate","Marketing for Recreation","Fall 14-15",
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Fall 14-15",
@@ -2322,22 +2112,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Fall 14-15",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Fall 14-15",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Fall 14-15",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Fall 14-15",90
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Fall 14-15",
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Fall 14-15",100
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Fall 14-15",50
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Fall 14-15",90
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Fall 14-15",
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Fall 14-15",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Fall 14-15",
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Fall 14-15",93.3
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Fall 14-15",93.3
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Fall 14-15",90
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Fall 14-15",50
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Fall 14-15",
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Fall 14-15",
-"RSP","REC 1190","Undergraduate","Caving","Fall 14-15",80
-"RSP","REC 1200","Undergraduate","Mountain Biking","Fall 14-15",85
 "RSP","REC 1220","Undergraduate","Scuba Diver","Fall 14-15",75
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Fall 14-15",46
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Fall 14-15",59.2
@@ -2346,9 +2122,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Fall 14-15",73.3
 "RSP","REC 3100","Undergraduate","Recreation Programming","Fall 14-15",73.3
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Fall 14-15",
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Fall 14-15",
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Fall 14-15",53.3
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Fall 14-15",
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Fall 14-15",
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Fall 14-15",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Fall 14-15",100
@@ -2366,18 +2139,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Fall 14-15",
 "RSP","REC 4850","Undergraduate","Adventure Programming","Fall 14-15",64
 "RSP","REC 4901","Undergraduate","Special Topics","Fall 14-15",0
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Fall 14-15",0
 "RSP","REC 4920","Undergraduate","Practicum","Fall 14-15",10
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Fall 14-15",
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Fall 14-15",
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Fall 14-15",
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Fall 14-15",
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Fall 14-15",
-"TEDU","EDPL 5620","Graduate","Professional Internship","Fall 14-15",12.5
-"TEDU","EDPL 5630","Graduate","Professional Internship","Fall 14-15",10
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Fall 14-15",10
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Fall 14-15",
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Fall 14-15",21.2
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Fall 14-15",56
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Fall 14-15",
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Fall 14-15",20
@@ -2395,18 +2162,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Fall 14-15",20
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Fall 14-15",
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Fall 14-15",
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Fall 14-15",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Fall 14-15",3.3
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Fall 14-15",80
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Fall 14-15",64.4
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Fall 14-15",64
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Fall 14-15",100
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Fall 14-15",15
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Fall 14-15",53.3
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Fall 14-15",30
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Fall 14-15",20
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Fall 14-15",100
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Fall 14-15",0
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Fall 14-15",
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Fall 14-15",38.7
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Fall 14-15",42.5
@@ -2416,14 +2180,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Fall 14-15",7.6
 "TEDU","EDTE 6930","Graduate","Research in Education","Fall 14-15",26.7
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Fall 14-15",50
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Fall 14-15",0
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Fall 14-15",10
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Fall 14-15",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Fall 14-15",0
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Fall 14-15",53.8
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Fall 14-15",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Fall 14-15",50
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Fall 14-15",33.3
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Fall 14-15",
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Fall 14-15",85
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Fall 14-15",
@@ -2484,31 +2246,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Fall 14-15",90
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Fall 14-15",
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Fall 14-15",40
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Fall 14-15",40
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Fall 14-15",68
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Fall 14-15",16.7
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Fall 14-15",16.7
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Fall 14-15",25
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Fall 14-15",25
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Fall 14-15",66.7
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Fall 14-15",66.7
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Fall 14-15",50.7
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Fall 14-15",6.2
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Fall 14-15",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Fall 14-15",0
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Fall 14-15",19.3
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Fall 14-15",19.3
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Fall 14-15",16.4
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Fall 14-15",15.3
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Fall 14-15",10.1
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Fall 14-15",6.2
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Fall 14-15",25.8
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Fall 14-15",80
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Fall 14-15",53.3
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Fall 14-15",68.3
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Fall 14-15",32.2
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Fall 14-15",13.3
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Fall 14-15",13.3
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Fall 14-15",63.3
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Fall 14-15",76
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Fall 14-15",91.7
@@ -2742,19 +2486,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Spr 14-15",
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Spr 14-15",6.7
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Spr 14-15",92.7
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Spr 14-15",
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Spr 14-15",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Spr 14-15",
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Spr 14-15",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Spr 14-15",
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Spr 14-15",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Spr 14-15",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Spr 14-15",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Spr 14-15",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Spr 14-15",4
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Spr 14-15",20
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Spr 14-15",20
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Spr 14-15",20
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Spr 14-15",10
 "HCSE","CONS 5953","Graduate","Customer Service","Spr 14-15",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Spr 14-15",13.3
@@ -2776,7 +2507,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Spr 14-15",
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Spr 14-15",33.3
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Spr 14-15",
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Spr 14-15",40
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Spr 14-15",20
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Spr 14-15",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Spr 14-15",100
@@ -2788,13 +2518,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Spr 14-15",100
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Spr 14-15",100
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Spr 14-15",
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Spr 14-15",100
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Spr 14-15",
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Spr 14-15",85
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Spr 14-15",100
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Spr 14-15",18.3
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Spr 14-15",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Spr 14-15",60
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Spr 14-15",
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Spr 14-15",9.5
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Spr 14-15",98.2
@@ -2815,7 +2543,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Spr 14-15",87.5
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Spr 14-15",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Spr 14-15",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Spr 14-15",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Spr 14-15",10
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Spr 14-15",0
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Spr 14-15",
@@ -2845,7 +2572,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Spr 14-15",0
 "RSP","COED 6941","Graduate","Special Problems","Spr 14-15",32.5
 "RSP","COED 6950","Graduate","Thesis","Spr 14-15",0
-"RSP","REC 5240","Graduate","Outdoor Leadership","Spr 14-15",
 "RSP","REC 5400","Graduate","Environmental Interpretation","Spr 14-15",
 "RSP","REC 5430","Graduate","Marketing for Recreation","Spr 14-15",
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Spr 14-15",
@@ -2957,22 +2683,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Spr 14-15",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Spr 14-15",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Spr 14-15",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Spr 14-15",86.7
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Spr 14-15",90
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Spr 14-15",80
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Spr 14-15",70
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Spr 14-15",95
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Spr 14-15",20
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Spr 14-15",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Spr 14-15",100
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Spr 14-15",60
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Spr 14-15",90
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Spr 14-15",100
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Spr 14-15",80
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Spr 14-15",100
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Spr 14-15",
-"RSP","REC 1190","Undergraduate","Caving","Spr 14-15",76.7
-"RSP","REC 1200","Undergraduate","Mountain Biking","Spr 14-15",90
 "RSP","REC 1220","Undergraduate","Scuba Diver","Spr 14-15",84.1
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Spr 14-15",
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Spr 14-15",63.3
@@ -2981,9 +2693,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Spr 14-15",63.3
 "RSP","REC 3100","Undergraduate","Recreation Programming","Spr 14-15",66.7
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Spr 14-15",70
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Spr 14-15",
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Spr 14-15",
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Spr 14-15",
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Spr 14-15",
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Spr 14-15",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Spr 14-15",
@@ -3001,18 +2710,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Spr 14-15",80
 "RSP","REC 4850","Undergraduate","Adventure Programming","Spr 14-15",
 "RSP","REC 4901","Undergraduate","Special Topics","Spr 14-15",3.3
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Spr 14-15",48
 "RSP","REC 4920","Undergraduate","Practicum","Spr 14-15",6.7
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Spr 14-15",
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Spr 14-15",
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Spr 14-15",
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Spr 14-15",
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Spr 14-15",
-"TEDU","EDPL 5620","Graduate","Professional Internship","Spr 14-15",31.2
-"TEDU","EDPL 5630","Graduate","Professional Internship","Spr 14-15",31.2
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Spr 14-15",28
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Spr 14-15",
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Spr 14-15",
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Spr 14-15",
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Spr 14-15",12
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Spr 14-15",
@@ -3030,18 +2733,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Spr 14-15",20
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Spr 14-15",
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Spr 14-15",
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Spr 14-15",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Spr 14-15",0
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Spr 14-15",
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Spr 14-15",
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Spr 14-15",
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Spr 14-15",
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Spr 14-15",56.2
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Spr 14-15",10
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Spr 14-15",15
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Spr 14-15",
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Spr 14-15",
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Spr 14-15",
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Spr 14-15",100
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Spr 14-15",18.9
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Spr 14-15",
@@ -3051,14 +2751,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Spr 14-15",22.7
 "TEDU","EDTE 6930","Graduate","Research in Education","Spr 14-15",100
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Spr 14-15",
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Spr 14-15",
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Spr 14-15",
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Spr 14-15",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Spr 14-15",
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Spr 14-15",38.3
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Spr 14-15",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Spr 14-15",
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Spr 14-15",
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Spr 14-15",
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Spr 14-15",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Spr 14-15",
@@ -3119,31 +2817,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Spr 14-15",
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Spr 14-15",90
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Spr 14-15",
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Spr 14-15",
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Spr 14-15",
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Spr 14-15",
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Spr 14-15",
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Spr 14-15",
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Spr 14-15",
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Spr 14-15",
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Spr 14-15",
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Spr 14-15",23.7
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Spr 14-15",3
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Spr 14-15",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Spr 14-15",
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Spr 14-15",31
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Spr 14-15",31
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Spr 14-15",17.1
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Spr 14-15",11
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Spr 14-15",19
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Spr 14-15",14.6
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Spr 14-15",44.7
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Spr 14-15",42.5
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Spr 14-15",28.3
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Spr 14-15",56.7
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Spr 14-15",66.7
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Spr 14-15",
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Spr 14-15",
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Spr 14-15",
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Spr 14-15",
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Spr 14-15",86.7
@@ -3377,19 +3057,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Sum 14-15",
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Sum 14-15",
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Sum 14-15",64
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Sum 14-15",
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Sum 14-15",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Sum 14-15",
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Sum 14-15",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Sum 14-15",
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Sum 14-15",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Sum 14-15",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Sum 14-15",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Sum 14-15",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Sum 14-15",
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Sum 14-15",
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Sum 14-15",
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Sum 14-15",
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Sum 14-15",
 "HCSE","CONS 5953","Graduate","Customer Service","Sum 14-15",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Sum 14-15",0
@@ -3411,7 +3078,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Sum 14-15",40
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Sum 14-15",
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Sum 14-15",20
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Sum 14-15",
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Sum 14-15",
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Sum 14-15",10
 "HCSE","CONS 4953","Undergraduate","Customer Service","Sum 14-15",25
@@ -3423,13 +3089,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Sum 14-15",
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Sum 14-15",
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Sum 14-15",
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Sum 14-15",26.7
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Sum 14-15",
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Sum 14-15",
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Sum 14-15",
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Sum 14-15",72
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Sum 14-15",0
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Sum 14-15",100
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Sum 14-15",
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Sum 14-15",
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Sum 14-15",
@@ -3450,7 +3114,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Sum 14-15",
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Sum 14-15",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Sum 14-15",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Sum 14-15",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Sum 14-15",100
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Sum 14-15",
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Sum 14-15",
@@ -3480,7 +3143,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Sum 14-15",20
 "RSP","COED 6941","Graduate","Special Problems","Sum 14-15",20
 "RSP","COED 6950","Graduate","Thesis","Sum 14-15",
-"RSP","REC 5240","Graduate","Outdoor Leadership","Sum 14-15",0
 "RSP","REC 5400","Graduate","Environmental Interpretation","Sum 14-15",
 "RSP","REC 5430","Graduate","Marketing for Recreation","Sum 14-15",
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Sum 14-15",
@@ -3592,22 +3254,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Sum 14-15",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Sum 14-15",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Sum 14-15",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Sum 14-15",
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Sum 14-15",
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Sum 14-15",
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Sum 14-15",
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Sum 14-15",
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Sum 14-15",
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Sum 14-15",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Sum 14-15",
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Sum 14-15",
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Sum 14-15",
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Sum 14-15",
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Sum 14-15",
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Sum 14-15",
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Sum 14-15",
-"RSP","REC 1190","Undergraduate","Caving","Sum 14-15",
-"RSP","REC 1200","Undergraduate","Mountain Biking","Sum 14-15",
 "RSP","REC 1220","Undergraduate","Scuba Diver","Sum 14-15",
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Sum 14-15",
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Sum 14-15",84
@@ -3616,9 +3264,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Sum 14-15",
 "RSP","REC 3100","Undergraduate","Recreation Programming","Sum 14-15",
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Sum 14-15",
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Sum 14-15",64
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Sum 14-15",
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Sum 14-15",91.7
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Sum 14-15",
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Sum 14-15",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Sum 14-15",
@@ -3636,18 +3281,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Sum 14-15",
 "RSP","REC 4850","Undergraduate","Adventure Programming","Sum 14-15",
 "RSP","REC 4901","Undergraduate","Special Topics","Sum 14-15",
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Sum 14-15",100
 "RSP","REC 4920","Undergraduate","Practicum","Sum 14-15",0
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Sum 14-15",
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Sum 14-15",78
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Sum 14-15",74
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Sum 14-15",74
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Sum 14-15",76
-"TEDU","EDPL 5620","Graduate","Professional Internship","Sum 14-15",
-"TEDU","EDPL 5630","Graduate","Professional Internship","Sum 14-15",
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Sum 14-15",
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Sum 14-15",
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Sum 14-15",
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Sum 14-15",63.3
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Sum 14-15",
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Sum 14-15",
@@ -3665,18 +3304,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Sum 14-15",
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Sum 14-15",
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Sum 14-15",33.8
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Sum 14-15",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Sum 14-15",89.2
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Sum 14-15",100
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Sum 14-15",56
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Sum 14-15",53
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Sum 14-15",
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Sum 14-15",53.3
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Sum 14-15",80
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Sum 14-15",
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Sum 14-15",
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Sum 14-15",
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Sum 14-15",
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Sum 14-15",100
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Sum 14-15",30
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Sum 14-15",
@@ -3686,14 +3322,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Sum 14-15",13.8
 "TEDU","EDTE 6930","Graduate","Research in Education","Sum 14-15",40
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Sum 14-15",
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Sum 14-15",
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Sum 14-15",
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Sum 14-15",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Sum 14-15",
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Sum 14-15",4.3
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Sum 14-15",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Sum 14-15",
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Sum 14-15",
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Sum 14-15",
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Sum 14-15",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Sum 14-15",
@@ -3754,31 +3388,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Sum 14-15",
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Sum 14-15",
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Sum 14-15",
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Sum 14-15",
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Sum 14-15",
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Sum 14-15",
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Sum 14-15",
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Sum 14-15",
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Sum 14-15",
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Sum 14-15",
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Sum 14-15",
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Sum 14-15",10
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Sum 14-15",0
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Sum 14-15",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Sum 14-15",
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Sum 14-15",2
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Sum 14-15",2
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Sum 14-15",6
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Sum 14-15",6
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Sum 14-15",2
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Sum 14-15",2
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Sum 14-15",10
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Sum 14-15",84
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Sum 14-15",84
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Sum 14-15",
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Sum 14-15",
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Sum 14-15",
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Sum 14-15",
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Sum 14-15",
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Sum 14-15",
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Sum 14-15",
@@ -4012,19 +3628,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Fall 15-16",0
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Fall 15-16",0
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Fall 15-16",96
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Fall 15-16",
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Fall 15-16",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Fall 15-16",46.7
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Fall 15-16",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Fall 15-16",
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Fall 15-16",20
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Fall 15-16",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Fall 15-16",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Fall 15-16",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Fall 15-16",12
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Fall 15-16",10
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Fall 15-16",10
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Fall 15-16",0
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Fall 15-16",0
 "HCSE","CONS 5953","Graduate","Customer Service","Fall 15-16",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Fall 15-16",13.3
@@ -4046,7 +3649,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Fall 15-16",
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Fall 15-16",
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Fall 15-16",
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Fall 15-16",24
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Fall 15-16",0
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Fall 15-16",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Fall 15-16",45.7
@@ -4058,13 +3660,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Fall 15-16",100
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Fall 15-16",100
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Fall 15-16",91.7
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Fall 15-16",40
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Fall 15-16",71.7
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Fall 15-16",46.7
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Fall 15-16",
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Fall 15-16",13.3
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Fall 15-16",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Fall 15-16",26.7
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Fall 15-16",100
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Fall 15-16",0
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Fall 15-16",94.5
@@ -4085,7 +3685,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Fall 15-16",
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Fall 15-16",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Fall 15-16",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Fall 15-16",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Fall 15-16",10
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Fall 15-16",20
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Fall 15-16",
@@ -4115,7 +3714,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Fall 15-16",16.7
 "RSP","COED 6941","Graduate","Special Problems","Fall 15-16",20
 "RSP","COED 6950","Graduate","Thesis","Fall 15-16",0
-"RSP","REC 5240","Graduate","Outdoor Leadership","Fall 15-16",
 "RSP","REC 5400","Graduate","Environmental Interpretation","Fall 15-16",40
 "RSP","REC 5430","Graduate","Marketing for Recreation","Fall 15-16",
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Fall 15-16",
@@ -4227,22 +3825,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Fall 15-16",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Fall 15-16",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Fall 15-16",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Fall 15-16",97.5
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Fall 15-16",
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Fall 15-16",70
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Fall 15-16",60
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Fall 15-16",100
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Fall 15-16",
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Fall 15-16",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Fall 15-16",
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Fall 15-16",83.3
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Fall 15-16",100
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Fall 15-16",90
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Fall 15-16",70
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Fall 15-16",
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Fall 15-16",
-"RSP","REC 1190","Undergraduate","Caving","Fall 15-16",80
-"RSP","REC 1200","Undergraduate","Mountain Biking","Fall 15-16",90
 "RSP","REC 1220","Undergraduate","Scuba Diver","Fall 15-16",
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Fall 15-16",60
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Fall 15-16",52.5
@@ -4251,9 +3835,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Fall 15-16",50
 "RSP","REC 3100","Undergraduate","Recreation Programming","Fall 15-16",73.3
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Fall 15-16",
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Fall 15-16",
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Fall 15-16",
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Fall 15-16",
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Fall 15-16",84
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Fall 15-16",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Fall 15-16",100
@@ -4271,18 +3852,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Fall 15-16",
 "RSP","REC 4850","Undergraduate","Adventure Programming","Fall 15-16",76
 "RSP","REC 4901","Undergraduate","Special Topics","Fall 15-16",0
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Fall 15-16",15
 "RSP","REC 4920","Undergraduate","Practicum","Fall 15-16",45
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Fall 15-16",
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Fall 15-16",
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Fall 15-16",
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Fall 15-16",
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Fall 15-16",
-"TEDU","EDPL 5620","Graduate","Professional Internship","Fall 15-16",
-"TEDU","EDPL 5630","Graduate","Professional Internship","Fall 15-16",
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Fall 15-16",0
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Fall 15-16",
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Fall 15-16",40
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Fall 15-16",32
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Fall 15-16",
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Fall 15-16",20
@@ -4300,18 +3875,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Fall 15-16",20
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Fall 15-16",
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Fall 15-16",
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Fall 15-16",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Fall 15-16",50
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Fall 15-16",75
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Fall 15-16",60
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Fall 15-16",82.5
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Fall 15-16",100
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Fall 15-16",10
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Fall 15-16",60
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Fall 15-16",10
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Fall 15-16",10
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Fall 15-16",100
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Fall 15-16",20
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Fall 15-16",
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Fall 15-16",0
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Fall 15-16",20
@@ -4321,14 +3893,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Fall 15-16",9.5
 "TEDU","EDTE 6930","Graduate","Research in Education","Fall 15-16",50
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Fall 15-16",20
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Fall 15-16",0
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Fall 15-16",20
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Fall 15-16",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Fall 15-16",5
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Fall 15-16",29.4
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Fall 15-16",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Fall 15-16",33.3
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Fall 15-16",0
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Fall 15-16",
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Fall 15-16",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Fall 15-16",5
@@ -4389,31 +3959,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Fall 15-16",96.7
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Fall 15-16",3.3
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Fall 15-16",90
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Fall 15-16",90
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Fall 15-16",92
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Fall 15-16",40
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Fall 15-16",40
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Fall 15-16",65
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Fall 15-16",65
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Fall 15-16",53.3
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Fall 15-16",50
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Fall 15-16",46.9
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Fall 15-16",8.8
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Fall 15-16",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Fall 15-16",0
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Fall 15-16",20.4
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Fall 15-16",20.4
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Fall 15-16",16.4
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Fall 15-16",12
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Fall 15-16",9.6
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Fall 15-16",3.3
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Fall 15-16",12.6
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Fall 15-16",70
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Fall 15-16",46.7
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Fall 15-16",71.7
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Fall 15-16",58.3
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Fall 15-16",15
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Fall 15-16",10
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Fall 15-16",46.7
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Fall 15-16",52
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Fall 15-16",83.3
@@ -4647,19 +4199,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Spr 15-16",
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Spr 15-16",0
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Spr 15-16",97.3
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Spr 15-16",
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Spr 15-16",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Spr 15-16",40
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Spr 15-16",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Spr 15-16",26.7
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Spr 15-16",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Spr 15-16",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Spr 15-16",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Spr 15-16",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Spr 15-16",
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Spr 15-16",0
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Spr 15-16",20
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Spr 15-16",0
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Spr 15-16",
 "HCSE","CONS 5953","Graduate","Customer Service","Spr 15-16",0
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Spr 15-16",6.7
@@ -4681,7 +4220,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Spr 15-16",44
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Spr 15-16",13.3
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Spr 15-16",
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Spr 15-16",90
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Spr 15-16",0
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Spr 15-16",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Spr 15-16",48
@@ -4693,13 +4231,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Spr 15-16",100
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Spr 15-16",100
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Spr 15-16",
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Spr 15-16",100
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Spr 15-16",
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Spr 15-16",63.3
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Spr 15-16",88.3
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Spr 15-16",31.7
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Spr 15-16",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Spr 15-16",60
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Spr 15-16",
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Spr 15-16",0
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Spr 15-16",78.2
@@ -4720,7 +4256,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Spr 15-16",100
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Spr 15-16",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Spr 15-16",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Spr 15-16",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Spr 15-16",40
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Spr 15-16",0
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Spr 15-16",
@@ -4750,7 +4285,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Spr 15-16",13.3
 "RSP","COED 6941","Graduate","Special Problems","Spr 15-16",15
 "RSP","COED 6950","Graduate","Thesis","Spr 15-16",0
-"RSP","REC 5240","Graduate","Outdoor Leadership","Spr 15-16",
 "RSP","REC 5400","Graduate","Environmental Interpretation","Spr 15-16",
 "RSP","REC 5430","Graduate","Marketing for Recreation","Spr 15-16",100
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Spr 15-16",
@@ -4862,22 +4396,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Spr 15-16",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Spr 15-16",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Spr 15-16",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Spr 15-16",100
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Spr 15-16",60
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Spr 15-16",50
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Spr 15-16",90
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Spr 15-16",100
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Spr 15-16",70
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Spr 15-16",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Spr 15-16",80
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Spr 15-16",90
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Spr 15-16",50
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Spr 15-16",90
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Spr 15-16",90
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Spr 15-16",80
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Spr 15-16",100
-"RSP","REC 1190","Undergraduate","Caving","Spr 15-16",76.7
-"RSP","REC 1200","Undergraduate","Mountain Biking","Spr 15-16",90
 "RSP","REC 1220","Undergraduate","Scuba Diver","Spr 15-16",70.5
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Spr 15-16",
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Spr 15-16",76.7
@@ -4886,9 +4406,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Spr 15-16",86.7
 "RSP","REC 3100","Undergraduate","Recreation Programming","Spr 15-16",80
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Spr 15-16",
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Spr 15-16",
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Spr 15-16",
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Spr 15-16",
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Spr 15-16",
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Spr 15-16",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Spr 15-16",
@@ -4906,18 +4423,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Spr 15-16",40
 "RSP","REC 4850","Undergraduate","Adventure Programming","Spr 15-16",
 "RSP","REC 4901","Undergraduate","Special Topics","Spr 15-16",0
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Spr 15-16",40
 "RSP","REC 4920","Undergraduate","Practicum","Spr 15-16",24
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Spr 15-16",
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Spr 15-16",
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Spr 15-16",
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Spr 15-16",
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Spr 15-16",
-"TEDU","EDPL 5620","Graduate","Professional Internship","Spr 15-16",43.3
-"TEDU","EDPL 5630","Graduate","Professional Internship","Spr 15-16",43.3
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Spr 15-16",26
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Spr 15-16",
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Spr 15-16",
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Spr 15-16",
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Spr 15-16",16
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Spr 15-16",
@@ -4935,18 +4446,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Spr 15-16",0
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Spr 15-16",
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Spr 15-16",
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Spr 15-16",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Spr 15-16",0
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Spr 15-16",
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Spr 15-16",
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Spr 15-16",
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Spr 15-16",
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Spr 15-16",37
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Spr 15-16",20
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Spr 15-16",10
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Spr 15-16",
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Spr 15-16",
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Spr 15-16",
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Spr 15-16",96
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Spr 15-16",0
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Spr 15-16",
@@ -4956,14 +4464,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Spr 15-16",20.8
 "TEDU","EDTE 6930","Graduate","Research in Education","Spr 15-16",80
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Spr 15-16",
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Spr 15-16",
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Spr 15-16",
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Spr 15-16",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Spr 15-16",
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Spr 15-16",24.6
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Spr 15-16",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Spr 15-16",
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Spr 15-16",
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Spr 15-16",70
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Spr 15-16",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Spr 15-16",
@@ -5024,31 +4530,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Spr 15-16",
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Spr 15-16",86.7
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Spr 15-16",
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Spr 15-16",
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Spr 15-16",
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Spr 15-16",
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Spr 15-16",
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Spr 15-16",
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Spr 15-16",
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Spr 15-16",
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Spr 15-16",
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Spr 15-16",36.2
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Spr 15-16",10
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Spr 15-16",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Spr 15-16",
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Spr 15-16",38.1
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Spr 15-16",38.1
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Spr 15-16",22.8
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Spr 15-16",22.3
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Spr 15-16",21.5
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Spr 15-16",20.4
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Spr 15-16",20.5
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Spr 15-16",52.5
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Spr 15-16",35
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Spr 15-16",36.7
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Spr 15-16",58.3
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Spr 15-16",
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Spr 15-16",
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Spr 15-16",
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Spr 15-16",
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Spr 15-16",82.2
@@ -5282,19 +4770,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Sum 15-16",
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Sum 15-16",
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Sum 15-16",72
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Sum 15-16",15.2
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Sum 15-16",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Sum 15-16",
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Sum 15-16",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Sum 15-16",
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Sum 15-16",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Sum 15-16",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Sum 15-16",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Sum 15-16",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Sum 15-16",
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Sum 15-16",0
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Sum 15-16",20
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Sum 15-16",6.7
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Sum 15-16",
 "HCSE","CONS 5953","Graduate","Customer Service","Sum 15-16",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Sum 15-16",
@@ -5316,7 +4791,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Sum 15-16",12
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Sum 15-16",
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Sum 15-16",40
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Sum 15-16",8
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Sum 15-16",
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Sum 15-16",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Sum 15-16",8.6
@@ -5328,13 +4802,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Sum 15-16",
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Sum 15-16",
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Sum 15-16",
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Sum 15-16",24
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Sum 15-16",
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Sum 15-16",
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Sum 15-16",
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Sum 15-16",100
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Sum 15-16",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Sum 15-16",100
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Sum 15-16",
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Sum 15-16",
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Sum 15-16",
@@ -5355,7 +4827,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Sum 15-16",
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Sum 15-16",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Sum 15-16",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Sum 15-16",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Sum 15-16",100
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Sum 15-16",
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Sum 15-16",
@@ -5385,7 +4856,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Sum 15-16",0
 "RSP","COED 6941","Graduate","Special Problems","Sum 15-16",60
 "RSP","COED 6950","Graduate","Thesis","Sum 15-16",
-"RSP","REC 5240","Graduate","Outdoor Leadership","Sum 15-16",50
 "RSP","REC 5400","Graduate","Environmental Interpretation","Sum 15-16",
 "RSP","REC 5430","Graduate","Marketing for Recreation","Sum 15-16",
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Sum 15-16",
@@ -5497,22 +4967,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Sum 15-16",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Sum 15-16",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Sum 15-16",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Sum 15-16",
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Sum 15-16",
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Sum 15-16",
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Sum 15-16",
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Sum 15-16",
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Sum 15-16",
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Sum 15-16",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Sum 15-16",
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Sum 15-16",
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Sum 15-16",
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Sum 15-16",
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Sum 15-16",
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Sum 15-16",
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Sum 15-16",
-"RSP","REC 1190","Undergraduate","Caving","Sum 15-16",
-"RSP","REC 1200","Undergraduate","Mountain Biking","Sum 15-16",
 "RSP","REC 1220","Undergraduate","Scuba Diver","Sum 15-16",
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Sum 15-16",
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Sum 15-16",64
@@ -5521,9 +4977,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Sum 15-16",
 "RSP","REC 3100","Undergraduate","Recreation Programming","Sum 15-16",
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Sum 15-16",
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Sum 15-16",64
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Sum 15-16",
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Sum 15-16",83.3
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Sum 15-16",
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Sum 15-16",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Sum 15-16",
@@ -5541,18 +4994,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Sum 15-16",
 "RSP","REC 4850","Undergraduate","Adventure Programming","Sum 15-16",
 "RSP","REC 4901","Undergraduate","Special Topics","Sum 15-16",
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Sum 15-16",65
 "RSP","REC 4920","Undergraduate","Practicum","Sum 15-16",0
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Sum 15-16",
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Sum 15-16",85.5
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Sum 15-16",87.3
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Sum 15-16",87.3
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Sum 15-16",85.5
-"TEDU","EDPL 5620","Graduate","Professional Internship","Sum 15-16",
-"TEDU","EDPL 5630","Graduate","Professional Internship","Sum 15-16",
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Sum 15-16",
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Sum 15-16",0
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Sum 15-16",
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Sum 15-16",93.3
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Sum 15-16",
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Sum 15-16",
@@ -5570,18 +5017,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Sum 15-16",
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Sum 15-16",
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Sum 15-16",98.2
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Sum 15-16",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Sum 15-16",70
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Sum 15-16",100
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Sum 15-16",36
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Sum 15-16",32
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Sum 15-16",5
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Sum 15-16",49.2
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Sum 15-16",93.3
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Sum 15-16",
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Sum 15-16",
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Sum 15-16",
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Sum 15-16",
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Sum 15-16",100
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Sum 15-16",3.3
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Sum 15-16",
@@ -5591,14 +5035,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Sum 15-16",8.3
 "TEDU","EDTE 6930","Graduate","Research in Education","Sum 15-16",30
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Sum 15-16",
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Sum 15-16",
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Sum 15-16",
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Sum 15-16",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Sum 15-16",
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Sum 15-16",1.6
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Sum 15-16",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Sum 15-16",
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Sum 15-16",
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Sum 15-16",
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Sum 15-16",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Sum 15-16",
@@ -5659,31 +5101,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Sum 15-16",
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Sum 15-16",
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Sum 15-16",
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Sum 15-16",
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Sum 15-16",
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Sum 15-16",
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Sum 15-16",
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Sum 15-16",
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Sum 15-16",
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Sum 15-16",
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Sum 15-16",
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Sum 15-16",0.3
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Sum 15-16",0.8
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Sum 15-16",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Sum 15-16",
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Sum 15-16",0.7
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Sum 15-16",0.7
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Sum 15-16",0.3
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Sum 15-16",0.3
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Sum 15-16",0
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Sum 15-16",0
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Sum 15-16",1
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Sum 15-16",92
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Sum 15-16",92
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Sum 15-16",
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Sum 15-16",
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Sum 15-16",
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Sum 15-16",
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Sum 15-16",
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Sum 15-16",
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Sum 15-16",
@@ -5917,19 +5341,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Fall 16-17",0
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Fall 16-17",0
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Fall 16-17",85.7
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Fall 16-17",45
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Fall 16-17",28
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Fall 16-17",20
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Fall 16-17",28
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Fall 16-17",
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Fall 16-17",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Fall 16-17",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Fall 16-17",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Fall 16-17",24
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Fall 16-17",24
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Fall 16-17",10
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Fall 16-17",15
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Fall 16-17",10
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Fall 16-17",0
 "HCSE","CONS 5953","Graduate","Customer Service","Fall 16-17",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Fall 16-17",6.7
@@ -5951,7 +5362,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Fall 16-17",8
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Fall 16-17",16.7
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Fall 16-17",
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Fall 16-17",12
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Fall 16-17",0
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Fall 16-17",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Fall 16-17",48.6
@@ -5963,13 +5373,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Fall 16-17",96.9
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Fall 16-17",100
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Fall 16-17",85
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Fall 16-17",33.3
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Fall 16-17",91.7
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Fall 16-17",41.7
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Fall 16-17",
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Fall 16-17",31.7
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Fall 16-17",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Fall 16-17",53.3
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Fall 16-17",
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Fall 16-17",22.2
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Fall 16-17",92.7
@@ -5990,7 +5398,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Fall 16-17",
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Fall 16-17",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Fall 16-17",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Fall 16-17",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Fall 16-17",10
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Fall 16-17",11.1
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Fall 16-17",
@@ -6020,7 +5427,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Fall 16-17",20
 "RSP","COED 6941","Graduate","Special Problems","Fall 16-17",30
 "RSP","COED 6950","Graduate","Thesis","Fall 16-17",10
-"RSP","REC 5240","Graduate","Outdoor Leadership","Fall 16-17",
 "RSP","REC 5400","Graduate","Environmental Interpretation","Fall 16-17",
 "RSP","REC 5430","Graduate","Marketing for Recreation","Fall 16-17",
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Fall 16-17",
@@ -6132,22 +5538,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Fall 16-17",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Fall 16-17",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Fall 16-17",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Fall 16-17",97.5
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Fall 16-17",
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Fall 16-17",100
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Fall 16-17",
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Fall 16-17",80
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Fall 16-17",
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Fall 16-17",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Fall 16-17",
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Fall 16-17",86.7
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Fall 16-17",86.7
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Fall 16-17",90
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Fall 16-17",80
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Fall 16-17",
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Fall 16-17",
-"RSP","REC 1190","Undergraduate","Caving","Fall 16-17",100
-"RSP","REC 1200","Undergraduate","Mountain Biking","Fall 16-17",75
 "RSP","REC 1220","Undergraduate","Scuba Diver","Fall 16-17",59.1
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Fall 16-17",96
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Fall 16-17",55
@@ -6156,9 +5548,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Fall 16-17",83.3
 "RSP","REC 3100","Undergraduate","Recreation Programming","Fall 16-17",73.3
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Fall 16-17",
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Fall 16-17",
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Fall 16-17",
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Fall 16-17",
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Fall 16-17",
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Fall 16-17",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Fall 16-17",90
@@ -6176,18 +5565,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Fall 16-17",
 "RSP","REC 4850","Undergraduate","Adventure Programming","Fall 16-17",72
 "RSP","REC 4901","Undergraduate","Special Topics","Fall 16-17",0
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Fall 16-17",20
 "RSP","REC 4920","Undergraduate","Practicum","Fall 16-17",20
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Fall 16-17",
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Fall 16-17",
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Fall 16-17",
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Fall 16-17",
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Fall 16-17",
-"TEDU","EDPL 5620","Graduate","Professional Internship","Fall 16-17",
-"TEDU","EDPL 5630","Graduate","Professional Internship","Fall 16-17",
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Fall 16-17",0
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Fall 16-17",
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Fall 16-17",50
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Fall 16-17",20
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Fall 16-17",
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Fall 16-17",16
@@ -6205,18 +5588,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Fall 16-17",20
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Fall 16-17",
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Fall 16-17",
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Fall 16-17",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Fall 16-17",0
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Fall 16-17",100
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Fall 16-17",87.7
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Fall 16-17",100
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Fall 16-17",
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Fall 16-17",15
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Fall 16-17",60
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Fall 16-17",25
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Fall 16-17",50
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Fall 16-17",100
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Fall 16-17",0
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Fall 16-17",
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Fall 16-17",0
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Fall 16-17",20
@@ -6226,14 +5606,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Fall 16-17",19.1
 "TEDU","EDTE 6930","Graduate","Research in Education","Fall 16-17",50
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Fall 16-17",13.3
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Fall 16-17",0
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Fall 16-17",36
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Fall 16-17",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Fall 16-17",0
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Fall 16-17",29.2
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Fall 16-17",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Fall 16-17",50
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Fall 16-17",40
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Fall 16-17",
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Fall 16-17",65
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Fall 16-17",0
@@ -6294,31 +5672,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Fall 16-17",96.7
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Fall 16-17",0
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Fall 16-17",66.7
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Fall 16-17",66.7
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Fall 16-17",90
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Fall 16-17",43.3
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Fall 16-17",43.3
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Fall 16-17",40
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Fall 16-17",40
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Fall 16-17",73.3
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Fall 16-17",73.3
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Fall 16-17",23.5
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Fall 16-17",1.2
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Fall 16-17",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Fall 16-17",0
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Fall 16-17",11.3
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Fall 16-17",11.3
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Fall 16-17",6.3
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Fall 16-17",5.4
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Fall 16-17",4.4
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Fall 16-17",3.4
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Fall 16-17",8
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Fall 16-17",88.5
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Fall 16-17",76.7
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Fall 16-17",88.3
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Fall 16-17",41.7
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Fall 16-17",20
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Fall 16-17",16.7
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Fall 16-17",46.7
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Fall 16-17",56
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Fall 16-17",53.3
@@ -6552,19 +5912,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Spr 16-17",
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Spr 16-17",0
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Spr 16-17",85.6
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Spr 16-17",45
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Spr 16-17",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Spr 16-17",
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Spr 16-17",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Spr 16-17",28
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Spr 16-17",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Spr 16-17",28
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Spr 16-17",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Spr 16-17",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Spr 16-17",
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Spr 16-17",15
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Spr 16-17",8.6
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Spr 16-17",15
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Spr 16-17",
 "HCSE","CONS 5953","Graduate","Customer Service","Spr 16-17",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Spr 16-17",
@@ -6586,7 +5933,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Spr 16-17",
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Spr 16-17",16.7
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Spr 16-17",
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Spr 16-17",0
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Spr 16-17",0
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Spr 16-17",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Spr 16-17",60
@@ -6598,13 +5944,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Spr 16-17",100
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Spr 16-17",100
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Spr 16-17",
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Spr 16-17",77.8
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Spr 16-17",40
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Spr 16-17",66.7
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Spr 16-17",81.7
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Spr 16-17",23.3
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Spr 16-17",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Spr 16-17",66.7
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Spr 16-17",
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Spr 16-17",4.8
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Spr 16-17",98.2
@@ -6625,7 +5969,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Spr 16-17",96.9
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Spr 16-17",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Spr 16-17",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Spr 16-17",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Spr 16-17",25
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Spr 16-17",0
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Spr 16-17",
@@ -6655,7 +5998,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Spr 16-17",20
 "RSP","COED 6941","Graduate","Special Problems","Spr 16-17",15
 "RSP","COED 6950","Graduate","Thesis","Spr 16-17",6.7
-"RSP","REC 5240","Graduate","Outdoor Leadership","Spr 16-17",
 "RSP","REC 5400","Graduate","Environmental Interpretation","Spr 16-17",
 "RSP","REC 5430","Graduate","Marketing for Recreation","Spr 16-17",100
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Spr 16-17",
@@ -6767,22 +6109,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Spr 16-17",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Spr 16-17",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Spr 16-17",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Spr 16-17",100
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Spr 16-17",60
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Spr 16-17",100
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Spr 16-17",
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Spr 16-17",100
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Spr 16-17",20
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Spr 16-17",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Spr 16-17",100
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Spr 16-17",100
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Spr 16-17",100
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Spr 16-17",80
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Spr 16-17",90
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Spr 16-17",100
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Spr 16-17",
-"RSP","REC 1190","Undergraduate","Caving","Spr 16-17",100
-"RSP","REC 1200","Undergraduate","Mountain Biking","Spr 16-17",75
 "RSP","REC 1220","Undergraduate","Scuba Diver","Spr 16-17",75
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Spr 16-17",
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Spr 16-17",61.7
@@ -6791,9 +6119,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Spr 16-17",86.7
 "RSP","REC 3100","Undergraduate","Recreation Programming","Spr 16-17",100
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Spr 16-17",86.7
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Spr 16-17",
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Spr 16-17",100
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Spr 16-17",
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Spr 16-17",
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Spr 16-17",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Spr 16-17",
@@ -6811,18 +6136,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Spr 16-17",88
 "RSP","REC 4850","Undergraduate","Adventure Programming","Spr 16-17",
 "RSP","REC 4901","Undergraduate","Special Topics","Spr 16-17",0
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Spr 16-17",12
 "RSP","REC 4920","Undergraduate","Practicum","Spr 16-17",20
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Spr 16-17",96.7
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Spr 16-17",
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Spr 16-17",
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Spr 16-17",
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Spr 16-17",
-"TEDU","EDPL 5620","Graduate","Professional Internship","Spr 16-17",63.3
-"TEDU","EDPL 5630","Graduate","Professional Internship","Spr 16-17",66.7
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Spr 16-17",40
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Spr 16-17",
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Spr 16-17",
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Spr 16-17",
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Spr 16-17",12
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Spr 16-17",
@@ -6840,18 +6159,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Spr 16-17",60
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Spr 16-17",
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Spr 16-17",
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Spr 16-17",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Spr 16-17",5
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Spr 16-17",
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Spr 16-17",
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Spr 16-17",
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Spr 16-17",100
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Spr 16-17",43.2
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Spr 16-17",0
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Spr 16-17",0
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Spr 16-17",
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Spr 16-17",
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Spr 16-17",
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Spr 16-17",100
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Spr 16-17",5.5
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Spr 16-17",
@@ -6861,14 +6177,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Spr 16-17",17.6
 "TEDU","EDTE 6930","Graduate","Research in Education","Spr 16-17",100
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Spr 16-17",
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Spr 16-17",
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Spr 16-17",
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Spr 16-17",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Spr 16-17",
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Spr 16-17",37.5
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Spr 16-17",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Spr 16-17",
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Spr 16-17",
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Spr 16-17",
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Spr 16-17",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Spr 16-17",
@@ -6929,31 +6243,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Spr 16-17",
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Spr 16-17",93.3
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Spr 16-17",
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Spr 16-17",
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Spr 16-17",
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Spr 16-17",
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Spr 16-17",
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Spr 16-17",
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Spr 16-17",
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Spr 16-17",
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Spr 16-17",
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Spr 16-17",46.7
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Spr 16-17",0.3
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Spr 16-17",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Spr 16-17",
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Spr 16-17",13.8
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Spr 16-17",13.6
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Spr 16-17",10.3
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Spr 16-17",6.4
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Spr 16-17",8.8
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Spr 16-17",5.2
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Spr 16-17",13.9
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Spr 16-17",88
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Spr 16-17",100
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Spr 16-17",76.7
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Spr 16-17",96.7
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Spr 16-17",
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Spr 16-17",
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Spr 16-17",
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Spr 16-17",
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Spr 16-17",93.3
@@ -7187,19 +6483,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Sum 16-17",
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Sum 16-17",
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Sum 16-17",100
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Sum 16-17",18
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Sum 16-17",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Sum 16-17",
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Sum 16-17",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Sum 16-17",
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Sum 16-17",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Sum 16-17",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Sum 16-17",24
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Sum 16-17",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Sum 16-17",
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Sum 16-17",5
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Sum 16-17",0
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Sum 16-17",0
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Sum 16-17",
 "HCSE","CONS 5953","Graduate","Customer Service","Sum 16-17",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Sum 16-17",
@@ -7221,7 +6504,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Sum 16-17",
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Sum 16-17",
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Sum 16-17",
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Sum 16-17",12
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Sum 16-17",
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Sum 16-17",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Sum 16-17",
@@ -7233,13 +6515,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Sum 16-17",
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Sum 16-17",
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Sum 16-17",
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Sum 16-17",24
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Sum 16-17",
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Sum 16-17",
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Sum 16-17",
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Sum 16-17",100
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Sum 16-17",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Sum 16-17",62
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Sum 16-17",
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Sum 16-17",
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Sum 16-17",
@@ -7260,7 +6540,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Sum 16-17",
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Sum 16-17",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Sum 16-17",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Sum 16-17",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Sum 16-17",80.8
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Sum 16-17",
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Sum 16-17",60
@@ -7290,7 +6569,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Sum 16-17",60
 "RSP","COED 6941","Graduate","Special Problems","Sum 16-17",20
 "RSP","COED 6950","Graduate","Thesis","Sum 16-17",
-"RSP","REC 5240","Graduate","Outdoor Leadership","Sum 16-17",0
 "RSP","REC 5400","Graduate","Environmental Interpretation","Sum 16-17",
 "RSP","REC 5430","Graduate","Marketing for Recreation","Sum 16-17",
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Sum 16-17",
@@ -7402,22 +6680,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Sum 16-17",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Sum 16-17",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Sum 16-17",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Sum 16-17",
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Sum 16-17",
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Sum 16-17",
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Sum 16-17",
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Sum 16-17",
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Sum 16-17",
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Sum 16-17",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Sum 16-17",
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Sum 16-17",
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Sum 16-17",
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Sum 16-17",
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Sum 16-17",
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Sum 16-17",
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Sum 16-17",
-"RSP","REC 1190","Undergraduate","Caving","Sum 16-17",
-"RSP","REC 1200","Undergraduate","Mountain Biking","Sum 16-17",
 "RSP","REC 1220","Undergraduate","Scuba Diver","Sum 16-17",
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Sum 16-17",
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Sum 16-17",76
@@ -7426,9 +6690,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Sum 16-17",
 "RSP","REC 3100","Undergraduate","Recreation Programming","Sum 16-17",
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Sum 16-17",
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Sum 16-17",64
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Sum 16-17",
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Sum 16-17",100
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Sum 16-17",
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Sum 16-17",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Sum 16-17",
@@ -7446,18 +6707,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Sum 16-17",
 "RSP","REC 4850","Undergraduate","Adventure Programming","Sum 16-17",
 "RSP","REC 4901","Undergraduate","Special Topics","Sum 16-17",
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Sum 16-17",100
 "RSP","REC 4920","Undergraduate","Practicum","Sum 16-17",0
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Sum 16-17",
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Sum 16-17",87.3
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Sum 16-17",80
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Sum 16-17",80
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Sum 16-17",85.5
-"TEDU","EDPL 5620","Graduate","Professional Internship","Sum 16-17",
-"TEDU","EDPL 5630","Graduate","Professional Internship","Sum 16-17",
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Sum 16-17",
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Sum 16-17",
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Sum 16-17",
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Sum 16-17",80
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Sum 16-17",
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Sum 16-17",
@@ -7475,18 +6730,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Sum 16-17",
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Sum 16-17",50
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Sum 16-17",67.7
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Sum 16-17",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Sum 16-17",50.8
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Sum 16-17",100
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Sum 16-17",29
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Sum 16-17",28
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Sum 16-17",
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Sum 16-17",33.6
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Sum 16-17",80
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Sum 16-17",
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Sum 16-17",
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Sum 16-17",
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Sum 16-17",
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Sum 16-17",85
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Sum 16-17",
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Sum 16-17",
@@ -7496,14 +6748,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Sum 16-17",24.8
 "TEDU","EDTE 6930","Graduate","Research in Education","Sum 16-17",100
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Sum 16-17",
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Sum 16-17",
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Sum 16-17",
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Sum 16-17",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Sum 16-17",
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Sum 16-17",1.4
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Sum 16-17",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Sum 16-17",
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Sum 16-17",
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Sum 16-17",
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Sum 16-17",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Sum 16-17",
@@ -7564,31 +6814,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Sum 16-17",
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Sum 16-17",
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Sum 16-17",
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Sum 16-17",
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Sum 16-17",
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Sum 16-17",
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Sum 16-17",
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Sum 16-17",
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Sum 16-17",
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Sum 16-17",
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Sum 16-17",
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Sum 16-17",
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Sum 16-17",0.7
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Sum 16-17",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Sum 16-17",
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Sum 16-17",0
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Sum 16-17",0
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Sum 16-17",0
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Sum 16-17",0
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Sum 16-17",0.7
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Sum 16-17",0.7
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Sum 16-17",0.7
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Sum 16-17",80
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Sum 16-17",80
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Sum 16-17",
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Sum 16-17",
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Sum 16-17",
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Sum 16-17",
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Sum 16-17",
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Sum 16-17",
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Sum 16-17",
@@ -7822,19 +7054,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Fall 17-18",0
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Fall 17-18",0
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Fall 17-18",75
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Fall 17-18",
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Fall 17-18",36
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Fall 17-18",28
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Fall 17-18",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Fall 17-18",
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Fall 17-18",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Fall 17-18",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Fall 17-18",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Fall 17-18",32
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Fall 17-18",16
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Fall 17-18",10
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Fall 17-18",32
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Fall 17-18",0
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Fall 17-18",
 "HCSE","CONS 5953","Graduate","Customer Service","Fall 17-18",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Fall 17-18",20
@@ -7856,7 +7075,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Fall 17-18",80
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Fall 17-18",
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Fall 17-18",20
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Fall 17-18",10
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Fall 17-18",
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Fall 17-18",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Fall 17-18",11.4
@@ -7868,13 +7086,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Fall 17-18",100
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Fall 17-18",100
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Fall 17-18",100
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Fall 17-18",26.7
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Fall 17-18",97.1
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Fall 17-18",83.3
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Fall 17-18",36.7
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Fall 17-18",13.3
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Fall 17-18",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Fall 17-18",20
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Fall 17-18",
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Fall 17-18",6.2
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Fall 17-18",100
@@ -7895,7 +7111,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Fall 17-18",
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Fall 17-18",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Fall 17-18",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Fall 17-18",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Fall 17-18",0
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Fall 17-18",0
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Fall 17-18",
@@ -7925,7 +7140,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Fall 17-18",30
 "RSP","COED 6941","Graduate","Special Problems","Fall 17-18",10
 "RSP","COED 6950","Graduate","Thesis","Fall 17-18",0
-"RSP","REC 5240","Graduate","Outdoor Leadership","Fall 17-18",
 "RSP","REC 5400","Graduate","Environmental Interpretation","Fall 17-18",70
 "RSP","REC 5430","Graduate","Marketing for Recreation","Fall 17-18",
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Fall 17-18",
@@ -8037,22 +7251,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Fall 17-18",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Fall 17-18",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Fall 17-18",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Fall 17-18",95
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Fall 17-18",
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Fall 17-18",80
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Fall 17-18",
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Fall 17-18",90
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Fall 17-18",
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Fall 17-18",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Fall 17-18",
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Fall 17-18",90
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Fall 17-18",100
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Fall 17-18",90
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Fall 17-18",70
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Fall 17-18",
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Fall 17-18",
-"RSP","REC 1190","Undergraduate","Caving","Fall 17-18",80
-"RSP","REC 1200","Undergraduate","Mountain Biking","Fall 17-18",75
 "RSP","REC 1220","Undergraduate","Scuba Diver","Fall 17-18",59.1
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Fall 17-18",77.1
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Fall 17-18",37.6
@@ -8061,9 +7261,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Fall 17-18",76.7
 "RSP","REC 3100","Undergraduate","Recreation Programming","Fall 17-18",40
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Fall 17-18",
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Fall 17-18",
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Fall 17-18",
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Fall 17-18",
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Fall 17-18",63.3
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Fall 17-18",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Fall 17-18",92.5
@@ -8081,18 +7278,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Fall 17-18",
 "RSP","REC 4850","Undergraduate","Adventure Programming","Fall 17-18",76
 "RSP","REC 4901","Undergraduate","Special Topics","Fall 17-18",4
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Fall 17-18",12
 "RSP","REC 4920","Undergraduate","Practicum","Fall 17-18",12
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Fall 17-18",100
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Fall 17-18",
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Fall 17-18",
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Fall 17-18",
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Fall 17-18",
-"TEDU","EDPL 5620","Graduate","Professional Internship","Fall 17-18",
-"TEDU","EDPL 5630","Graduate","Professional Internship","Fall 17-18",
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Fall 17-18",0
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Fall 17-18",
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Fall 17-18",36.7
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Fall 17-18",36
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Fall 17-18",
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Fall 17-18",32
@@ -8110,18 +7301,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Fall 17-18",80
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Fall 17-18",
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Fall 17-18",
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Fall 17-18",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Fall 17-18",30
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Fall 17-18",100
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Fall 17-18",72.5
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Fall 17-18",100
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Fall 17-18",
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Fall 17-18",10
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Fall 17-18",13.3
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Fall 17-18",5
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Fall 17-18",0
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Fall 17-18",40
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Fall 17-18",20
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Fall 17-18",
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Fall 17-18",0
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Fall 17-18",40
@@ -8131,14 +7319,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Fall 17-18",19.6
 "TEDU","EDTE 6930","Graduate","Research in Education","Fall 17-18",100
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Fall 17-18",13.3
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Fall 17-18",0
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Fall 17-18",4
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Fall 17-18",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Fall 17-18",0
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Fall 17-18",25.2
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Fall 17-18",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Fall 17-18",100
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Fall 17-18",0
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Fall 17-18",
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Fall 17-18",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Fall 17-18",25
@@ -8199,31 +7385,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Fall 17-18",80
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Fall 17-18",
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Fall 17-18",46.7
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Fall 17-18",46.7
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Fall 17-18",56.7
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Fall 17-18",53.3
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Fall 17-18",53.3
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Fall 17-18",26.7
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Fall 17-18",26.7
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Fall 17-18",63.3
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Fall 17-18",63.3
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Fall 17-18",10.9
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Fall 17-18",1.8
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Fall 17-18",38.3
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Fall 17-18",0
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Fall 17-18",8.6
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Fall 17-18",8.6
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Fall 17-18",5
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Fall 17-18",3.6
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Fall 17-18",2.7
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Fall 17-18",1.2
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Fall 17-18",8.4
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Fall 17-18",68
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Fall 17-18",56.7
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Fall 17-18",90
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Fall 17-18",50
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Fall 17-18",36
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Fall 17-18",30
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Fall 17-18",60
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Fall 17-18",72
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Fall 17-18",76.7
@@ -8457,19 +7625,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Spr 17-18",
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Spr 17-18",0
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Spr 17-18",68.3
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Spr 17-18",0
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Spr 17-18",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Spr 17-18",
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Spr 17-18",12
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Spr 17-18",8
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Spr 17-18",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Spr 17-18",
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Spr 17-18",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Spr 17-18",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Spr 17-18",
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Spr 17-18",5
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Spr 17-18",13.3
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Spr 17-18",5
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Spr 17-18",
 "HCSE","CONS 5953","Graduate","Customer Service","Spr 17-18",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Spr 17-18",
@@ -8491,7 +7646,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Spr 17-18",
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Spr 17-18",44
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Spr 17-18",
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Spr 17-18",50
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Spr 17-18",
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Spr 17-18",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Spr 17-18",66.7
@@ -8503,13 +7657,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Spr 17-18",100
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Spr 17-18",100
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Spr 17-18",100
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Spr 17-18",100
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Spr 17-18",82.9
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Spr 17-18",94.3
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Spr 17-18",100
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Spr 17-18",10
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Spr 17-18",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Spr 17-18",33.3
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Spr 17-18",
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Spr 17-18",0
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Spr 17-18",85
@@ -8530,7 +7682,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Spr 17-18",38.9
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Spr 17-18",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Spr 17-18",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Spr 17-18",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Spr 17-18",30
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Spr 17-18",44.4
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Spr 17-18",
@@ -8560,7 +7711,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Spr 17-18",20
 "RSP","COED 6941","Graduate","Special Problems","Spr 17-18",100
 "RSP","COED 6950","Graduate","Thesis","Spr 17-18",0
-"RSP","REC 5240","Graduate","Outdoor Leadership","Spr 17-18",
 "RSP","REC 5400","Graduate","Environmental Interpretation","Spr 17-18",
 "RSP","REC 5430","Graduate","Marketing for Recreation","Spr 17-18",100
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Spr 17-18",60
@@ -8672,22 +7822,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Spr 17-18",100
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Spr 17-18",
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Spr 17-18",
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Spr 17-18",93.3
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Spr 17-18",70
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Spr 17-18",100
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Spr 17-18",
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Spr 17-18",100
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Spr 17-18",40
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Spr 17-18",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Spr 17-18",100
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Spr 17-18",90
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Spr 17-18",80
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Spr 17-18",100
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Spr 17-18",100
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Spr 17-18",100
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Spr 17-18",
-"RSP","REC 1190","Undergraduate","Caving","Spr 17-18",85
-"RSP","REC 1200","Undergraduate","Mountain Biking","Spr 17-18",95
 "RSP","REC 1220","Undergraduate","Scuba Diver","Spr 17-18",77.3
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Spr 17-18",
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Spr 17-18",50
@@ -8696,9 +7832,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Spr 17-18",53.3
 "RSP","REC 3100","Undergraduate","Recreation Programming","Spr 17-18",70
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Spr 17-18",73.3
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Spr 17-18",
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Spr 17-18",100
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Spr 17-18",
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Spr 17-18",
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Spr 17-18",100
 "RSP","REC 3490","Undergraduate","Recreation Administration","Spr 17-18",
@@ -8716,18 +7849,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Spr 17-18",84
 "RSP","REC 4850","Undergraduate","Adventure Programming","Spr 17-18",
 "RSP","REC 4901","Undergraduate","Special Topics","Spr 17-18",0
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Spr 17-18",80
 "RSP","REC 4920","Undergraduate","Practicum","Spr 17-18",1.2
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Spr 17-18",100
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Spr 17-18",
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Spr 17-18",
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Spr 17-18",
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Spr 17-18",
-"TEDU","EDPL 5620","Graduate","Professional Internship","Spr 17-18",43.3
-"TEDU","EDPL 5630","Graduate","Professional Internship","Spr 17-18",43.3
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Spr 17-18",26
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Spr 17-18",
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Spr 17-18",
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Spr 17-18",
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Spr 17-18",32
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Spr 17-18",
@@ -8745,18 +7872,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Spr 17-18",100
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Spr 17-18",20
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Spr 17-18",
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Spr 17-18",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Spr 17-18",5
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Spr 17-18",
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Spr 17-18",
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Spr 17-18",
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Spr 17-18",100
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Spr 17-18",88
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Spr 17-18",10
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Spr 17-18",5
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Spr 17-18",
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Spr 17-18",
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Spr 17-18",
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Spr 17-18",100
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Spr 17-18",0
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Spr 17-18",
@@ -8766,14 +7890,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Spr 17-18",19.5
 "TEDU","EDTE 6930","Graduate","Research in Education","Spr 17-18",80
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Spr 17-18",
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Spr 17-18",
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Spr 17-18",
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Spr 17-18",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Spr 17-18",
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Spr 17-18",39.8
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Spr 17-18",20
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Spr 17-18",
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Spr 17-18",20
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Spr 17-18",22.5
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Spr 17-18",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Spr 17-18",
@@ -8834,31 +7956,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Spr 17-18",
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Spr 17-18",76.7
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Spr 17-18",
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Spr 17-18",
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Spr 17-18",
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Spr 17-18",
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Spr 17-18",
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Spr 17-18",
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Spr 17-18",
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Spr 17-18",
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Spr 17-18",
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Spr 17-18",16.7
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Spr 17-18",1.7
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Spr 17-18",38.9
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Spr 17-18",
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Spr 17-18",16.6
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Spr 17-18",16.8
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Spr 17-18",16
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Spr 17-18",11.6
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Spr 17-18",11.8
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Spr 17-18",7.2
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Spr 17-18",18.9
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Spr 17-18",90
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Spr 17-18",90
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Spr 17-18",66.7
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Spr 17-18",85.6
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Spr 17-18",
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Spr 17-18",
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Spr 17-18",
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Spr 17-18",
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Spr 17-18",83.3
@@ -9092,19 +8196,6 @@
 "EDST","EDCS 4920","Undergraduate","Practicum in Critical Studies","Sum 17-18",
 "EDST","EDCS 4930","Undergraduate","Independent Study Critical Stu","Sum 17-18",
 "EDST","EDCT 2030","Undergraduate","Technological Apps inEducation","Sum 17-18",80
-"EHS","PCOE 5900","Graduate","Patton College Workshop","Sum 17-18",0
-"EHS","PCOE 5901X","Graduate","TMQ: Standards for Teaching","Sum 17-18",
-"EHS","PCOE 5902","Graduate","Mentoring Quality Matters","Sum 17-18",
-"EHS","PCOE 5903","Graduate","Mentoring Teacher Candidates","Sum 17-18",
-"EHS","PCOE 5904","Graduate","Co-Teaching in P-12 Schools","Sum 17-18",
-"EHS","PCOE 5904","Graduate","Mentoring Teacher Candidates","Sum 17-18",
-"EHS","PCOE 5905","Graduate","MQM: Intern & Res Educator","Sum 17-18",0
-"EHS","PCOE 5906","Graduate","TQM: Teacher Leadership","Sum 17-18",
-"EHS","PCOE 2301C","Undergraduate","Leadership in Adolescent Girls","Sum 17-18",
-"EHS","PCOE 4900H","Undergraduate","Honors Seminar","Sum 17-18",
-"EHS","PCOE 4920H","Undergraduate","Honors Practicum","Sum 17-18",0
-"EHS","PCOE 4930H","Undergraduate","Readings in Honors Work","Sum 17-18",0
-"EHS","PCOE 4950H","Undergraduate","Honors Thesis in HCS","Sum 17-18",0
 "HCSE","CONS 5900","Graduate","Special Topics in CONS","Sum 17-18",
 "HCSE","CONS 5953","Graduate","Customer Service","Sum 17-18",
 "HCSE","CONS 6000","Graduate","Seminar in HCS","Sum 17-18",
@@ -9126,7 +8217,6 @@
 "HCSE","CONS 3890","Undergraduate","Customer Service Career Dev","Sum 17-18",
 "HCSE","CONS 3950","Undergraduate","Consumer Resource and Fin Mgt","Sum 17-18",
 "HCSE","CONS 4910","Undergraduate","Field Work- Career Tech Educ","Sum 17-18",20
-"HCSE","CONS 4915","Undergraduate","Internship: Customer Service","Sum 17-18",20
 "HCSE","CONS 4916","Undergraduate","Internship: Food Service","Sum 17-18",
 "HCSE","CONS 4952","Undergraduate","Workshop in FCS","Sum 17-18",
 "HCSE","CONS 4953","Undergraduate","Customer Service","Sum 17-18",
@@ -9138,13 +8228,11 @@
 "HCSE","RFPD 2150","Undergraduate","Elementary Textiles","Sum 17-18",
 "HCSE","RFPD 3830","Undergraduate","Product Dev, Eval and Distrib","Sum 17-18",
 "HCSE","RFPD 3890","Undergraduate","Career Search Strategies","Sum 17-18",
-"HCSE","RFPD 3910","Undergraduate","RFPD Work Experience","Sum 17-18",44
 "HCSE","RFPD 4070","Undergraduate","Global Retail Issues","Sum 17-18",
 "HCSE","RFPD 4230","Undergraduate","Retail Merchandising-Strategy","Sum 17-18",
 "HCSE","RFPD 4300","Undergraduate","Buying and Planning","Sum 17-18",
 "HCSE","RFPD 4800","Undergraduate","Strategic Retail Policy","Sum 17-18",100
 "HCSE","RFPD 4900","Undergraduate","Special Topics in RFPD","Sum 17-18",
-"HCSE","RFPD 4910","Undergraduate","Internship - RFPD","Sum 17-18",100
 "HCSE","RFPD 4920","Undergraduate","New York Study Tour","Sum 17-18",
 "HCSE","RFPD 4930","Undergraduate","Independent Study","Sum 17-18",
 "HCSE","RHT 1050","Undergraduate","Intro to Food Operations Mgt","Sum 17-18",
@@ -9165,7 +8253,6 @@
 "HCSE","RHT 4430","Undergraduate","Hospitality Marketing","Sum 17-18",
 "HCSE","RHT 4700","Undergraduate","Casino Management II","Sum 17-18",
 "HCSE","RHT 4750","Undergraduate","Casino Marketing","Sum 17-18",
-"HCSE","RHT 4900","Undergraduate","Special Topics in RHT","Sum 17-18",
 "HCSE","RHT 4920","Undergraduate","Hospitality Practicum","Sum 17-18",79.2
 "HCSE","RHT 4930","Undergraduate","Independent Study in Hosp","Sum 17-18",
 "HCSE","T3 4725","Undergraduate","Women and Leadership","Sum 17-18",
@@ -9195,7 +8282,6 @@
 "RSP","COED 6940","Graduate","Research Dynamics","Sum 17-18",20
 "RSP","COED 6941","Graduate","Special Problems","Sum 17-18",60
 "RSP","COED 6950","Graduate","Thesis","Sum 17-18",
-"RSP","REC 5240","Graduate","Outdoor Leadership","Sum 17-18",50
 "RSP","REC 5400","Graduate","Environmental Interpretation","Sum 17-18",
 "RSP","REC 5430","Graduate","Marketing for Recreation","Sum 17-18",
 "RSP","REC 5460","Graduate","Parks & Protected Areas","Sum 17-18",
@@ -9307,22 +8393,8 @@
 "RSP","PETE 4900","Undergraduate","Special Topics in PETE","Sum 17-18",
 "RSP","PETE 4910","Undergraduate","Internship in PASC","Sum 17-18",66.7
 "RSP","PETE 4960","Undergraduate","PASC Seminar","Sum 17-18",66.7
-"RSP","REC 1000","Undergraduate","Wilderness Living Skills","Sum 17-18",
-"RSP","REC 1005","Undergraduate","Winter Wilderness Living Skill","Sum 17-18",
-"RSP","REC 1010","Undergraduate","Wilderness Navigation","Sum 17-18",
-"RSP","REC 1030","Undergraduate","Wilderness Survival","Sum 17-18",
-"RSP","REC 1080","Undergraduate","Fundamentals of Rock Climbing","Sum 17-18",
 "RSP","REC 1081","Undergraduate","Sport Rock Climbing","Sum 17-18",
-"RSP","REC 1082","Undergraduate","Traditional Rock Climbing","Sum 17-18",
-"RSP","REC 1110","Undergraduate","Cross Country Snow Skiing","Sum 17-18",
-"RSP","REC 1130","Undergraduate","Fundamentals of Canoeing","Sum 17-18",
-"RSP","REC 1140","Undergraduate","Fundamentals of Kayaking","Sum 17-18",
-"RSP","REC 1141","Undergraduate","Whitewater Kayaking","Sum 17-18",
-"RSP","REC 1142","Undergraduate","Coastal Kayaking","Sum 17-18",
-"RSP","REC 1150","Undergraduate","Whitewater Rafting","Sum 17-18",
 "RSP","REC 1160","Undergraduate","Stand Up Paddleboarding","Sum 17-18",
-"RSP","REC 1190","Undergraduate","Caving","Sum 17-18",
-"RSP","REC 1200","Undergraduate","Mountain Biking","Sum 17-18",
 "RSP","REC 1220","Undergraduate","Scuba Diver","Sum 17-18",
 "RSP","REC 1920","Undergraduate","Adventure Experience Practicum","Sum 17-18",
 "RSP","REC 2010","Undergraduate","Rec and Leisure in Society","Sum 17-18",40
@@ -9331,9 +8403,6 @@
 "RSP","REC 3050","Undergraduate","Rec Areas and Facilities","Sum 17-18",
 "RSP","REC 3100","Undergraduate","Recreation Programming","Sum 17-18",
 "RSP","REC 3110","Undergraduate","Expedition Planning & Mgmt","Sum 17-18",
-"RSP","REC 3120","Undergraduate","Wilderness 1st Responder","Sum 17-18",76
-"RSP","REC 3200","Undergraduate","Challenge Course Programming","Sum 17-18",
-"RSP","REC 3240","Undergraduate","Outdoor Leadership","Sum 17-18",75
 "RSP","REC 3400","Undergraduate","Environmental Interpretation","Sum 17-18",
 "RSP","REC 3460","Undergraduate","Parks & Protected Areas","Sum 17-18",
 "RSP","REC 3490","Undergraduate","Recreation Administration","Sum 17-18",
@@ -9351,18 +8420,12 @@
 "RSP","REC 4800","Undergraduate","Wilderness Literature","Sum 17-18",
 "RSP","REC 4850","Undergraduate","Adventure Programming","Sum 17-18",
 "RSP","REC 4901","Undergraduate","Special Topics","Sum 17-18",
-"RSP","REC 4910","Undergraduate","Internship in Recreation","Sum 17-18",68
 "RSP","REC 4920","Undergraduate","Practicum","Sum 17-18",0
 "RSP","T3 4710","Undergraduate","Sport Aesthetics","Sum 17-18",
 "TEDU","EDEL 5150","Graduate","Teaching Reading 4th & 5th Grd","Sum 17-18",
 "TEDU","EDEL 5370","Graduate","Teaching Math 4th & 5th Grade","Sum 17-18",
 "TEDU","EDEL 5480","Graduate","Teaching Science 4th & 5th Grd","Sum 17-18",
 "TEDU","EDEL 5560","Graduate","Teaching Soc Studies 4th & 5th","Sum 17-18",
-"TEDU","EDPL 5620","Graduate","Professional Internship","Sum 17-18",
-"TEDU","EDPL 5630","Graduate","Professional Internship","Sum 17-18",
-"TEDU","EDPL 5650","Graduate","Professional Intern Seminar","Sum 17-18",
-"TEDU","EDPL 5900","Graduate","Special Topics in EDPL","Sum 17-18",0
-"TEDU","EDPL 6920","Graduate","Intern: Theory Into Practice","Sum 17-18",
 "TEDU","EDSP 5700","Graduate","Nature & Needs Persons Excep","Sum 17-18",100
 "TEDU","EDSP 5720","Graduate","Career Develop Transition Plan","Sum 17-18",
 "TEDU","EDSP 5730","Graduate","Assess Special Needs Learners","Sum 17-18",
@@ -9380,18 +8443,15 @@
 "TEDU","EDSP 6820","Graduate","Practicum in Early Child Sp Ed","Sum 17-18",
 "TEDU","EDSP 6900","Graduate","Special Topics in EDSP","Sum 17-18",0
 "TEDU","EDTE 5100","Graduate","Principles of Curriculum","Sum 17-18",64
-"TEDU","EDTE 5100L","Graduate","Principles of Curriculum Lab","Sum 17-18",
 "TEDU","EDTE 5200","Graduate","Developmental Reading Instruct","Sum 17-18",12.5
 "TEDU","EDTE 5210","Graduate","Found of Language & Diversity","Sum 17-18",
 "TEDU","EDTE 5220","Graduate","Assess/Teach Struggling Reader","Sum 17-18",
-"TEDU","EDTE 5230","Graduate","Reading/Language: Laboratory","Sum 17-18",
 "TEDU","EDTE 5240","Graduate","Literature for Child & Adoles","Sum 17-18",
 "TEDU","EDTE 5260","Graduate","Content Area Reading","Sum 17-18",95
 "TEDU","EDTE 5270","Graduate","Phonics & Structure Language","Sum 17-18",20
 "TEDU","EDTE 5300","Graduate","Problems & Pract in Elem Math","Sum 17-18",
 "TEDU","EDTE 5400","Graduate","New Prog & Practice in Science","Sum 17-18",
 "TEDU","EDTE 5510","Graduate","Teach Mid Child Social Studies","Sum 17-18",
-"TEDU","EDTE 5510L","Graduate","Teach Mid Child Soc Stud-Lab","Sum 17-18",
 "TEDU","EDTE 5600","Graduate","Adv Studies of Children & Adol","Sum 17-18",100
 "TEDU","EDTE 5900","Graduate","Special Topics in EDTE","Sum 17-18",0
 "TEDU","EDTE 6160","Graduate","Mgmt & Monitor Student Lrng","Sum 17-18",
@@ -9401,14 +8461,12 @@
 "TEDU","EDTE 6900","Graduate","Special Topics in EDTE","Sum 17-18",1.8
 "TEDU","EDTE 6930","Graduate","Research in Education","Sum 17-18",20
 "TEDU","EDTE 6931","Graduate","Science Meth (Biol,Chem,Earth)","Sum 17-18",
-"TEDU","EDTE 6931L","Graduate","Lab Science Methods","Sum 17-18",
 "TEDU","EDTE 6932","Graduate","MC Eng Lang Arts Meth","Sum 17-18",
 "TEDU","EDTE 6932","Graduate","Secondary Eng Lang Arts Meth","Sum 17-18",
 "TEDU","EDTE 6932L","Graduate","Field Exp Eng Lang Arts Meth","Sum 17-18",
 "TEDU","EDTE 6940","Graduate","Master's Research Project","Sum 17-18",1.8
 "TEDU","EDTE 6950","Graduate","Master's Thesis","Sum 17-18",
 "TEDU","EDTE 6980","Graduate","Intro Teach Sec Social Studies","Sum 17-18",
-"TEDU","EDTE 6980L","Graduate","Lab in Social Studies Methods","Sum 17-18",
 "TEDU","EDTE 7150","Graduate","Theories of Curr & Curr Change","Sum 17-18",5
 "TEDU","EDTE 7160","Graduate","Observe & Assess Instruction","Sum 17-18",
 "TEDU","EDTE 7300","Graduate","Curriculum in Mathematics Educ","Sum 17-18",
@@ -9469,31 +8527,13 @@
 "TEDU","EDMC 3000","Undergraduate","Intro Middle Childhood Educ","Sum 17-18",
 "TEDU","EDMC 3010","Undergraduate","Curriculum Develop Mid Child","Sum 17-18",
 "TEDU","EDMC 3100","Undergraduate","Teaching Mid Child Lang Arts","Sum 17-18",
-"TEDU","EDMC 3100L","Undergraduate","Teach Mid Child Lang Arts-Lab","Sum 17-18",
 "TEDU","EDMC 3210","Undergraduate","Literature for Middle Child","Sum 17-18",
 "TEDU","EDMC 3300","Undergraduate","Teaching Middle Child Math","Sum 17-18",
-"TEDU","EDMC 3300L","Undergraduate","Teaching Middle Child Math-Lab","Sum 17-18",
 "TEDU","EDMC 3400","Undergraduate","Teaching Midddle Child Science","Sum 17-18",
-"TEDU","EDMC 3400L","Undergraduate","Teach Middle Child Science-Lab","Sum 17-18",
 "TEDU","EDMC 3500","Undergraduate","Teach Mid Child Social Studies","Sum 17-18",
-"TEDU","EDMC 3500L","Undergraduate","Teach Mid Child Soc Stud-Lab","Sum 17-18",
-"TEDU","EDPL 3600","Undergraduate","Field Experience","Sum 17-18",0
-"TEDU","EDPL 3610","Undergraduate","Field Service in Education","Sum 17-18",0.3
-"TEDU","EDPL 3920","Undergraduate","Partnership Practicum","Sum 17-18",
-"TEDU","EDPL 4560","Undergraduate","Prof Internship Music Ed","Sum 17-18",
-"TEDU","EDPL 4580","Undergraduate","Prof Internship Early Child","Sum 17-18",0.7
-"TEDU","EDPL 4590","Undergraduate","Prof Internship Early Child","Sum 17-18",0.7
-"TEDU","EDPL 4610","Undergraduate","Prof Internship Middle Child","Sum 17-18",0
-"TEDU","EDPL 4620","Undergraduate","Prof Internship Middle Child","Sum 17-18",0
-"TEDU","EDPL 4630","Undergraduate","Professional Internship AYA","Sum 17-18",0
-"TEDU","EDPL 4640","Undergraduate","Professional Internship AYA","Sum 17-18",0
-"TEDU","EDPL 4650","Undergraduate","Professional Intership Seminar","Sum 17-18",0.7
-"TEDU","EDPL 4670","Undergraduate","ECE Pre Primary Intern Seminar","Sum 17-18",56.7
-"TEDU","EDPL 4910","Undergraduate","PROF INTERN/EARLY CHILD","Sum 17-18",56.7
 "TEDU","EDSE 3500","Undergraduate","Secondary Planning &  Instruct","Sum 17-18",
 "TEDU","EDSE 3510","Undergraduate","Secondary Teaching & Learning","Sum 17-18",
 "TEDU","EDSE 4400C","Undergraduate","Secondary Sch Science Methods","Sum 17-18",
-"TEDU","EDSE 4400L","Undergraduate","Sec Sch Science Teaching Lab","Sum 17-18",
 "TEDU","EDSE 4790","Undergraduate","Intro to Teaching Soc Studies","Sum 17-18",
 "TEDU","EDSE 4790L","Undergraduate","Teach Sec Social Studies Field","Sum 17-18",
 "TEDU","EDSP 2710","Undergraduate","Intro to Special Education","Sum 17-18",
