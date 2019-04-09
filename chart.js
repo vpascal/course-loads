@@ -2,8 +2,8 @@
 //tracking the active button
 const header = document.getElementById("department");
 const btns = header.getElementsByClassName("btn");
-let button_value ='HCSE';
-let radio_value = "Undergraduate";
+let button_value ='C&HE';
+let radio_value = "Graduate";
 
 for (let i = 0; i < btns.length; i++) {
    btns[i].addEventListener("click", function() {
@@ -60,6 +60,10 @@ function wrap(text, width) {
 //Read the data
 function draw (dataset){
   d3.csv(dataset, function(data) {
+
+    // filter data
+
+    data = data.filter(function(d){return (d.Department == button_value) && (d.level === radio_value);})
 
     // Labels of row and columns -> unique identifier of the column called 'Term' and 'variable'
     const myGroups = d3.map(data, function(d){return d.Term;}).keys()
@@ -175,7 +179,7 @@ function draw (dataset){
   
     // add the squares
     svg.selectAll()
-      .data(data.filter(function(d){return (d.Department == button_value) && (d.level === radio_value);}))
+      .data(data)
       .enter()
       .append("rect")
         .attr("x", function(d) { return x(d.Term) })
