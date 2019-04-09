@@ -1,4 +1,23 @@
 
+//tracking the active button
+const header = document.getElementById("department");
+const btns = header.getElementsByClassName("btn");
+let button_value ='HCSE';
+let radio_value = "Undergraduate";
+
+for (let i = 0; i < btns.length; i++) {
+   btns[i].addEventListener("click", function() {
+   let current = document.getElementsByClassName("active");
+   let button_value = current[0].name;
+   current[0].className = current[0].className.replace(" active", "");
+   this.className += " active";
+
+     });
+ }
+
+//let radio_value = d3.select('input[name="level"]:checked').node().value;
+draw('data_small.csv');
+
 // set the dimensions and margins of the graph
 const margin = {top: 40, right: 90, bottom: 50, left: 90},
   width = 800 - margin.left - margin.right,
@@ -128,6 +147,7 @@ function draw (dataset){
       tooltip
         .html("Percent: " + d.percent 
                   + "<br>Term: "+ d.Term
+                  + "<br>Dept: "+ d.Department
                   + "<br>Course ID: "+d.course
                   + "<br>Course: "+d.class)
         .style("left", (d3.mouse(this)[0]+10) + "px")
@@ -155,7 +175,7 @@ function draw (dataset){
   
     // add the squares
     svg.selectAll()
-      .data(data, function(d) {return d.Term+':'+d.course;})
+      .data(data.filter(function(d){return (d.Department == button_value) && (d.level === radio_value);}))
       .enter()
       .append("rect")
         .attr("x", function(d) { return x(d.Term) })
@@ -184,29 +204,4 @@ function draw (dataset){
   })
   
 }
-
-//tracking the active button
-//const header = document.getElementById("department");
-//const btns = header.getElementsByClassName("btn");
-
-const btns =  d3.select('#department').selectAll('.btn');
-
-btns.on('click',function(){
-
-  d3.select(this).attr('class','active');
-
-});
-
-
-for (let i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function() {
-  let current = document.getElementsByClassName("active");
-  const button_value = current[0].name;
-  current[0].className = current[0].className.replace(" active", "");
-  this.className += " active";
-  });
-}
-
-const radio_value = d3.select('input[name="level"]:checked').node().value;
-draw('data_small.csv');
 
