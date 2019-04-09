@@ -1,0 +1,33 @@
+h1,h3 {
+    font-family: monospace;
+    font-weight: 100;
+}
+
+#department, #level{
+  padding-left: 20px;
+  font-family: monospace;
+  font-size: 15px;
+  
+}
+
+#level{
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+button {
+
+    padding: 7px;
+    font-family: monospace;
+    background-color: white;
+    cursor: pointer;
+  }
+
+ .tooltip{
+      position: absolute;
+  }
+
+  .active, .btn:hover {
+    background-color: #666;
+    color: white;
+  }
