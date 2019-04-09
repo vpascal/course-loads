@@ -1,4 +1,4 @@
-Department,course,level,class,Term,percent
+Department,course,level,Class,term,percent
 C&HE,EDCE 6200,Graduate,Foundations of Counseling,Fall 13-14,63.3
 C&HE,EDCE 6220,Graduate,Career Development,Fall 13-14,76.7
 C&HE,EDCE 6240,Graduate,Professional School Counseling,Fall 13-14,
@@ -126,7 +126,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Fall 13-14,25.8
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Fall 13-14,
 EDST,EDCS 5020,Graduate,Education & Social Change,Fall 13-14,86.7
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Fall 13-14,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Fall 13-14,60
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Fall 13-14,60
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Fall 13-14,66.7
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Fall 13-14,100
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Fall 13-14,13.3
@@ -197,7 +197,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Fall 13-14,0
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Fall 13-14,0
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Fall 13-14,100
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Fall 13-14,91
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Fall 13-14,100
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Fall 13-14,100
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Fall 13-14,14
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Fall 13-14,0
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Fall 13-14,0
@@ -209,8 +209,8 @@ HCSE,CONS 6940,Graduate,Research,Fall 13-14,16.7
 HCSE,CONS 6950,Graduate,Thesis,Fall 13-14,16.7
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Fall 13-14,1.7
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Fall 13-14,0
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Fall 13-14,20
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Fall 13-14,4
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Fall 13-14,20
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Fall 13-14,4
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Fall 13-14,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Fall 13-14,
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Fall 13-14,0
@@ -232,7 +232,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Fall 13-14,100
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Fall 13-14,90
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Fall 13-14,51
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Fall 13-14,60
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Fall 13-14,100
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Fall 13-14,100
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Fall 13-14,73.3
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Fall 13-14,65
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Fall 13-14,61.7
@@ -466,7 +466,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Fall 13-14,
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Fall 13-14,100
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Fall 13-14,8.5
 TEDU,EDTE 6930,Graduate,Research in Education,Fall 13-14,33.3
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Fall 13-14,90
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Fall 13-14,90
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Fall 13-14,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Fall 13-14,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Fall 13-14,
@@ -520,7 +520,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Fall 13-14,100
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Fall 13-14,96
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Fall 13-14,69.1
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Fall 13-14,
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Fall 13-14,56.7
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Fall 13-14,56.7
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Fall 13-14,70
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Fall 13-14,
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Fall 13-14,
@@ -697,7 +697,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Spr 13-14,21.5
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Spr 13-14,93.3
 EDST,EDCS 5020,Graduate,Education & Social Change,Spr 13-14,
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Spr 13-14,26.7
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Spr 13-14,
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Spr 13-14,
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Spr 13-14,
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Spr 13-14,
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Spr 13-14,25
@@ -768,7 +768,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Spr 13-14,
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Spr 13-14,
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Spr 13-14,95
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Spr 13-14,92.5
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Spr 13-14,100
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Spr 13-14,100
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Spr 13-14,70
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Spr 13-14,
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Spr 13-14,0
@@ -780,8 +780,8 @@ HCSE,CONS 6940,Graduate,Research,Spr 13-14,22.2
 HCSE,CONS 6950,Graduate,Thesis,Spr 13-14,11.1
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Spr 13-14,
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Spr 13-14,
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Spr 13-14,
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Spr 13-14,10
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Spr 13-14,
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Spr 13-14,10
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Spr 13-14,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Spr 13-14,10
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Spr 13-14,
@@ -803,7 +803,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Spr 13-14,100
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Spr 13-14,100
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Spr 13-14,67
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Spr 13-14,93.3
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Spr 13-14,100
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Spr 13-14,100
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Spr 13-14,
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Spr 13-14,
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Spr 13-14,53.3
@@ -1037,7 +1037,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Spr 13-14,100
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Spr 13-14,
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Spr 13-14,26
 TEDU,EDTE 6930,Graduate,Research in Education,Spr 13-14,100
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Spr 13-14,
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Spr 13-14,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Spr 13-14,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Spr 13-14,20
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Spr 13-14,20
@@ -1091,7 +1091,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Spr 13-14,100
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Spr 13-14,94
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Spr 13-14,82
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Spr 13-14,10
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Spr 13-14,100
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Spr 13-14,100
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Spr 13-14,100
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Spr 13-14,
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Spr 13-14,18.2
@@ -1268,7 +1268,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Sum 13-14,20
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Sum 13-14,
 EDST,EDCS 5020,Graduate,Education & Social Change,Sum 13-14,
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Sum 13-14,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Sum 13-14,97.5
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Sum 13-14,97.5
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Sum 13-14,
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Sum 13-14,
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Sum 13-14,16.7
@@ -1339,7 +1339,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Sum 13-14,8
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Sum 13-14,
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Sum 13-14,
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Sum 13-14,100
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Sum 13-14,
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Sum 13-14,
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Sum 13-14,9
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Sum 13-14,2
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Sum 13-14,2
@@ -1351,8 +1351,8 @@ HCSE,CONS 6940,Graduate,Research,Sum 13-14,0
 HCSE,CONS 6950,Graduate,Thesis,Sum 13-14,0
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Sum 13-14,
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Sum 13-14,
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Sum 13-14,
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Sum 13-14,0
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Sum 13-14,
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Sum 13-14,0
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Sum 13-14,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Sum 13-14,
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Sum 13-14,
@@ -1374,7 +1374,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Sum 13-14,
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Sum 13-14,
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Sum 13-14,
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Sum 13-14,
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Sum 13-14,
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Sum 13-14,
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Sum 13-14,
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Sum 13-14,
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Sum 13-14,
@@ -1608,7 +1608,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Sum 13-14,
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Sum 13-14,100
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Sum 13-14,11.4
 TEDU,EDTE 6930,Graduate,Research in Education,Sum 13-14,100
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Sum 13-14,
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Sum 13-14,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Sum 13-14,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Sum 13-14,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Sum 13-14,
@@ -1662,7 +1662,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Sum 13-14,
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Sum 13-14,
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Sum 13-14,
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Sum 13-14,
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Sum 13-14,36.7
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Sum 13-14,36.7
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Sum 13-14,50
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Sum 13-14,
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Sum 13-14,28
@@ -1839,7 +1839,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Fall 14-15,33.3
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Fall 14-15,
 EDST,EDCS 5020,Graduate,Education & Social Change,Fall 14-15,66.7
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Fall 14-15,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Fall 14-15,73.3
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Fall 14-15,73.3
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Fall 14-15,100
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Fall 14-15,100
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Fall 14-15,0
@@ -1910,7 +1910,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Fall 14-15,
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Fall 14-15,
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Fall 14-15,100
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Fall 14-15,77.5
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Fall 14-15,100
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Fall 14-15,100
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Fall 14-15,73.3
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Fall 14-15,0
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Fall 14-15,0
@@ -1922,8 +1922,8 @@ HCSE,CONS 6940,Graduate,Research,Fall 14-15,11.1
 HCSE,CONS 6950,Graduate,Thesis,Fall 14-15,22.2
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Fall 14-15,5
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Fall 14-15,6.7
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Fall 14-15,30
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Fall 14-15,8
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Fall 14-15,30
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Fall 14-15,8
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Fall 14-15,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Fall 14-15,
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Fall 14-15,
@@ -1945,7 +1945,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Fall 14-15,100
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Fall 14-15,100
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Fall 14-15,72
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Fall 14-15,100
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Fall 14-15,100
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Fall 14-15,100
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Fall 14-15,91.7
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Fall 14-15,85
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Fall 14-15,
@@ -2179,7 +2179,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Fall 14-15,
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Fall 14-15,97.5
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Fall 14-15,7.6
 TEDU,EDTE 6930,Graduate,Research in Education,Fall 14-15,26.7
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Fall 14-15,50
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Fall 14-15,50
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Fall 14-15,10
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Fall 14-15,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Fall 14-15,0
@@ -2233,7 +2233,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Fall 14-15,100
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Fall 14-15,96
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Fall 14-15,74
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Fall 14-15,0
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Fall 14-15,96.7
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Fall 14-15,96.7
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Fall 14-15,88
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Fall 14-15,
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Fall 14-15,68
@@ -2410,7 +2410,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Spr 14-15,23.2
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Spr 14-15,80
 EDST,EDCS 5020,Graduate,Education & Social Change,Spr 14-15,
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Spr 14-15,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Spr 14-15,
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Spr 14-15,
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Spr 14-15,
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Spr 14-15,
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Spr 14-15,20
@@ -2481,7 +2481,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Spr 14-15,
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Spr 14-15,
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Spr 14-15,100
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Spr 14-15,91.2
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Spr 14-15,100
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Spr 14-15,100
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Spr 14-15,77.5
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Spr 14-15,
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Spr 14-15,6.7
@@ -2493,8 +2493,8 @@ HCSE,CONS 6940,Graduate,Research,Spr 14-15,11.1
 HCSE,CONS 6950,Graduate,Thesis,Spr 14-15,22.2
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Spr 14-15,
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Spr 14-15,
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Spr 14-15,
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Spr 14-15,3.3
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Spr 14-15,
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Spr 14-15,3.3
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Spr 14-15,20
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Spr 14-15,2
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Spr 14-15,
@@ -2516,7 +2516,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Spr 14-15,100
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Spr 14-15,100
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Spr 14-15,60
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Spr 14-15,100
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Spr 14-15,100
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Spr 14-15,100
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Spr 14-15,
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Spr 14-15,
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Spr 14-15,85
@@ -2750,7 +2750,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Spr 14-15,100
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Spr 14-15,
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Spr 14-15,22.7
 TEDU,EDTE 6930,Graduate,Research in Education,Spr 14-15,100
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Spr 14-15,
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Spr 14-15,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Spr 14-15,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Spr 14-15,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Spr 14-15,
@@ -2804,7 +2804,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Spr 14-15,100
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Spr 14-15,98
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Spr 14-15,86
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Spr 14-15,0
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Spr 14-15,60
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Spr 14-15,60
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Spr 14-15,
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Spr 14-15,78.9
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Spr 14-15,80
@@ -2981,7 +2981,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Sum 14-15,20
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Sum 14-15,
 EDST,EDCS 5020,Graduate,Education & Social Change,Sum 14-15,
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Sum 14-15,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Sum 14-15,62.5
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Sum 14-15,62.5
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Sum 14-15,
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Sum 14-15,
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Sum 14-15,11.1
@@ -3052,7 +3052,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Sum 14-15,0
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Sum 14-15,
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Sum 14-15,0
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Sum 14-15,52
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Sum 14-15,8
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Sum 14-15,8
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Sum 14-15,
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Sum 14-15,
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Sum 14-15,
@@ -3064,8 +3064,8 @@ HCSE,CONS 6940,Graduate,Research,Sum 14-15,0
 HCSE,CONS 6950,Graduate,Thesis,Sum 14-15,16.7
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Sum 14-15,
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Sum 14-15,
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Sum 14-15,
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Sum 14-15,
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Sum 14-15,
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Sum 14-15,
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Sum 14-15,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Sum 14-15,
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Sum 14-15,
@@ -3087,7 +3087,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Sum 14-15,
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Sum 14-15,
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Sum 14-15,
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Sum 14-15,
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Sum 14-15,
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Sum 14-15,
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Sum 14-15,
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Sum 14-15,
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Sum 14-15,
@@ -3321,7 +3321,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Sum 14-15,
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Sum 14-15,100
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Sum 14-15,13.8
 TEDU,EDTE 6930,Graduate,Research in Education,Sum 14-15,40
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Sum 14-15,
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Sum 14-15,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Sum 14-15,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Sum 14-15,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Sum 14-15,
@@ -3375,7 +3375,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Sum 14-15,
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Sum 14-15,
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Sum 14-15,
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Sum 14-15,
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Sum 14-15,60
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Sum 14-15,60
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Sum 14-15,
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Sum 14-15,
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Sum 14-15,80
@@ -3552,7 +3552,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Fall 15-16,25.9
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Fall 15-16,
 EDST,EDCS 5020,Graduate,Education & Social Change,Fall 15-16,
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Fall 15-16,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Fall 15-16,6.7
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Fall 15-16,6.7
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Fall 15-16,93.3
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Fall 15-16,90
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Fall 15-16,0
@@ -3623,7 +3623,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Fall 15-16,
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Fall 15-16,
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Fall 15-16,100
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Fall 15-16,93.3
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Fall 15-16,95
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Fall 15-16,95
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Fall 15-16,41.1
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Fall 15-16,0
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Fall 15-16,0
@@ -3635,8 +3635,8 @@ HCSE,CONS 6940,Graduate,Research,Fall 15-16,16.7
 HCSE,CONS 6950,Graduate,Thesis,Fall 15-16,33.3
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Fall 15-16,1.7
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Fall 15-16,0
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Fall 15-16,10
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Fall 15-16,6.7
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Fall 15-16,10
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Fall 15-16,6.7
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Fall 15-16,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Fall 15-16,10
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Fall 15-16,
@@ -3658,7 +3658,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Fall 15-16,100
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Fall 15-16,100
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Fall 15-16,84
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Fall 15-16,100
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Fall 15-16,100
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Fall 15-16,100
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Fall 15-16,91.7
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Fall 15-16,71.7
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Fall 15-16,46.7
@@ -3892,7 +3892,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Fall 15-16,
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Fall 15-16,65
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Fall 15-16,9.5
 TEDU,EDTE 6930,Graduate,Research in Education,Fall 15-16,50
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Fall 15-16,20
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Fall 15-16,20
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Fall 15-16,20
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Fall 15-16,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Fall 15-16,5
@@ -3946,7 +3946,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Fall 15-16,100
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Fall 15-16,92
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Fall 15-16,96
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Fall 15-16,4
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Fall 15-16,46.7
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Fall 15-16,46.7
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Fall 15-16,90.7
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Fall 15-16,
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Fall 15-16,56
@@ -4123,7 +4123,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Spr 15-16,18.7
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Spr 15-16,86.7
 EDST,EDCS 5020,Graduate,Education & Social Change,Spr 15-16,
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Spr 15-16,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Spr 15-16,90
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Spr 15-16,90
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Spr 15-16,
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Spr 15-16,
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Spr 15-16,0
@@ -4194,7 +4194,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Spr 15-16,
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Spr 15-16,30
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Spr 15-16,96
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Spr 15-16,89.3
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Spr 15-16,100
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Spr 15-16,100
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Spr 15-16,18
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Spr 15-16,
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Spr 15-16,0
@@ -4206,8 +4206,8 @@ HCSE,CONS 6940,Graduate,Research,Spr 15-16,33.3
 HCSE,CONS 6950,Graduate,Thesis,Spr 15-16,16.7
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Spr 15-16,
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Spr 15-16,
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Spr 15-16,
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Spr 15-16,0
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Spr 15-16,
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Spr 15-16,0
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Spr 15-16,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Spr 15-16,10
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Spr 15-16,
@@ -4229,7 +4229,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Spr 15-16,52.7
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Spr 15-16,100
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Spr 15-16,54
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Spr 15-16,100
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Spr 15-16,100
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Spr 15-16,100
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Spr 15-16,
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Spr 15-16,
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Spr 15-16,63.3
@@ -4463,7 +4463,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Spr 15-16,100
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Spr 15-16,5
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Spr 15-16,20.8
 TEDU,EDTE 6930,Graduate,Research in Education,Spr 15-16,80
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Spr 15-16,
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Spr 15-16,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Spr 15-16,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Spr 15-16,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Spr 15-16,
@@ -4517,7 +4517,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Spr 15-16,100
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Spr 15-16,100
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Spr 15-16,100
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Spr 15-16,0
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Spr 15-16,70
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Spr 15-16,70
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Spr 15-16,
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Spr 15-16,73.3
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Spr 15-16,84
@@ -4694,7 +4694,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Sum 15-16,28.1
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Sum 15-16,
 EDST,EDCS 5020,Graduate,Education & Social Change,Sum 15-16,
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Sum 15-16,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Sum 15-16,100
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Sum 15-16,100
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Sum 15-16,
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Sum 15-16,
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Sum 15-16,0
@@ -4765,7 +4765,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Sum 15-16,1
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Sum 15-16,
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Sum 15-16,
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Sum 15-16,52
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Sum 15-16,
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Sum 15-16,
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Sum 15-16,
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Sum 15-16,
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Sum 15-16,
@@ -4777,8 +4777,8 @@ HCSE,CONS 6940,Graduate,Research,Sum 15-16,25
 HCSE,CONS 6950,Graduate,Thesis,Sum 15-16,50
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Sum 15-16,
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Sum 15-16,
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Sum 15-16,
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Sum 15-16,
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Sum 15-16,
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Sum 15-16,
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Sum 15-16,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Sum 15-16,10
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Sum 15-16,
@@ -4800,7 +4800,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Sum 15-16,
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Sum 15-16,
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Sum 15-16,
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Sum 15-16,
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Sum 15-16,
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Sum 15-16,
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Sum 15-16,
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Sum 15-16,
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Sum 15-16,
@@ -5034,7 +5034,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Sum 15-16,
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Sum 15-16,87.5
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Sum 15-16,8.3
 TEDU,EDTE 6930,Graduate,Research in Education,Sum 15-16,30
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Sum 15-16,
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Sum 15-16,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Sum 15-16,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Sum 15-16,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Sum 15-16,
@@ -5088,7 +5088,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Sum 15-16,
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Sum 15-16,
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Sum 15-16,
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Sum 15-16,
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Sum 15-16,73.3
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Sum 15-16,73.3
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Sum 15-16,
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Sum 15-16,
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Sum 15-16,92
@@ -5265,7 +5265,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Fall 16-17,27.8
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Fall 16-17,
 EDST,EDCS 5020,Graduate,Education & Social Change,Fall 16-17,86.7
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Fall 16-17,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Fall 16-17,
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Fall 16-17,
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Fall 16-17,73.3
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Fall 16-17,90
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Fall 16-17,10
@@ -5336,7 +5336,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Fall 16-17,
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Fall 16-17,
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Fall 16-17,100
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Fall 16-17,58.7
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Fall 16-17,100
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Fall 16-17,100
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Fall 16-17,100
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Fall 16-17,0
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Fall 16-17,0
@@ -5348,8 +5348,8 @@ HCSE,CONS 6940,Graduate,Research,Fall 16-17,20
 HCSE,CONS 6950,Graduate,Thesis,Fall 16-17,16.7
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Fall 16-17,5
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Fall 16-17,
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Fall 16-17,
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Fall 16-17,10
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Fall 16-17,
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Fall 16-17,10
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Fall 16-17,13.3
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Fall 16-17,5
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Fall 16-17,
@@ -5371,7 +5371,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Fall 16-17,100
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Fall 16-17,100
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Fall 16-17,60
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Fall 16-17,96.9
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Fall 16-17,100
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Fall 16-17,100
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Fall 16-17,85
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Fall 16-17,91.7
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Fall 16-17,41.7
@@ -5605,7 +5605,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Fall 16-17,
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Fall 16-17,100
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Fall 16-17,19.1
 TEDU,EDTE 6930,Graduate,Research in Education,Fall 16-17,50
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Fall 16-17,13.3
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Fall 16-17,13.3
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Fall 16-17,36
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Fall 16-17,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Fall 16-17,0
@@ -5659,7 +5659,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Fall 16-17,94.4
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Fall 16-17,76.7
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Fall 16-17,78.3
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Fall 16-17,0
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Fall 16-17,76.7
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Fall 16-17,76.7
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Fall 16-17,92.4
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Fall 16-17,
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Fall 16-17,92
@@ -5836,7 +5836,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Spr 16-17,17
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Spr 16-17,66.7
 EDST,EDCS 5020,Graduate,Education & Social Change,Spr 16-17,
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Spr 16-17,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Spr 16-17,60
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Spr 16-17,60
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Spr 16-17,
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Spr 16-17,
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Spr 16-17,40
@@ -5907,7 +5907,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Spr 16-17,
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Spr 16-17,0
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Spr 16-17,8.5
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Spr 16-17,100
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Spr 16-17,11.1
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Spr 16-17,11.1
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Spr 16-17,90
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Spr 16-17,
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Spr 16-17,0
@@ -5919,8 +5919,8 @@ HCSE,CONS 6940,Graduate,Research,Spr 16-17,16.7
 HCSE,CONS 6950,Graduate,Thesis,Spr 16-17,16.7
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Spr 16-17,0
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Spr 16-17,
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Spr 16-17,
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Spr 16-17,6.7
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Spr 16-17,
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Spr 16-17,6.7
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Spr 16-17,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Spr 16-17,10
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Spr 16-17,
@@ -5942,7 +5942,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Spr 16-17,10.5
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Spr 16-17,100
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Spr 16-17,67
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Spr 16-17,100
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Spr 16-17,100
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Spr 16-17,100
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Spr 16-17,
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Spr 16-17,40
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Spr 16-17,66.7
@@ -6176,7 +6176,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Spr 16-17,100
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Spr 16-17,
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Spr 16-17,17.6
 TEDU,EDTE 6930,Graduate,Research in Education,Spr 16-17,100
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Spr 16-17,
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Spr 16-17,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Spr 16-17,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Spr 16-17,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Spr 16-17,
@@ -6230,7 +6230,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Spr 16-17,83.8
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Spr 16-17,84.3
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Spr 16-17,85.7
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Spr 16-17,0
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Spr 16-17,70
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Spr 16-17,70
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Spr 16-17,
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Spr 16-17,92.2
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Spr 16-17,88
@@ -6407,7 +6407,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Sum 16-17,16
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Sum 16-17,
 EDST,EDCS 5020,Graduate,Education & Social Change,Sum 16-17,
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Sum 16-17,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Sum 16-17,
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Sum 16-17,
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Sum 16-17,
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Sum 16-17,
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Sum 16-17,7.7
@@ -6478,7 +6478,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Sum 16-17,
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Sum 16-17,
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Sum 16-17,
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Sum 16-17,
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Sum 16-17,
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Sum 16-17,
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Sum 16-17,
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Sum 16-17,
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Sum 16-17,
@@ -6490,8 +6490,8 @@ HCSE,CONS 6940,Graduate,Research,Sum 16-17,0
 HCSE,CONS 6950,Graduate,Thesis,Sum 16-17,25
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Sum 16-17,
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Sum 16-17,
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Sum 16-17,
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Sum 16-17,
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Sum 16-17,
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Sum 16-17,
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Sum 16-17,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Sum 16-17,
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Sum 16-17,
@@ -6513,7 +6513,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Sum 16-17,
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Sum 16-17,
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Sum 16-17,
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Sum 16-17,
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Sum 16-17,
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Sum 16-17,
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Sum 16-17,
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Sum 16-17,
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Sum 16-17,
@@ -6747,7 +6747,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Sum 16-17,
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Sum 16-17,65
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Sum 16-17,24.8
 TEDU,EDTE 6930,Graduate,Research in Education,Sum 16-17,100
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Sum 16-17,
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Sum 16-17,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Sum 16-17,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Sum 16-17,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Sum 16-17,
@@ -6801,7 +6801,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Sum 16-17,
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Sum 16-17,
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Sum 16-17,
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Sum 16-17,
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Sum 16-17,86.7
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Sum 16-17,86.7
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Sum 16-17,
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Sum 16-17,
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Sum 16-17,100
@@ -6978,7 +6978,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Fall 17-18,21.5
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Fall 17-18,
 EDST,EDCS 5020,Graduate,Education & Social Change,Fall 17-18,93.3
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Fall 17-18,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Fall 17-18,
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Fall 17-18,
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Fall 17-18,66.7
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Fall 17-18,46.7
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Fall 17-18,0
@@ -7049,7 +7049,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Fall 17-18,
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Fall 17-18,
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Fall 17-18,96.7
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Fall 17-18,92.2
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Fall 17-18,93.3
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Fall 17-18,93.3
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Fall 17-18,
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Fall 17-18,0
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Fall 17-18,0
@@ -7061,8 +7061,8 @@ HCSE,CONS 6940,Graduate,Research,Fall 17-18,
 HCSE,CONS 6950,Graduate,Thesis,Fall 17-18,20
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Fall 17-18,40
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Fall 17-18,
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Fall 17-18,20
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Fall 17-18,20
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Fall 17-18,20
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Fall 17-18,20
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Fall 17-18,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Fall 17-18,
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Fall 17-18,
@@ -7084,7 +7084,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Fall 17-18,96
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Fall 17-18,100
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Fall 17-18,59
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Fall 17-18,100
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Fall 17-18,100
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Fall 17-18,100
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Fall 17-18,100
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Fall 17-18,97.1
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Fall 17-18,83.3
@@ -7318,7 +7318,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Fall 17-18,
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Fall 17-18,100
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Fall 17-18,19.6
 TEDU,EDTE 6930,Graduate,Research in Education,Fall 17-18,100
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Fall 17-18,13.3
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Fall 17-18,13.3
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Fall 17-18,4
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Fall 17-18,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Fall 17-18,0
@@ -7372,7 +7372,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Fall 17-18,85.6
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Fall 17-18,92.7
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Fall 17-18,50
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Fall 17-18,0
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Fall 17-18,100
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Fall 17-18,100
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Fall 17-18,50.6
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Fall 17-18,
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Fall 17-18,100
@@ -7549,7 +7549,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Spr 17-18,11.8
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Spr 17-18,50
 EDST,EDCS 5020,Graduate,Education & Social Change,Spr 17-18,
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Spr 17-18,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Spr 17-18,60
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Spr 17-18,60
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Spr 17-18,
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Spr 17-18,25
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Spr 17-18,0
@@ -7620,7 +7620,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Spr 17-18,
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Spr 17-18,0
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Spr 17-18,96.7
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Spr 17-18,100
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Spr 17-18,50
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Spr 17-18,50
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Spr 17-18,
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Spr 17-18,
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Spr 17-18,0
@@ -7632,8 +7632,8 @@ HCSE,CONS 6940,Graduate,Research,Spr 17-18,20
 HCSE,CONS 6950,Graduate,Thesis,Spr 17-18,10
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Spr 17-18,
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Spr 17-18,
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Spr 17-18,
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Spr 17-18,
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Spr 17-18,
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Spr 17-18,
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Spr 17-18,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Spr 17-18,
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Spr 17-18,
@@ -7655,7 +7655,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Spr 17-18,96.9
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Spr 17-18,100
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Spr 17-18,46.7
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Spr 17-18,100
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Spr 17-18,100
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Spr 17-18,100
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Spr 17-18,100
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Spr 17-18,82.9
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Spr 17-18,94.3
@@ -7889,7 +7889,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Spr 17-18,100
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Spr 17-18,
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Spr 17-18,19.5
 TEDU,EDTE 6930,Graduate,Research in Education,Spr 17-18,80
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Spr 17-18,
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Spr 17-18,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Spr 17-18,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Spr 17-18,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Spr 17-18,
@@ -7943,7 +7943,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Spr 17-18,60
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Spr 17-18,61.7
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Spr 17-18,61.7
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Spr 17-18,0
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Spr 17-18,93.3
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Spr 17-18,93.3
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Spr 17-18,
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Spr 17-18,79.2
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Spr 17-18,100
@@ -8120,7 +8120,7 @@ EDST,EDAD 8950,Graduate,Dissertation,Sum 17-18,8.3
 EDST,EDCS 5010,Graduate,History & Philosophies of Edu,Sum 17-18,
 EDST,EDCS 5020,Graduate,Education & Social Change,Sum 17-18,
 EDST,EDCS 5030,Graduate,Advanced Philosophy of Educ,Sum 17-18,
-EDST,EDCS 5040,Graduate,Soc, Politics & Change in Edu,Sum 17-18,75
+EDST,EDCS 5040,Graduate,Soc Politics & Change in Edu,Sum 17-18,75
 EDST,EDCS 5100,Graduate,Intro Critical Studies in Educ,Sum 17-18,
 EDST,EDCS 5110,Graduate,Colloquium Critical Studies Ed,Sum 17-18,
 EDST,EDCS 5900,Graduate,Independent Study Critical Stu,Sum 17-18,0
@@ -8191,7 +8191,7 @@ EDST,EDAD 4200,Undergraduate,Comparative Cultures & Educ,Sum 17-18,0
 EDST,EDAD 4900,Undergraduate,Special Topics in EDAD,Sum 17-18,
 EDST,EDCS 1011,Undergraduate,Intro to Diversity Studies,Sum 17-18,
 EDST,EDCS 3010,Undergraduate,Education & Cultural Diversity,Sum 17-18,
-EDST,EDCS 4001,Undergraduate,Democracy, Diversity & Educ,Sum 17-18,
+EDST,EDCS 4001,Undergraduate,Democracy Diversity & Educ,Sum 17-18,
 EDST,EDCS 4900,Undergraduate,Special Topics Critical Study,Sum 17-18,
 EDST,EDCS 4920,Undergraduate,Practicum in Critical Studies,Sum 17-18,
 EDST,EDCS 4930,Undergraduate,Independent Study Critical Stu,Sum 17-18,
@@ -8203,8 +8203,8 @@ HCSE,CONS 6940,Graduate,Research,Sum 17-18,20
 HCSE,CONS 6950,Graduate,Thesis,Sum 17-18,20
 HCSE,RFPD 5070,Graduate,Texitle and Fashion Industry,Sum 17-18,
 HCSE,RFPD 5900,Graduate,Special Topics in RFPD,Sum 17-18,
-HCSE,RFPD 6090,Graduate,Psy, Soc, and Econ Aspects,Sum 17-18,
-HCSE,RFPD 6170,Graduate,Readings: Apparel, Text, Merch,Sum 17-18,
+HCSE,RFPD 6090,Graduate,Psy Soc and Econ Aspects,Sum 17-18,
+HCSE,RFPD 6170,Graduate,Readings: Apparel Text Merch,Sum 17-18,
 HCSE,RFPD 6500,Graduate,Theories in Merchandising,Sum 17-18,
 HCSE,RFPD 6900,Graduate,Special Topics in RFPD,Sum 17-18,
 HCSE,RHT 5330,Graduate,Food Sanitation and Safety,Sum 17-18,
@@ -8226,7 +8226,7 @@ HCSE,RFPD 1500,Undergraduate,Design and Illustration,Sum 17-18,
 HCSE,RFPD 1600,Undergraduate,Color Theory for Visual Merch,Sum 17-18,
 HCSE,RFPD 2010,Undergraduate,Introduction to Retailing,Sum 17-18,
 HCSE,RFPD 2150,Undergraduate,Elementary Textiles,Sum 17-18,
-HCSE,RFPD 3830,Undergraduate,Product Dev, Eval and Distrib,Sum 17-18,
+HCSE,RFPD 3830,Undergraduate,Product Dev Eval and Distrib,Sum 17-18,
 HCSE,RFPD 3890,Undergraduate,Career Search Strategies,Sum 17-18,
 HCSE,RFPD 4070,Undergraduate,Global Retail Issues,Sum 17-18,
 HCSE,RFPD 4230,Undergraduate,Retail Merchandising-Strategy,Sum 17-18,
@@ -8460,7 +8460,7 @@ TEDU,EDTE 6230,Graduate,Coach Teachers in Reading/Lit,Sum 17-18,
 TEDU,EDTE 6670,Graduate,Teacher as Action Researcher,Sum 17-18,
 TEDU,EDTE 6900,Graduate,Special Topics in EDTE,Sum 17-18,1.8
 TEDU,EDTE 6930,Graduate,Research in Education,Sum 17-18,20
-TEDU,EDTE 6931,Graduate,Science Meth (Biol,Chem,Earth),Sum 17-18,
+TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Sum 17-18,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Sum 17-18,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Sum 17-18,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Sum 17-18,
@@ -8514,7 +8514,7 @@ TEDU,EDEC 3610,Undergraduate,Guidance & Management Early Ch,Sum 17-18,
 TEDU,EDEC 3701,Undergraduate,Diversity Early Childhood Ed,Sum 17-18,
 TEDU,EDEC 3801,Undergraduate,Play & Creativity in ECE,Sum 17-18,
 TEDU,EDEC 3929,Undergraduate,Practicum Early Childhood Ed,Sum 17-18,
-TEDU,EDEC 4100,Undergraduate,Family, School and Community,Sum 17-18,53.3
+TEDU,EDEC 4100,Undergraduate,Family School and Community,Sum 17-18,53.3
 TEDU,EDEC 4200,Undergraduate,Phil & Theories Child Develop,Sum 17-18,
 TEDU,EDEC 4300,Undergraduate,Authentic Assessment in ECE,Sum 17-18,
 TEDU,EDEC 4500,Undergraduate,EC Curriculum Princ & Practice,Sum 17-18,68

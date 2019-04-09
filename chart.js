@@ -16,7 +16,7 @@ for (let i = 0; i < btns.length; i++) {
  }
 
 //let radio_value = d3.select('input[name="level"]:checked').node().value;
-draw('data_small.csv');
+draw('dataset.csv');
 
 // set the dimensions and margins of the graph
 const margin = {top: 40, right: 90, bottom: 50, left: 90},
