@@ -3,14 +3,14 @@ h1,h3 {
     font-weight: 100;
 }
 
-#department, #level{
+#department, #level_gr{
   padding-left: 20px;
   font-family: monospace;
   font-size: 15px;
   
 }
 
-#level{
+#level_gr{
     padding-top: 5px;
     padding-bottom: 15px;
 }

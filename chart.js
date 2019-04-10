@@ -1,21 +1,43 @@
 
 //tracking the active button
-const header = document.getElementById("department");
-const btns = header.getElementsByClassName("btn");
+// const header = document.getElementById("department");
+// const btns = header.getElementsByClassName("btn");
+
 let button_value ='C&HE';
-let radio_value = "Graduate";
+document.getElementById("Undergraduate").checked = true;
+let radio_value=d3.select('input[name="level"]:checked').node().value
 
-for (let i = 0; i < btns.length; i++) {
-   btns[i].addEventListener("click", function() {
-   let current = document.getElementsByClassName("active");
-   let button_value = current[0].name;
-   current[0].className = current[0].className.replace(" active", "");
-   this.className += " active";
+// for (let i = 0; i < btns.length; i++) {
+//    btns[i].addEventListener("click", function() {
+//    let current = document.getElementsByClassName("active");
+//    button_value = current[0].name;
+//    current[0].className = current[0].className.replace(" active", "");
+//    this.className += " active";
+//       draw('dataset.csv');
+//      });
+//  }
 
-     });
- }
+d3.selectAll(".btn").on("click", function() {
+  //check if node is already selected
+  var text = d3.select(this).classed('active');
+  d3.selectAll(".btn").classed('active',false);
+  if(text){
+    //remove acctive class
+    d3.select(this).classed('active',false);
+      } else{
+    d3.select(this).classed('active',true);
+    button_value = this.name;
+    draw('dataset.csv');
+  }
+  }
+);
 
-//let radio_value = d3.select('input[name="level"]:checked').node().value;
+d3.selectAll('input').on('click', function(){
+   radio_value = this.value;
+   draw('dataset.csv');
+});
+
+
 draw('dataset.csv');
 
 // set the dimensions and margins of the graph
@@ -57,11 +79,11 @@ function wrap(text, width) {
   });
 }        
 
-//Read the data
+ //Read the data
 function draw (dataset){
   d3.csv(dataset, function(data) {
 
-    // filter data
+   // filter data
 
     data = data.filter(function(d){return (d.Department == button_value) && (d.level === radio_value);})
 
@@ -70,8 +92,8 @@ function draw (dataset){
     const myVars = d3.map(data, function(d){return d.course;}).keys()
     myVars.sort().reverse();
   
-    // Build X scales and axis:
-    const x = d3.scaleBand()
+ // Build X scales and axis, they're static:
+      const x = d3.scaleBand()
       .range([ 0, width ])
       .padding(0.1)
       .domain(['Fall 13-14','Spr 13-14','Sum 13-14','Fall 14-15','Spr 14-15','Sum 14-15',
@@ -79,30 +101,31 @@ function draw (dataset){
                     'Fall 16-17','Spr 16-17','Sum 16-17',
                     'Fall 17-18','Spr 17-18','Sum 17-18']);
               
-    
-   svg.append("g")
+
+      svg.append("g")
       .style("font-size", 12)
       .style('font-family','monospace')
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(x).tickSize(0))
       .attr('id','xtext')
       .select(".domain").remove()
-  
-  svg.append("g")
+
+      svg.append("g")
       .style("font-size", 12)
       .style('font-family','monospace')
       .attr("transform", "translate(0,-30)")
       .call(d3.axisTop(x).tickSize(0))
       .attr('id','xtext')
       .select(".domain").remove()    
+
    
-    // Build Y scales and axis:
-    const y = d3.scaleBand()
-      .range([ height, 0 ])
-      .domain(myVars)
-      .padding(0.1);
+  // Build Y scales and axis:
+  const y = d3.scaleBand()
+  .range([ height, 0 ])
+  .domain(myVars)
+  .padding(0.1);
   
-    svg.append("g")
+  svg.append("g")
       .style("font-size", 12)
       .style('font-family','monospace')
       .call(d3.axisLeft(y).tickSize(0))
