@@ -1,21 +1,8 @@
-
-//tracking the active button
-// const header = document.getElementById("department");
-// const btns = header.getElementsByClassName("btn");
-
 let button_value = 'C&HE';
 document.getElementById("Undergraduate").checked = true;
 let radio_value = d3.select('input[name="level"]:checked').node().value
 
-// for (let i = 0; i < btns.length; i++) {
-//    btns[i].addEventListener("click", function() {
-//    let current = document.getElementsByClassName("active");
-//    button_value = current[0].name;
-//    current[0].className = current[0].className.replace(" active", "");
-//    this.className += " active";
-//       draw('dataset.csv');
-//      });
-//  }
+// tracking active button
 
 d3.selectAll(".btn").on("click", function () {
   //check if node is already selected
@@ -107,8 +94,69 @@ svg.append("g")
 
 svg.selectAll('#xtext text').call(wrap, 10);
 
+// Build color scale
+let myColor = d3.scaleSequential()
+  .interpolator(d3.interpolateOranges)
+  .domain([1, 100])
 
-//Read the data
+// create a tooltip
+let tooltip = d3.select("#dataviz")
+  .append("div")
+  .style("opacity", 0)
+  .attr("class", "tooltip")
+  .style("font-family", "'Roboto', sans-serif")
+  .style("font-size", '14px')
+  .style('color', 'white')
+  .style("background-color", "#0282f9")
+  .style('box-shadow', '0 1px 8px rgba(0,0,0,0.5)')
+  .style("border-radius", "5px")
+  .style("padding", "5px")
+
+
+// Three function that change the tooltip when user hover / move / leave a cell
+let mouseover = function (d) {
+
+  tooltip
+    .style("opacity", 1)
+
+  d3.select(this)
+    .style("stroke", "red")
+    .style("opacity", 1)
+
+
+}
+let mousemove = function (d) {
+  tooltip
+    .html("Percent: " + d.percent
+      + "<br>Term: " + d.Term
+      + "<br>Dept: " + d.Department
+      + "<br>Course ID: " + d.course
+      + "<br>Course: " + d.class)
+    .style("left", (d3.mouse(this)[0] + 10) + "px")
+    .style("top", (d3.mouse(this)[1] + 100) + "px")
+}
+let mouseleave = function (d) {
+  tooltip
+    .style("opacity", 0)
+  d3.select(this)
+    .style("stroke", "none")
+    .style("opacity", 0.8)
+}
+
+svg.append('defs')
+  .append('pattern')
+  .attr('id', 'diagonalHatch')
+  .attr('patternUnits', 'userSpaceOnUse')
+  .attr('width', 4)
+  .attr('height', 4)
+  .append('path')
+  .attr('d', 'M-1,1 l2,-2 M0,4 l4,-4 M3,5 l2,-2')
+  .attr('stroke', '#919191')
+  .attr('stroke-width', 1);
+
+
+//Drawing function to create a viz
+
 function draw(dataset) {
   d3.csv(dataset, function (data) {
 
@@ -120,7 +168,6 @@ function draw(dataset) {
     const myGroups = d3.map(data, function (d) { return d.Term; }).keys()
     const myVars = d3.map(data, function (d) { return d.course; }).keys()
     myVars.sort().reverse();
-
 
 
 
@@ -144,65 +191,6 @@ function draw(dataset) {
       .call(d3.axisRight(y).tickSize(0))
       .select(".domain").remove()
 
-
-    // Build color scale
-    let myColor = d3.scaleSequential()
-      .interpolator(d3.interpolateOranges)
-      .domain([1, 100])
-
-    // create a tooltip
-    let tooltip = d3.select("#dataviz")
-      .append("div")
-      .style("opacity", 0)
-      .attr("class", "tooltip")
-      .style("font-family", "'Roboto', sans-serif")
-      .style("font-size", '14px')
-      .style('color', 'white')
-      .style("background-color", "#0282f9")
-      .style('box-shadow', '0 1px 8px rgba(0,0,0,0.5)')
-      .style("border-radius", "5px")
-      .style("padding", "5px")
-
-    // Three function that change the tooltip when user hover / move / leave a cell
-    let mouseover = function (d) {
-
-      tooltip
-        .style("opacity", 1)
-
-      d3.select(this)
-        .style("stroke", "red")
-        .style("opacity", 1)
-
-
-    }
-    let mousemove = function (d) {
-      tooltip
-        .html("Percent: " + d.percent
-          + "<br>Term: " + d.Term
-          + "<br>Dept: " + d.Department
-          + "<br>Course ID: " + d.course
-          + "<br>Course: " + d.class)
-        .style("left", (d3.mouse(this)[0] + 10) + "px")
-        .style("top", (d3.mouse(this)[1] + 100) + "px")
-    }
-    let mouseleave = function (d) {
-      tooltip
-        .style("opacity", 0)
-      d3.select(this)
-        .style("stroke", "none")
-        .style("opacity", 0.8)
-    }
-
-    svg.append('defs')
-      .append('pattern')
-      .attr('id', 'diagonalHatch')
-      .attr('patternUnits', 'userSpaceOnUse')
-      .attr('width', 4)
-      .attr('height', 4)
-      .append('path')
-      .attr('d', 'M-1,1 l2,-2 M0,4 l4,-4 M3,5 l2,-2')
-      .attr('stroke', '#919191')
-      .attr('stroke-width', 1);
 
 
     // add the squares
