@@ -9,7 +9,7 @@ d3.selectAll(".btn").on("click", function () {
   var text = d3.select(this).classed('active');
   d3.selectAll(".btn").classed('active', false);
   if (text) {
-    //remove acctive class
+    //remove active class
     d3.select(this).classed('active', false);
   } else {
     d3.select(this).classed('active', true);
@@ -165,10 +165,10 @@ function draw(dataset) {
     data = data.filter(function (d) { return (d.Department == button_value) && (d.level === radio_value); })
 
     // Labels of row and columns -> unique identifier of the column called 'Term' and 'variable'
-    const myGroups = d3.map(data, function (d) { return d.Term; }).keys()
+    // const myGroups = d3.map(data, function (d) { return d.Term; }).keys()
+
     const myVars = d3.map(data, function (d) { return d.course; }).keys()
     myVars.sort().reverse();
-
 
 
     // Build Y scales and axis:
