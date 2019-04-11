@@ -194,28 +194,33 @@ function draw(dataset) {
 
 
     // add the squares
-    svg.selectAll()
-      .data(data)
-      .enter()
+   var rects = svg.selectAll('rect')
+      .data(data);
+
+   
+   rects.enter()
       .append("rect")
+      .merge(rects)
       .attr("x", function (d) { return x(d.Term) })
       .attr("y", function (d) { return y(d.course) })
       .attr("rx", 4)
       .attr("ry", 4)
-      .attr("width", x.bandwidth())
-      .attr("height", y.bandwidth())
       .style("fill", function (d) {
         if (d.percent !== '') {
           return myColor(d.percent);
         } else { return "url(#diagonalHatch)"; }
       })
+      .attr("width", x.bandwidth())
+      .attr("height", y.bandwidth())
       .style("stroke-width", 4)
       .style("stroke", "none")
       .style("opacity", 0.8)
       .on("mouseover", mouseover)
       .on("mousemove", mousemove)
-      .on("mouseleave", mouseleave)
+      .on("mouseleave", mouseleave);
 
+
+      rects.exit().remove();
 
 
 
