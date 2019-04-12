@@ -168,7 +168,7 @@ function draw(dataset) {
     // const myGroups = d3.map(data, function (d) { return d.Term; }).keys()
 
     const myVars = d3.map(data, function (d) { return d.course; }).keys()
-    myVars.sort().reverse();
+     myVars.sort().reverse();
 
 
     // Build Y scales and axis:
@@ -177,27 +177,27 @@ function draw(dataset) {
       .domain(myVars)
       .padding(0.1);
 
-    svg.append("g")
+  var yaxis = svg.selectAll('.y')
+      .data(['dummy']);  
+
+      yaxis.enter()
+      .append("g")
+      .merge(yaxis)
+      .attr("class",'y')
       .style("font-size", 12)
       .style('font-family', 'monospace')
       .call(d3.axisLeft(y).tickSize(0))
-      .select(".domain").remove()
+      .select(".domain").remove();
 
-    //dual y axis
-    svg.append("g")
-      .style("font-size", 12)
-      .style('font-family', 'monospace')
-      .attr("transform", "translate( " + width + ", 0 )")
-      .call(d3.axisRight(y).tickSize(0))
-      .select(".domain").remove()
-
-
+ // add the squares
+var rects = svg.selectAll('rect')
+   .data(data);
 
     // add the squares
    var rects = svg.selectAll('rect')
       .data(data);
 
-   
+
    rects.enter()
       .append("rect")
       .merge(rects)
@@ -221,8 +221,7 @@ function draw(dataset) {
 
 
       rects.exit().remove();
-
-
+      
 
 
   })
