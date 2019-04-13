@@ -3,7 +3,7 @@ document.getElementById("Undergraduate").checked = true;
 let radio_value = d3.select('input[name="level"]:checked').node().value
 
 
-//test
+//test - to create nested structure.
 
 var brands = [{
   "courseid": 'EDCE 2010',
@@ -177,7 +177,8 @@ function draw(dataset) {
 
     data = data.filter(function (d) { return (d.Department == button_value) && (d.level === radio_value); })
 
-  
+  // join test object with data on course and term;
+
     data.forEach(function(article) {
       var result = brands.filter(function(brand) {
           return (brand.courseid === article.course &&
