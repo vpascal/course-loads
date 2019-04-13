@@ -2,6 +2,7 @@ let button_value = 'C&HE';
 document.getElementById("Undergraduate").checked = true;
 let radio_value = d3.select('input[name="level"]:checked').node().value
 
+
 // tracking active button
 
 d3.selectAll(".btn").on("click", function () {
@@ -128,8 +129,8 @@ let mouseover = function (d) {
 let mousemove = function (d) {
   tooltip
     .html("Percent: " + d.percent
+      + "<br>Max Size: " + d.maxsize
       + "<br>Term: " + d.Term
-      + "<br>Dept: " + d.Department
       + "<br>Course ID: " + d.course
       + "<br>Course: " + d.class)
     .style("left", (d3.mouse(this)[0] + 10) + "px")
@@ -164,6 +165,7 @@ function draw(dataset) {
 
     data = data.filter(function (d) { return (d.Department == button_value) && (d.level === radio_value); })
 
+
     // Labels of row and columns -> unique identifier of the column called 'Term' and 'variable'
     // const myGroups = d3.map(data, function (d) { return d.Term; }).keys()
 
@@ -197,12 +199,17 @@ var rects = svg.selectAll('rect')
    var rects = svg.selectAll('rect')
       .data(data);
 
+  rects.exit().remove();
 
-   rects.enter()
+   let viz = rects.enter()
       .append("rect")
-      .merge(rects)
+      .merge(rects);
+
+      viz
+      .transition().duration(550)
       .attr("x", function (d) { return x(d.Term) })
       .attr("y", function (d) { return y(d.course) })
+      .transition()
       .attr("rx", 4)
       .attr("ry", 4)
       .style("fill", function (d) {
@@ -214,13 +221,13 @@ var rects = svg.selectAll('rect')
       .attr("height", y.bandwidth())
       .style("stroke-width", 4)
       .style("stroke", "none")
-      .style("opacity", 0.8)
+      .style("opacity", 0.8);
+
+      viz
       .on("mouseover", mouseover)
       .on("mousemove", mousemove)
       .on("mouseleave", mouseleave);
 
-
-      rects.exit().remove();
       
 
 
