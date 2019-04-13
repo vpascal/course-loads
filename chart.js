@@ -232,6 +232,7 @@ var rects = svg.selectAll('rect')
       .transition().duration(550)
       .attr("x", function (d) { return x(d.Term) })
       .attr("y", function (d) { return y(d.course) })
+      .transition()
       .attr("rx", 4)
       .attr("ry", 4)
       .style("fill", function (d) {
