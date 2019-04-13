@@ -2,6 +2,19 @@ let button_value = 'C&HE';
 document.getElementById("Undergraduate").checked = true;
 let radio_value = d3.select('input[name="level"]:checked').node().value
 
+
+//test
+
+var brands = [{
+  "courseid": 'EDCE 2010',
+  'termid':'Fall 13-14',
+  "size": 100
+}, {
+  "courseid": 'EDCE 2010',
+  "termid": "Spr 13-14",
+  "size": 90
+}];
+
 // tracking active button
 
 d3.selectAll(".btn").on("click", function () {
@@ -129,7 +142,7 @@ let mousemove = function (d) {
   tooltip
     .html("Percent: " + d.percent
       + "<br>Term: " + d.Term
-      + "<br>Dept: " + d.Department
+      + "<br>Max Size: " + d.size
       + "<br>Course ID: " + d.course
       + "<br>Course: " + d.class)
     .style("left", (d3.mouse(this)[0] + 10) + "px")
@@ -163,6 +176,17 @@ function draw(dataset) {
     // filter data
 
     data = data.filter(function (d) { return (d.Department == button_value) && (d.level === radio_value); })
+
+  
+    data.forEach(function(article) {
+      var result = brands.filter(function(brand) {
+          return (brand.courseid === article.course &&
+          brand.termid === article.Term);
+      });
+
+      article.size = (result[0] !== undefined) ? result[0].size : null;
+  });
+    console.log(data);
 
     // Labels of row and columns -> unique identifier of the column called 'Term' and 'variable'
     // const myGroups = d3.map(data, function (d) { return d.Term; }).keys()
