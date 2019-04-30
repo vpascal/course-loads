@@ -16,8 +16,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Fall 13-14,,
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Fall 13-14,20,30
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Fall 13-14,2.2,180
 C&HE,EDCE 6914,Graduate,Counseling Internship,Fall 13-14,56.7,30
-C&HE,EDCE 6915,Graduate,Counseling Internship,Fall 13-14,23.3,30
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Fall 13-14,,
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Fall 13-14,70,10
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Fall 13-14,40,10
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Fall 13-14,40,10
@@ -43,8 +41,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Fall 13-14,26.7,15
 C&HE,EDCE 8600,Graduate,Counselor Education,Fall 13-14,60,15
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Fall 13-14,,
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Fall 13-14,20,10
-C&HE,EDCE 8910,Graduate,Internship,Fall 13-14,70,10
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Fall 13-14,13.3,75
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Fall 13-14,13.3,15
 C&HE,EDCE 8950,Graduate,Dissertation,Fall 13-14,68,25
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Fall 13-14,,
@@ -89,8 +85,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Fall 13-14,100,30
 C&HE,EDCE 4100,Undergraduate,Human Relations,Fall 13-14,45,60
 C&HE,EDCP 4000,Undergraduate,Special Topics,Fall 13-14,,
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Fall 13-14,,
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Fall 13-14,20,75
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Fall 13-14,0,75
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Fall 13-14,,
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Fall 13-14,,
 EDST,EDAD 6021,Graduate,The School and Community,Fall 13-14,,
@@ -399,7 +393,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Fall 13-14,,
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Fall 13-14,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Fall 13-14,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Fall 13-14,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Fall 13-14,20,10
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Fall 13-14,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Fall 13-14,81.8,44
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Fall 13-14,48,50
@@ -470,7 +463,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Fall 13-14,90,10
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Fall 13-14,,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Fall 13-14,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Fall 13-14,,
-TEDU,EDTE 6940,Graduate,Master's Research Project,Fall 13-14,32.2,90
 TEDU,EDTE 6950,Graduate,Master's Thesis,Fall 13-14,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Fall 13-14,66.7,6
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Fall 13-14,,
@@ -587,8 +579,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Spr 13-14,,
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Spr 13-14,,
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Spr 13-14,1.9,160
 C&HE,EDCE 6914,Graduate,Counseling Internship,Spr 13-14,15,20
-C&HE,EDCE 6915,Graduate,Counseling Internship,Spr 13-14,42.5,40
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Spr 13-14,,
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Spr 13-14,,
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Spr 13-14,,
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Spr 13-14,40,5
@@ -614,8 +604,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Spr 13-14,,
 C&HE,EDCE 8600,Graduate,Counselor Education,Spr 13-14,,
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Spr 13-14,46.7,15
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Spr 13-14,,
-C&HE,EDCE 8910,Graduate,Internship,Spr 13-14,33.3,15
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Spr 13-14,5,60
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Spr 13-14,3.3,90
 C&HE,EDCE 8950,Graduate,Dissertation,Spr 13-14,16.2,105
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Spr 13-14,0,15
@@ -660,8 +648,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Spr 13-14,93.3,30
 C&HE,EDCE 4100,Undergraduate,Human Relations,Spr 13-14,43.3,60
 C&HE,EDCP 4000,Undergraduate,Special Topics,Spr 13-14,79.6,260
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Spr 13-14,20,25
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Spr 13-14,21.7,60
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Spr 13-14,0,60
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Spr 13-14,80,10
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Spr 13-14,70,10
 EDST,EDAD 6021,Graduate,The School and Community,Spr 13-14,,
@@ -970,7 +956,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Spr 13-14,40,25
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Spr 13-14,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Spr 13-14,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Spr 13-14,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Spr 13-14,40,10
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Spr 13-14,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Spr 13-14,81.8,44
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Spr 13-14,,
@@ -1041,7 +1026,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Spr 13-14,,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Spr 13-14,,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Spr 13-14,20,25
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Spr 13-14,20,5
-TEDU,EDTE 6940,Graduate,Master's Research Project,Spr 13-14,59.5,79
 TEDU,EDTE 6950,Graduate,Master's Thesis,Spr 13-14,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Spr 13-14,,
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Spr 13-14,85,20
@@ -1158,8 +1142,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Sum 13-14,,
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Sum 13-14,55.8,52
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Sum 13-14,9.1,55
 C&HE,EDCE 6914,Graduate,Counseling Internship,Sum 13-14,40,10
-C&HE,EDCE 6915,Graduate,Counseling Internship,Sum 13-14,10,30
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Sum 13-14,,
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Sum 13-14,30,10
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Sum 13-14,70,10
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Sum 13-14,0,10
@@ -1185,8 +1167,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Sum 13-14,,
 C&HE,EDCE 8600,Graduate,Counselor Education,Sum 13-14,,
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Sum 13-14,,
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Sum 13-14,12,50
-C&HE,EDCE 8910,Graduate,Internship,Sum 13-14,50,8
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Sum 13-14,10,30
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Sum 13-14,2.9,35
 C&HE,EDCE 8950,Graduate,Dissertation,Sum 13-14,32,25
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Sum 13-14,,
@@ -1231,8 +1211,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Sum 13-14,,
 C&HE,EDCE 4100,Undergraduate,Human Relations,Sum 13-14,,
 C&HE,EDCP 4000,Undergraduate,Special Topics,Sum 13-14,,
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Sum 13-14,,
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Sum 13-14,0,60
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Sum 13-14,0,60
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Sum 13-14,40,5
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Sum 13-14,40,5
 EDST,EDAD 6021,Graduate,The School and Community,Sum 13-14,,
@@ -1541,7 +1519,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Sum 13-14,,
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Sum 13-14,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Sum 13-14,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Sum 13-14,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Sum 13-14,,
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Sum 13-14,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Sum 13-14,,
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Sum 13-14,,
@@ -1612,7 +1589,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Sum 13-14,,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Sum 13-14,,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Sum 13-14,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Sum 13-14,,
-TEDU,EDTE 6940,Graduate,Master's Research Project,Sum 13-14,8.9,79
 TEDU,EDTE 6950,Graduate,Master's Thesis,Sum 13-14,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Sum 13-14,,
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Sum 13-14,,
@@ -1729,8 +1705,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Fall 14-15,,
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Fall 14-15,,
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Fall 14-15,2,150
 C&HE,EDCE 6914,Graduate,Counseling Internship,Fall 14-15,20,10
-C&HE,EDCE 6915,Graduate,Counseling Internship,Fall 14-15,50,20
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Fall 14-15,,
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Fall 14-15,10,10
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Fall 14-15,50,10
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Fall 14-15,0,10
@@ -1756,8 +1730,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Fall 14-15,53.3,15
 C&HE,EDCE 8600,Graduate,Counselor Education,Fall 14-15,40,15
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Fall 14-15,,
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Fall 14-15,0,10
-C&HE,EDCE 8910,Graduate,Internship,Fall 14-15,100,10
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Fall 14-15,5.3,75
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Fall 14-15,8,75
 C&HE,EDCE 8950,Graduate,Dissertation,Fall 14-15,80,25
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Fall 14-15,73.3,15
@@ -1802,8 +1774,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Fall 14-15,98.3,60
 C&HE,EDCE 4100,Undergraduate,Human Relations,Fall 14-15,51.7,60
 C&HE,EDCP 4000,Undergraduate,Special Topics,Fall 14-15,,
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Fall 14-15,,
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Fall 14-15,7.5,40
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Fall 14-15,18.6,70
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Fall 14-15,90,10
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Fall 14-15,,
 EDST,EDAD 6021,Graduate,The School and Community,Fall 14-15,,
@@ -2112,7 +2082,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Fall 14-15,,
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Fall 14-15,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Fall 14-15,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Fall 14-15,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Fall 14-15,,
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Fall 14-15,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Fall 14-15,75,44
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Fall 14-15,46,50
@@ -2183,7 +2152,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Fall 14-15,50,10
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Fall 14-15,10,50
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Fall 14-15,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Fall 14-15,0,20
-TEDU,EDTE 6940,Graduate,Master's Research Project,Fall 14-15,53.8,65
 TEDU,EDTE 6950,Graduate,Master's Thesis,Fall 14-15,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Fall 14-15,50,6
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Fall 14-15,,
@@ -2300,8 +2268,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Spr 14-15,,
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Spr 14-15,,
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Spr 14-15,4.6,130
 C&HE,EDCE 6914,Graduate,Counseling Internship,Spr 14-15,10,10
-C&HE,EDCE 6915,Graduate,Counseling Internship,Spr 14-15,46.7,30
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Spr 14-15,,
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Spr 14-15,50,6
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Spr 14-15,27.8,36
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Spr 14-15,33.3,6
@@ -2327,8 +2293,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Spr 14-15,,
 C&HE,EDCE 8600,Graduate,Counselor Education,Spr 14-15,,
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Spr 14-15,53.3,15
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Spr 14-15,,
-C&HE,EDCE 8910,Graduate,Internship,Spr 14-15,6.7,15
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Spr 14-15,8,75
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Spr 14-15,5.3,75
 C&HE,EDCE 8950,Graduate,Dissertation,Spr 14-15,25.6,90
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Spr 14-15,,
@@ -2373,8 +2337,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Spr 14-15,71.7,60
 C&HE,EDCE 4100,Undergraduate,Human Relations,Spr 14-15,50,60
 C&HE,EDCP 4000,Undergraduate,Special Topics,Spr 14-15,58.5,330
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Spr 14-15,,
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Spr 14-15,6.7,30
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Spr 14-15,33.3,45
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Spr 14-15,,
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Spr 14-15,20,25
 EDST,EDAD 6021,Graduate,The School and Community,Spr 14-15,,
@@ -2683,7 +2645,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Spr 14-15,36,25
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Spr 14-15,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Spr 14-15,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Spr 14-15,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Spr 14-15,20,10
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Spr 14-15,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Spr 14-15,84.1,44
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Spr 14-15,,
@@ -2754,7 +2715,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Spr 14-15,,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Spr 14-15,,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Spr 14-15,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Spr 14-15,,
-TEDU,EDTE 6940,Graduate,Master's Research Project,Spr 14-15,38.3,94
 TEDU,EDTE 6950,Graduate,Master's Thesis,Spr 14-15,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Spr 14-15,,
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Spr 14-15,,
@@ -2871,8 +2831,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Sum 14-15,,
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Sum 14-15,51.4,70
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Sum 14-15,3.8,80
 C&HE,EDCE 6914,Graduate,Counseling Internship,Sum 14-15,,
-C&HE,EDCE 6915,Graduate,Counseling Internship,Sum 14-15,80,20
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Sum 14-15,,
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Sum 14-15,0,6
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Sum 14-15,100,6
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Sum 14-15,66.7,6
@@ -2898,8 +2856,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Sum 14-15,,
 C&HE,EDCE 8600,Graduate,Counselor Education,Sum 14-15,,
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Sum 14-15,,
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Sum 14-15,,
-C&HE,EDCE 8910,Graduate,Internship,Sum 14-15,20,10
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Sum 14-15,20,30
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Sum 14-15,6.7,30
 C&HE,EDCE 8950,Graduate,Dissertation,Sum 14-15,33.3,30
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Sum 14-15,,
@@ -2944,8 +2900,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Sum 14-15,,
 C&HE,EDCE 4100,Undergraduate,Human Relations,Sum 14-15,,
 C&HE,EDCP 4000,Undergraduate,Special Topics,Sum 14-15,,
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Sum 14-15,,
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Sum 14-15,0.9,110
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Sum 14-15,0,110
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Sum 14-15,90,20
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Sum 14-15,85,20
 EDST,EDAD 6021,Graduate,The School and Community,Sum 14-15,,
@@ -3254,7 +3208,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Sum 14-15,,
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Sum 14-15,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Sum 14-15,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Sum 14-15,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Sum 14-15,,
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Sum 14-15,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Sum 14-15,,
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Sum 14-15,,
@@ -3325,7 +3278,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Sum 14-15,,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Sum 14-15,,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Sum 14-15,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Sum 14-15,,
-TEDU,EDTE 6940,Graduate,Master's Research Project,Sum 14-15,4.3,69
 TEDU,EDTE 6950,Graduate,Master's Thesis,Sum 14-15,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Sum 14-15,,
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Sum 14-15,,
@@ -3442,8 +3394,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Fall 15-16,,
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Fall 15-16,,
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Fall 15-16,1.1,90
 C&HE,EDCE 6914,Graduate,Counseling Internship,Fall 15-16,0,10
-C&HE,EDCE 6915,Graduate,Counseling Internship,Fall 15-16,83.3,30
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Fall 15-16,0,6
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Fall 15-16,,
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Fall 15-16,,
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Fall 15-16,,
@@ -3469,8 +3419,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Fall 15-16,46.7,15
 C&HE,EDCE 8600,Graduate,Counselor Education,Fall 15-16,26.7,15
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Fall 15-16,,
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Fall 15-16,30,10
-C&HE,EDCE 8910,Graduate,Internship,Fall 15-16,12,25
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Fall 15-16,2.7,75
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Fall 15-16,8,75
 C&HE,EDCE 8950,Graduate,Dissertation,Fall 15-16,76,25
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Fall 15-16,53.3,15
@@ -3515,8 +3463,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Fall 15-16,20,180
 C&HE,EDCE 4100,Undergraduate,Human Relations,Fall 15-16,34.4,90
 C&HE,EDCP 4000,Undergraduate,Special Topics,Fall 15-16,17.8,45
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Fall 15-16,,
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Fall 15-16,32.5,40
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Fall 15-16,0,70
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Fall 15-16,20,20
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Fall 15-16,,
 EDST,EDAD 6021,Graduate,The School and Community,Fall 15-16,,
@@ -3825,7 +3771,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Fall 15-16,,
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Fall 15-16,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Fall 15-16,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Fall 15-16,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Fall 15-16,,
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Fall 15-16,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Fall 15-16,,
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Fall 15-16,60,50
@@ -3896,7 +3841,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Fall 15-16,20,10
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Fall 15-16,20,25
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Fall 15-16,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Fall 15-16,5,20
-TEDU,EDTE 6940,Graduate,Master's Research Project,Fall 15-16,29.4,102
 TEDU,EDTE 6950,Graduate,Master's Thesis,Fall 15-16,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Fall 15-16,33.3,6
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Fall 15-16,,
@@ -4013,8 +3957,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Spr 15-16,,
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Spr 15-16,,
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Spr 15-16,0.8,130
 C&HE,EDCE 6914,Graduate,Counseling Internship,Spr 15-16,,
-C&HE,EDCE 6915,Graduate,Counseling Internship,Spr 15-16,85,20
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Spr 15-16,100,10
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Spr 15-16,,
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Spr 15-16,,
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Spr 15-16,,
@@ -4040,8 +3982,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Spr 15-16,,
 C&HE,EDCE 8600,Graduate,Counselor Education,Spr 15-16,,
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Spr 15-16,33.3,15
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Spr 15-16,,
-C&HE,EDCE 8910,Graduate,Internship,Spr 15-16,20,15
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Spr 15-16,5.3,75
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Spr 15-16,4,75
 C&HE,EDCE 8950,Graduate,Dissertation,Spr 15-16,16.2,105
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Spr 15-16,,
@@ -4086,8 +4026,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Spr 15-16,75,60
 C&HE,EDCE 4100,Undergraduate,Human Relations,Spr 15-16,68.3,60
 C&HE,EDCP 4000,Undergraduate,Special Topics,Spr 15-16,2.7,330
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Spr 15-16,,
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Spr 15-16,20,55
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Spr 15-16,0,45
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Spr 15-16,,
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Spr 15-16,,
 EDST,EDAD 6021,Graduate,The School and Community,Spr 15-16,,
@@ -4396,7 +4334,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Spr 15-16,28,25
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Spr 15-16,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Spr 15-16,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Spr 15-16,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Spr 15-16,70,10
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Spr 15-16,100,10
 RSP,REC 1220,Undergraduate,Scuba Diver,Spr 15-16,70.5,44
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Spr 15-16,,
@@ -4467,7 +4404,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Spr 15-16,,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Spr 15-16,,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Spr 15-16,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Spr 15-16,,
-TEDU,EDTE 6940,Graduate,Master's Research Project,Spr 15-16,24.6,114
 TEDU,EDTE 6950,Graduate,Master's Thesis,Spr 15-16,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Spr 15-16,,
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Spr 15-16,70,20
@@ -4584,8 +4520,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Sum 15-16,100,20
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Sum 15-16,51,100
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Sum 15-16,19.4,36
 C&HE,EDCE 6914,Graduate,Counseling Internship,Sum 15-16,,
-C&HE,EDCE 6915,Graduate,Counseling Internship,Sum 15-16,70,10
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Sum 15-16,85,20
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Sum 15-16,,
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Sum 15-16,,
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Sum 15-16,,
@@ -4611,8 +4545,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Sum 15-16,,
 C&HE,EDCE 8600,Graduate,Counselor Education,Sum 15-16,,
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Sum 15-16,,
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Sum 15-16,,
-C&HE,EDCE 8910,Graduate,Internship,Sum 15-16,90,10
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Sum 15-16,6.7,30
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Sum 15-16,13.3,30
 C&HE,EDCE 8950,Graduate,Dissertation,Sum 15-16,55.6,36
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Sum 15-16,,
@@ -4657,8 +4589,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Sum 15-16,,
 C&HE,EDCE 4100,Undergraduate,Human Relations,Sum 15-16,,
 C&HE,EDCP 4000,Undergraduate,Special Topics,Sum 15-16,,
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Sum 15-16,0.3,300
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Sum 15-16,0,390
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Sum 15-16,0,110
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Sum 15-16,,
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Sum 15-16,,
 EDST,EDAD 6021,Graduate,The School and Community,Sum 15-16,0,300
@@ -4967,7 +4897,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Sum 15-16,,
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Sum 15-16,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Sum 15-16,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Sum 15-16,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Sum 15-16,,
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Sum 15-16,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Sum 15-16,,
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Sum 15-16,,
@@ -5038,7 +4967,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Sum 15-16,,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Sum 15-16,,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Sum 15-16,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Sum 15-16,,
-TEDU,EDTE 6940,Graduate,Master's Research Project,Sum 15-16,1.6,64
 TEDU,EDTE 6950,Graduate,Master's Thesis,Sum 15-16,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Sum 15-16,,
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Sum 15-16,,
@@ -5155,8 +5083,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Fall 16-17,90,30
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Fall 16-17,,
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Fall 16-17,1.3,150
 C&HE,EDCE 6914,Graduate,Counseling Internship,Fall 16-17,,
-C&HE,EDCE 6915,Graduate,Counseling Internship,Fall 16-17,100,30
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Fall 16-17,,
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Fall 16-17,,
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Fall 16-17,,
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Fall 16-17,,
@@ -5182,8 +5108,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Fall 16-17,40,10
 C&HE,EDCE 8600,Graduate,Counselor Education,Fall 16-17,23.3,30
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Fall 16-17,,
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Fall 16-17,,
-C&HE,EDCE 8910,Graduate,Internship,Fall 16-17,50,10
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Fall 16-17,8.3,12
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Fall 16-17,,
 C&HE,EDCE 8950,Graduate,Dissertation,Fall 16-17,76,25
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Fall 16-17,,
@@ -5228,8 +5152,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Fall 16-17,91.7,60
 C&HE,EDCE 4100,Undergraduate,Human Relations,Fall 16-17,48.3,60
 C&HE,EDCP 4000,Undergraduate,Special Topics,Fall 16-17,86.7,15
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Fall 16-17,,
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Fall 16-17,3.3,30
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Fall 16-17,13.3,60
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Fall 16-17,80,10
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Fall 16-17,70,10
 EDST,EDAD 6021,Graduate,The School and Community,Fall 16-17,,
@@ -5538,7 +5460,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Fall 16-17,,
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Fall 16-17,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Fall 16-17,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Fall 16-17,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Fall 16-17,,
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Fall 16-17,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Fall 16-17,59.1,44
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Fall 16-17,96,25
@@ -5609,7 +5530,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Fall 16-17,13.3,15
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Fall 16-17,36,25
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Fall 16-17,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Fall 16-17,0,20
-TEDU,EDTE 6940,Graduate,Master's Research Project,Fall 16-17,29.2,120
 TEDU,EDTE 6950,Graduate,Master's Thesis,Fall 16-17,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Fall 16-17,50,6
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Fall 16-17,,
@@ -5726,8 +5646,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Spr 16-17,,
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Spr 16-17,,
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Spr 16-17,0.5,190
 C&HE,EDCE 6914,Graduate,Counseling Internship,Spr 16-17,,
-C&HE,EDCE 6915,Graduate,Counseling Internship,Spr 16-17,91.7,24
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Spr 16-17,83.3,24
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Spr 16-17,,
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Spr 16-17,,
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Spr 16-17,,
@@ -5753,8 +5671,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Spr 16-17,,
 C&HE,EDCE 8600,Graduate,Counselor Education,Spr 16-17,,
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Spr 16-17,,
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Spr 16-17,,
-C&HE,EDCE 8910,Graduate,Internship,Spr 16-17,60,15
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Spr 16-17,40,15
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Spr 16-17,1,105
 C&HE,EDCE 8950,Graduate,Dissertation,Spr 16-17,29.3,75
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Spr 16-17,,
@@ -5799,8 +5715,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Spr 16-17,66.7,60
 C&HE,EDCE 4100,Undergraduate,Human Relations,Spr 16-17,41.7,60
 C&HE,EDCP 4000,Undergraduate,Special Topics,Spr 16-17,66.7,15
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Spr 16-17,,
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Spr 16-17,5.5,55
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Spr 16-17,20,45
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Spr 16-17,,
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Spr 16-17,,
 EDST,EDAD 6021,Graduate,The School and Community,Spr 16-17,,
@@ -6109,7 +6023,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Spr 16-17,,
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Spr 16-17,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Spr 16-17,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Spr 16-17,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Spr 16-17,20,10
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Spr 16-17,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Spr 16-17,75,44
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Spr 16-17,,
@@ -6180,7 +6093,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Spr 16-17,,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Spr 16-17,,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Spr 16-17,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Spr 16-17,,
-TEDU,EDTE 6940,Graduate,Master's Research Project,Spr 16-17,37.5,144
 TEDU,EDTE 6950,Graduate,Master's Thesis,Spr 16-17,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Spr 16-17,,
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Spr 16-17,,
@@ -6297,8 +6209,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Sum 16-17,,
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Sum 16-17,38.9,90
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Sum 16-17,2.8,36
 C&HE,EDCE 6914,Graduate,Counseling Internship,Sum 16-17,,
-C&HE,EDCE 6915,Graduate,Counseling Internship,Sum 16-17,91.7,12
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Sum 16-17,58.3,12
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Sum 16-17,,
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Sum 16-17,,
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Sum 16-17,,
@@ -6324,8 +6234,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Sum 16-17,,
 C&HE,EDCE 8600,Graduate,Counselor Education,Sum 16-17,,
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Sum 16-17,,
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Sum 16-17,14.3,70
-C&HE,EDCE 8910,Graduate,Internship,Sum 16-17,46.7,15
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Sum 16-17,,
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Sum 16-17,10.4,48
 C&HE,EDCE 8950,Graduate,Dissertation,Sum 16-17,45.8,24
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Sum 16-17,,
@@ -6370,8 +6278,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Sum 16-17,0.3,300
 C&HE,EDCE 4100,Undergraduate,Human Relations,Sum 16-17,,
 C&HE,EDCP 4000,Undergraduate,Special Topics,Sum 16-17,,
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Sum 16-17,,
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Sum 16-17,0,90
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Sum 16-17,0,110
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Sum 16-17,80,25
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Sum 16-17,100,20
 EDST,EDAD 6021,Graduate,The School and Community,Sum 16-17,,
@@ -6680,7 +6586,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Sum 16-17,,
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Sum 16-17,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Sum 16-17,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Sum 16-17,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Sum 16-17,,
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Sum 16-17,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Sum 16-17,,
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Sum 16-17,,
@@ -6751,7 +6656,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Sum 16-17,,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Sum 16-17,,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Sum 16-17,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Sum 16-17,,
-TEDU,EDTE 6940,Graduate,Master's Research Project,Sum 16-17,1.4,69
 TEDU,EDTE 6950,Graduate,Master's Thesis,Sum 16-17,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Sum 16-17,,
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Sum 16-17,,
@@ -6868,8 +6772,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Fall 17-18,70,30
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Fall 17-18,,
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Fall 17-18,0.7,150
 C&HE,EDCE 6914,Graduate,Counseling Internship,Fall 17-18,,
-C&HE,EDCE 6915,Graduate,Counseling Internship,Fall 17-18,100,24
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Fall 17-18,,
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Fall 17-18,,
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Fall 17-18,,
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Fall 17-18,,
@@ -6895,8 +6797,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Fall 17-18,46.7,15
 C&HE,EDCE 8600,Graduate,Counselor Education,Fall 17-18,16.7,30
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Fall 17-18,86.7,15
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Fall 17-18,,
-C&HE,EDCE 8910,Graduate,Internship,Fall 17-18,53.3,15
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Fall 17-18,,
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Fall 17-18,,
 C&HE,EDCE 8950,Graduate,Dissertation,Fall 17-18,56,25
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Fall 17-18,26.7,15
@@ -6941,8 +6841,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Fall 17-18,71.7,60
 C&HE,EDCE 4100,Undergraduate,Human Relations,Fall 17-18,70,30
 C&HE,EDCP 4000,Undergraduate,Special Topics,Fall 17-18,80,15
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Fall 17-18,,
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Fall 17-18,24,75
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Fall 17-18,2.7,75
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Fall 17-18,,
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Fall 17-18,10,10
 EDST,EDAD 6021,Graduate,The School and Community,Fall 17-18,,
@@ -7251,7 +7149,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Fall 17-18,,
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Fall 17-18,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Fall 17-18,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Fall 17-18,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Fall 17-18,,
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Fall 17-18,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Fall 17-18,59.1,44
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Fall 17-18,77.1,35
@@ -7322,7 +7219,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Fall 17-18,13.3,15
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Fall 17-18,4,25
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Fall 17-18,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Fall 17-18,0,20
-TEDU,EDTE 6940,Graduate,Master's Research Project,Fall 17-18,25.2,115
 TEDU,EDTE 6950,Graduate,Master's Thesis,Fall 17-18,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Fall 17-18,100,6
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Fall 17-18,,
@@ -7439,8 +7335,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Spr 17-18,,
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Spr 17-18,,
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Spr 17-18,1.7,60
 C&HE,EDCE 6914,Graduate,Counseling Internship,Spr 17-18,,
-C&HE,EDCE 6915,Graduate,Counseling Internship,Spr 17-18,100,24
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Spr 17-18,75,24
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Spr 17-18,,
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Spr 17-18,,
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Spr 17-18,,
@@ -7466,8 +7360,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Spr 17-18,,
 C&HE,EDCE 8600,Graduate,Counselor Education,Spr 17-18,,
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Spr 17-18,,
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Spr 17-18,,
-C&HE,EDCE 8910,Graduate,Internship,Spr 17-18,41.7,12
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Spr 17-18,58.3,12
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Spr 17-18,3.3,90
 C&HE,EDCE 8950,Graduate,Dissertation,Spr 17-18,21.3,75
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Spr 17-18,,
@@ -7512,8 +7404,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Spr 17-18,76.7,30
 C&HE,EDCE 4100,Undergraduate,Human Relations,Spr 17-18,63.3,30
 C&HE,EDCP 4000,Undergraduate,Special Topics,Spr 17-18,66.7,15
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Spr 17-18,,
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Spr 17-18,68,25
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Spr 17-18,,
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Spr 17-18,,
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Spr 17-18,0,25
 EDST,EDAD 6021,Graduate,The School and Community,Spr 17-18,,
@@ -7822,7 +7712,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Spr 17-18,73.3,30
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Spr 17-18,100,2
 RSP,PETE 4910,Undergraduate,Internship in PASC,Spr 17-18,,
 RSP,PETE 4960,Undergraduate,PASC Seminar,Spr 17-18,,
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Spr 17-18,40,10
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Spr 17-18,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Spr 17-18,77.3,44
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Spr 17-18,,
@@ -7893,7 +7782,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Spr 17-18,,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Spr 17-18,,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Spr 17-18,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Spr 17-18,,
-TEDU,EDTE 6940,Graduate,Master's Research Project,Spr 17-18,39.8,133
 TEDU,EDTE 6950,Graduate,Master's Thesis,Spr 17-18,20,5
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Spr 17-18,,
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Spr 17-18,22.5,40
@@ -8010,8 +7898,6 @@ C&HE,EDCE 6860,Graduate,Multicultural Counseling,Sum 17-18,,
 C&HE,EDCE 6900,Graduate,Special Topics in EDCE,Sum 17-18,10,30
 C&HE,EDCE 6910,Graduate,Field Experience in Counseling,Sum 17-18,0,30
 C&HE,EDCE 6914,Graduate,Counseling Internship,Sum 17-18,,
-C&HE,EDCE 6915,Graduate,Counseling Internship,Sum 17-18,70.8,24
-C&HE,EDCE 6920,Graduate,Counseling Practicum,Sum 17-18,33.3,12
 C&HE,EDCE 6921,Graduate,Advanced Counseling: School,Sum 17-18,,
 C&HE,EDCE 6922,Graduate,Adv Prac: Clinical Mental Hlth,Sum 17-18,,
 C&HE,EDCE 6924,Graduate,Advanced Practicum: Rehab,Sum 17-18,,
@@ -8037,8 +7923,6 @@ C&HE,EDCE 8590,Graduate,Counselor Supervision,Sum 17-18,,
 C&HE,EDCE 8600,Graduate,Counselor Education,Sum 17-18,,
 C&HE,EDCE 8640,Graduate,Mental Health Consultation,Sum 17-18,,
 C&HE,EDCE 8900,Graduate,Special Topics in EDCE,Sum 17-18,6.7,30
-C&HE,EDCE 8910,Graduate,Internship,Sum 17-18,33.3,12
-C&HE,EDCE 8920,Graduate,Practicum in Counselor Educ,Sum 17-18,,
 C&HE,EDCE 8930,Graduate,Adv Read and Rsrch in Counsel,Sum 17-18,3.3,30
 C&HE,EDCE 8950,Graduate,Dissertation,Sum 17-18,30,30
 C&HE,EDCE 8990,Graduate,Leadership in Counseling,Sum 17-18,,
@@ -8083,8 +7967,6 @@ C&HE,EDCE 4000,Undergraduate,Spec Topics Guid and Counsel,Sum 17-18,16.7,30
 C&HE,EDCE 4100,Undergraduate,Human Relations,Sum 17-18,,
 C&HE,EDCP 4000,Undergraduate,Special Topics,Sum 17-18,,
 EDST,EDAD 5900,Graduate,Special Topics in EDAD,Sum 17-18,0,300
-EDST,EDAD 5910,Graduate,Ed Administration Internship I,Sum 17-18,0,300
-EDST,EDAD 5911,Graduate,Ed Admin Internship II,Sum 17-18,,
 EDST,EDAD 6010,Graduate,Intro Leadership Org Behavior,Sum 17-18,,
 EDST,EDAD 6020,Graduate,Structure & Behavior Educ Orgs,Sum 17-18,,
 EDST,EDAD 6021,Graduate,The School and Community,Sum 17-18,0,300
@@ -8393,7 +8275,6 @@ RSP,PETE 4050,Undergraduate,Motor Learning,Sum 17-18,,
 RSP,PETE 4900,Undergraduate,Special Topics in PETE,Sum 17-18,,
 RSP,PETE 4910,Undergraduate,Internship in PASC,Sum 17-18,66.7,3
 RSP,PETE 4960,Undergraduate,PASC Seminar,Sum 17-18,66.7,3
-RSP,REC 1081,Undergraduate,Sport Rock Climbing,Sum 17-18,,
 RSP,REC 1160,Undergraduate,Stand Up Paddleboarding,Sum 17-18,,
 RSP,REC 1220,Undergraduate,Scuba Diver,Sum 17-18,,
 RSP,REC 1920,Undergraduate,Adventure Experience Practicum,Sum 17-18,,
@@ -8464,7 +8345,6 @@ TEDU,EDTE 6931,Graduate,Science Meth (BiolChemEarth),Sum 17-18,,
 TEDU,EDTE 6932,Graduate,MC Eng Lang Arts Meth,Sum 17-18,,
 TEDU,EDTE 6932,Graduate,Secondary Eng Lang Arts Meth,Sum 17-18,,
 TEDU,EDTE 6932L,Graduate,Field Exp Eng Lang Arts Meth,Sum 17-18,,
-TEDU,EDTE 6940,Graduate,Master's Research Project,Sum 17-18,1.8,55
 TEDU,EDTE 6950,Graduate,Master's Thesis,Sum 17-18,,
 TEDU,EDTE 6980,Graduate,Intro Teach Sec Social Studies,Sum 17-18,,
 TEDU,EDTE 7150,Graduate,Theories of Curr & Curr Change,Sum 17-18,5,20
