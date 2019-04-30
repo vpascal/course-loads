@@ -2,6 +2,11 @@ let button_value = 'C&HE';
 document.getElementById("Undergraduate").checked = true;
 let radio_value = d3.select('input[name="level"]:checked').node().value
 
+// set the dimensions and margins of the graph
+let margin = { top: 40, right: 90, bottom: 50, left: 90 },
+  width = 800 - margin.left - margin.right,
+  height = 450 - margin.top - margin.bottom;
+
 
 // tracking active button
 
@@ -15,6 +20,28 @@ d3.selectAll(".btn").on("click", function () {
   } else {
     d3.select(this).classed('active', true);
     button_value = this.name;
+    switch(button_value) {
+      case 'C&HE':
+      case 'EDST':
+          height = 450 - margin.top - margin.bottom;
+          d3.select("svg").attr("height", height + margin.top + margin.bottom);
+          d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+      break;
+      case 'HCSE':
+          height = 950 - margin.top - margin.bottom;
+          d3.select("svg").attr("height", height + margin.top + margin.bottom);
+          d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+          break;
+      case 'TEDU':
+          height = 1050 - margin.top - margin.bottom;
+          d3.select("svg").attr("height", height + margin.top + margin.bottom);
+          d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+          break;    
+      default:
+          height = 1550 - margin.top - margin.bottom;
+          d3.select("svg").attr("height", height + margin.top + margin.bottom);
+          d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+    }
     draw('dataset.csv');
   }
 }
@@ -28,10 +55,7 @@ d3.selectAll('input').on('click', function () {
 
 draw('dataset.csv');
 
-// set the dimensions and margins of the graph
-const margin = { top: 40, right: 90, bottom: 50, left: 90 },
-  width = 800 - margin.left - margin.right,
-  height = 950 - margin.top - margin.bottom;
+
 
 // append the svg object to the body of the page
 let svg = d3.select("#dataviz")
