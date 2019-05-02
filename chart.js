@@ -4,7 +4,7 @@ let radio_value = d3.select('input[name="level"]:checked').node().value
 
 // set the dimensions and margins of the graph
 let margin = { top: 40, right: 90, bottom: 50, left: 90 },
-  width = 800 - margin.left - margin.right,
+  width = 825 - margin.left - margin.right,
   height = 400 - margin.top - margin.bottom;
 
 
@@ -21,24 +21,24 @@ d3.selectAll(".btn").on("click", function () {
     d3.select(this).classed('active', true);
     button_value = this.name;
 
-    if(radio_value =='Undergraduate' && (button_value =='C&HE' || button_value =='EDST') ){
+    if (radio_value == 'Undergraduate' && (button_value == 'C&HE' || button_value == 'EDST')) {
       height = 400 - margin.top - margin.bottom;
       d3.select("svg").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
     }
-    if(radio_value =='Graduate' &&  button_value =='EDST' ){
+    if (radio_value == 'Graduate' && button_value == 'EDST') {
       height = 1350 - margin.top - margin.bottom;
       d3.select("svg").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
     }
 
-    if(radio_value =='Graduate' &&  button_value =='C&HE' ){
+    if (radio_value == 'Graduate' && button_value == 'C&HE') {
       height = 1350 - margin.top - margin.bottom;
       d3.select("svg").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
     }
 
-    else if(radio_value =='Undergraduate' && button_value =='HCSE'){
+    else if (radio_value == 'Undergraduate' && button_value == 'HCSE') {
 
       height = 950 - margin.top - margin.bottom;
       d3.select("svg").attr("height", height + margin.top + margin.bottom);
@@ -46,7 +46,7 @@ d3.selectAll(".btn").on("click", function () {
 
     }
 
-    else if(radio_value =='Graduate' && button_value =='HCSE'){
+    else if (radio_value == 'Graduate' && button_value == 'HCSE') {
 
       height = 650 - margin.top - margin.bottom;
       d3.select("svg").attr("height", height + margin.top + margin.bottom);
@@ -54,24 +54,31 @@ d3.selectAll(".btn").on("click", function () {
 
     }
 
-    else if(radio_value =='Undergraduate' && button_value =='TEDU'){
-      
-      height = 1050 - margin.top - margin.bottom;
-      d3.select("svg").attr("height", height + margin.top + margin.bottom);
-      d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+    else if (radio_value == 'Undergraduate' && button_value == 'TEDU') {
 
-    } 
-    
-    else if(radio_value =='Graduate' && button_value =='TEDU'){
-      
       height = 1050 - margin.top - margin.bottom;
       d3.select("svg").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
     }
 
-    else if(radio_value =='Undergraduate' && button_value =='RSP' ){
+    else if (radio_value == 'Graduate' && button_value == 'TEDU') {
+
+      height = 1050 - margin.top - margin.bottom;
+      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+    }
+
+    else if (radio_value == 'Undergraduate' && button_value == 'RSP') {
       height = 1550 - margin.top - margin.bottom;
+      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+    }
+
+    else if (radio_value == 'Graduate' && button_value == 'RSP') {
+      height = 1050 - margin.top - margin.bottom;
       d3.select("svg").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
@@ -87,54 +94,54 @@ d3.selectAll(".btn").on("click", function () {
 d3.selectAll('input').on('click', function () {
   radio_value = this.value;
 
-  if(radio_value =='Graduate'&& button_value =='C&HE'){
+  if (radio_value == 'Graduate' && button_value == 'C&HE') {
     height = 1050 - margin.top - margin.bottom;
     d3.select("svg").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
-  } else if (radio_value =='Undergraduate'&& button_value =='C&HE') {
+  } else if (radio_value == 'Undergraduate' && button_value == 'C&HE') {
     height = 450 - margin.top - margin.bottom;
     d3.select("svg").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
 
-  else if (radio_value =='Graduate' && button_value =='EDST') {
+  else if (radio_value == 'Graduate' && button_value == 'EDST') {
     height = 1350 - margin.top - margin.bottom;
     d3.select("svg").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
 
-  else if (radio_value =='Undergraduate' && button_value =='EDST') {
+  else if (radio_value == 'Undergraduate' && button_value == 'EDST') {
     height = 400 - margin.top - margin.bottom;
     d3.select("svg").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
 
-  else if (radio_value =='Graduate'&& button_value =='HCSE') {
+  else if (radio_value == 'Graduate' && button_value == 'HCSE') {
     height = 650 - margin.top - margin.bottom;
     d3.select("svg").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
 
-  else if (radio_value =='Undergraduate'&& button_value =='HCSE') {
+  else if (radio_value == 'Undergraduate' && button_value == 'HCSE') {
     height = 950 - margin.top - margin.bottom;
     d3.select("svg").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
-  
-  else if (radio_value =='Undergraduate'&& button_value =='RSP') {
+
+  else if (radio_value == 'Undergraduate' && button_value == 'RSP') {
     height = 1550 - margin.top - margin.bottom;
     d3.select("svg").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
 
-  else if (radio_value =='Graduate'&& button_value =='RSP') {
+  else if (radio_value == 'Graduate' && button_value == 'RSP') {
     height = 1050 - margin.top - margin.bottom;
     d3.select("svg").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
@@ -286,7 +293,7 @@ function draw(dataset) {
     // const myGroups = d3.map(data, function (d) { return d.Term; }).keys()
 
     const myVars = d3.map(data, function (d) { return d.course; }).keys()
-     myVars.sort().reverse();
+    myVars.sort().reverse();
 
 
     // Build Y scales and axis:
@@ -295,33 +302,29 @@ function draw(dataset) {
       .domain(myVars)
       .padding(0.1);
 
-  var yaxis = svg.selectAll('.y')
-      .data(['dummy']);  
+    var yaxis = svg.selectAll('.y')
+      .data(['dummy']);
 
-      yaxis.enter()
+    yaxis.enter()
       .append("g")
       .merge(yaxis)
-      .attr("class",'y')
+      .attr("class", 'y')
       .style("font-size", 12)
       .style('font-family', 'monospace')
       .call(d3.axisLeft(y).tickSize(0))
       .select(".domain").remove();
 
- // add the squares
-var rects = svg.selectAll('rect')
-   .data(data);
-
     // add the squares
-   var rects = svg.selectAll('rect')
+    var rects = svg.selectAll('rect')
       .data(data);
 
-  rects.exit().remove();
+    rects.exit().remove();
 
-   let viz = rects.enter()
+    let viz = rects.enter()
       .append("rect")
       .merge(rects);
 
-      viz
+    viz
       .transition().duration(550)
       .attr("x", function (d) { return x(d.Term) })
       .attr("y", function (d) { return y(d.course) })
@@ -339,15 +342,14 @@ var rects = svg.selectAll('rect')
       .style("stroke", "none")
       .style("opacity", 0.8);
 
-      viz
+    viz
       .on("mouseover", mouseover)
       .on("mousemove", mousemove)
       .on("mouseleave", mouseleave);
 
-      
+
 
 
   })
 
 }
-
