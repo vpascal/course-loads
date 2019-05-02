@@ -2,8 +2,13 @@ let button_value = 'C&HE';
 document.getElementById("Undergraduate").checked = true;
 let radio_value = d3.select('input[name="level"]:checked').node().value
 
+// set the dimensions and margins of the graph
+let margin = { top: 40, right: 90, bottom: 50, left: 90 },
+  width = 800 - margin.left - margin.right,
+  height = 400 - margin.top - margin.bottom;
 
-// tracking active button
+
+// tracking active button and all the possible user interactions
 
 d3.selectAll(".btn").on("click", function () {
   //check if node is already selected
@@ -15,23 +20,134 @@ d3.selectAll(".btn").on("click", function () {
   } else {
     d3.select(this).classed('active', true);
     button_value = this.name;
+
+    if(radio_value =='Undergraduate' && (button_value =='C&HE' || button_value =='EDST') ){
+      height = 400 - margin.top - margin.bottom;
+      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+    }
+    if(radio_value =='Graduate' &&  button_value =='EDST' ){
+      height = 1350 - margin.top - margin.bottom;
+      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+    }
+
+    if(radio_value =='Graduate' &&  button_value =='C&HE' ){
+      height = 1350 - margin.top - margin.bottom;
+      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+    }
+
+    else if(radio_value =='Undergraduate' && button_value =='HCSE'){
+
+      height = 950 - margin.top - margin.bottom;
+      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+    }
+
+    else if(radio_value =='Graduate' && button_value =='HCSE'){
+
+      height = 650 - margin.top - margin.bottom;
+      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+    }
+
+    else if(radio_value =='Undergraduate' && button_value =='TEDU'){
+      
+      height = 1050 - margin.top - margin.bottom;
+      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+    } 
+    
+    else if(radio_value =='Graduate' && button_value =='TEDU'){
+      
+      height = 1050 - margin.top - margin.bottom;
+      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+    }
+
+    else if(radio_value =='Undergraduate' && button_value =='RSP' ){
+      height = 1550 - margin.top - margin.bottom;
+      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+    }
+
     draw('dataset.csv');
   }
 }
 );
 
+//radio button interactions
+
 d3.selectAll('input').on('click', function () {
   radio_value = this.value;
+
+  if(radio_value =='Graduate'&& button_value =='C&HE'){
+    height = 1050 - margin.top - margin.bottom;
+    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+  } else if (radio_value =='Undergraduate'&& button_value =='C&HE') {
+    height = 450 - margin.top - margin.bottom;
+    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+  }
+
+  else if (radio_value =='Graduate' && button_value =='EDST') {
+    height = 1350 - margin.top - margin.bottom;
+    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+  }
+
+  else if (radio_value =='Undergraduate' && button_value =='EDST') {
+    height = 400 - margin.top - margin.bottom;
+    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+  }
+
+  else if (radio_value =='Graduate'&& button_value =='HCSE') {
+    height = 650 - margin.top - margin.bottom;
+    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+  }
+
+  else if (radio_value =='Undergraduate'&& button_value =='HCSE') {
+    height = 950 - margin.top - margin.bottom;
+    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+  }
+  
+  else if (radio_value =='Undergraduate'&& button_value =='RSP') {
+    height = 1550 - margin.top - margin.bottom;
+    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+  }
+
+  else if (radio_value =='Graduate'&& button_value =='RSP') {
+    height = 1050 - margin.top - margin.bottom;
+    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select('#xtext').attr("transform", "translate(0," + height + ")");
+
+  }
+
   draw('dataset.csv');
 });
 
 
 draw('dataset.csv');
 
-// set the dimensions and margins of the graph
-const margin = { top: 40, right: 90, bottom: 50, left: 90 },
-  width = 800 - margin.left - margin.right,
-  height = 950 - margin.top - margin.bottom;
+
 
 // append the svg object to the body of the page
 let svg = d3.select("#dataviz")
