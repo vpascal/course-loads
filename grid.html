@@ -1,0 +1,120 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+</head>
+
+<body>
+    <div id="grid"></div>
+    <div id='tooltip' style='position:absolute;background-color:lightgray;padding:5px'></div>
+
+
+    <script>
+
+
+
+        // set the dimensions and margins of the graph
+        var margin = { top: 20, right: 0, bottom: 20, left: 50 },
+            width = 250 - margin.left - margin.right,
+            height = 250 - margin.top - margin.bottom;
+
+
+        //Read the data
+        d3.csv("FillRate.csv", function (data) {
+
+            var ugrad = data.filter(function (d) { return (d.level == 'Undergraduate'); })
+            var grad = data.filter(function (d) { return (d.level == 'Graduate'); })
+
+            ugrad = d3.nest()
+                .key(function (d) { return d.Department; })
+                .entries(ugrad);
+
+            grad = d3.nest()
+                .key(function (d) { return d.Department; })
+                .entries(grad);
+
+
+            allKeys = ugrad.map(function (d) { return d.key })
+
+
+            var svg = d3.select("#grid")
+                .selectAll("uniqueChart")
+                .data(ugrad)
+                .enter()
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform",
+                    "translate(" + margin.left + "," + margin.top + ")");
+
+            const tooltip = d3.select('#tooltip');
+            const tooltipLine = svg.append('line');        
+
+            // Add X axis --> it is a date format
+            var x = d3.scaleBand()
+                .domain(['13-14', '14-15', '15-16', '16-17', '17-18'])
+                .range([0, width]);
+
+            svg
+                .append("g")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x).ticks(3));
+
+            //Add Y axis
+            var y = d3.scaleLinear()
+                .domain([0, 100])
+                .range([height, 0]);
+
+            svg.append("g")
+                .call(d3.axisLeft(y).ticks(5));
+
+            // Draw the line
+            svg
+                .append("path")
+                .attr("fill", "none")
+                .attr("stroke", 'red')
+                .attr("stroke-width", 1.9)
+                .attr("d", function (d) {
+                    return d3.line()
+                        .x(function (d) { return x(d.year); })
+                        .y(function (d) { return y(+d.percent); })
+                        (d.values)
+                })
+
+            svg
+                .data(grad)
+                .append("path")
+                .attr("fill", "none")
+                .attr("stroke", 'black')
+                .attr("stroke-width", 1.9)
+                .attr("d", function (d) {
+                    return d3.line()
+                        .x(function (d) { return x(d.year); })
+                        .y(function (d) { return y(+d.percent); })
+                        (d.values)
+                })
+
+
+            // Add titles
+            svg
+                .append("text")
+                .attr("text-anchor", "start")
+                .attr("y", -5)
+                .attr("x", 0)
+                .text(function (d) { return (d.key) })
+                .style("fill", 'black')
+                .style("font-size", 16)
+                .style('font-family', 'monospace')
+                
+       });
+
+    </script>
+</body>
+
+</html>
