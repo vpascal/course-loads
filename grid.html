@@ -11,18 +11,31 @@
 
 <body>
     <div id="grid"></div>
-    <div id='tooltip' style='position:absolute;background-color:lightgray;padding:5px'></div>
-
+    <style>
+        div.tooltip {
+            position: absolute;
+            text-align: center;
+            width: 60px;
+            height: 28px;
+            padding: 2px;
+            font: 14px monospace;
+            border: 1px;
+            border-radius: 8px;
+            pointer-events: none;
+        }
+    </style>
 
     <script>
-
-
 
         // set the dimensions and margins of the graph
         var margin = { top: 20, right: 0, bottom: 20, left: 50 },
             width = 250 - margin.left - margin.right,
             height = 250 - margin.top - margin.bottom;
 
+
+        var div = d3.select("body").append("div")
+            .attr("class", "tooltip")
+            .style("opacity", 0);
 
         //Read the data
         d3.csv("FillRate.csv", function (data) {
@@ -47,14 +60,14 @@
                 .data(ugrad)
                 .enter()
                 .append("svg")
+                .attr('class', 'grid')
                 .attr("width", width + margin.left + margin.right)
                 .attr("height", height + margin.top + margin.bottom)
                 .append("g")
                 .attr("transform",
                     "translate(" + margin.left + "," + margin.top + ")");
 
-            const tooltip = d3.select('#tooltip');
-            const tooltipLine = svg.append('line');        
+
 
             // Add X axis --> it is a date format
             var x = d3.scaleBand()
@@ -74,19 +87,54 @@
             svg.append("g")
                 .call(d3.axisLeft(y).ticks(5));
 
+
+
             // Draw the line
             svg
                 .append("path")
                 .attr("fill", "none")
                 .attr("stroke", 'red')
+                .attr('id', 'ugrad')
                 .attr("stroke-width", 1.9)
                 .attr("d", function (d) {
                     return d3.line()
                         .x(function (d) { return x(d.year); })
                         .y(function (d) { return y(+d.percent); })
-                        (d.values)
-                })
+                        .curve(d3.curveMonotoneX)
+                        (d.values);
 
+
+                });
+
+            // undergrad  circles            
+            svg
+                .selectAll('.grid')
+                .data(function (d) { return d.values })
+                .enter()
+                .append("circle")
+                .attr("cx", function (d) { return x(d.year) })
+                .attr("cy", function (d) { return y(+d.percent) })
+                .attr("r", 4)
+                .attr('fill', 'red')
+                .attr("stroke", "white")
+                .on("mouseover", function (d) {
+                    div.transition()
+                        .duration(200)
+                        .style("opacity", .9);
+                    div.html(d.percent + '%')
+                        .style("left", (d3.event.pageX) + "px")
+                        .style("top", (d3.event.pageY - 28) + "px");
+                })
+                .on("mouseout", function (d) {
+                    div.transition()
+                        .duration(500)
+                        .style("opacity", 0);
+                });
+
+
+
+
+            // graduate path
             svg
                 .data(grad)
                 .append("path")
@@ -97,9 +145,34 @@
                     return d3.line()
                         .x(function (d) { return x(d.year); })
                         .y(function (d) { return y(+d.percent); })
+                        .curve(d3.curveMonotoneX)
                         (d.values)
-                })
+                });
 
+            // grad  circles            
+            svg
+                .selectAll('.grid')
+                .data(function (d) { return d.values })
+                .enter()
+                .append("circle")
+                .attr("cx", function (d) { return x(d.year) })
+                .attr("cy", function (d) { return y(+d.percent) })
+                .attr("r", 4)
+                .attr('fill', 'black')
+                .attr("stroke", "white")
+                .on("mouseover", function (d) {
+                    div.transition()
+                        .duration(200)
+                        .style("opacity", .9);
+                    div.html(d.percent + "%")
+                        .style("left", (d3.event.pageX) + "px")
+                        .style("top", (d3.event.pageY - 28) + "px");
+                })
+                .on("mouseout", function (d) {
+                    div.transition()
+                        .duration(500)
+                        .style("opacity", 0);
+                });
 
             // Add titles
             svg
@@ -111,8 +184,8 @@
                 .style("fill", 'black')
                 .style("font-size", 16)
                 .style('font-family', 'monospace')
-                
-       });
+
+        });
 
     </script>
 </body>
