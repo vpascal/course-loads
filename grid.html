@@ -37,13 +37,9 @@
     </style>
 
     <script>
-
-
-        // set the dimensions and margins of the graph
         var margin = { top: 20, right: 0, bottom: 20, left: 50 },
             width = 250 - margin.left - margin.right,
             height = 250 - margin.top - margin.bottom;
-
 
         var div = d3.select("body").append("div")
             .attr("class", "tooltip")
@@ -66,7 +62,6 @@
 
             allKeys = ugrad.map(function (d) { return d.key })
 
-
             var svg = d3.select("#grid")
                 .selectAll("uniqueChart")
                 .data(ugrad)
@@ -79,9 +74,6 @@
                 .attr("transform",
                     "translate(" + margin.left + "," + margin.top + ")");
 
-
-
-            // Add X axis --> it is a date format
             var x = d3.scaleBand()
                 .domain(['13-14', '14-15', '15-16', '16-17', '17-18'])
                 .range([0, width]);
@@ -104,9 +96,7 @@
                 .attr("class", "axis");
               //  .style("stroke-dasharray",("1,1"));
 
-
-
-            // Draw the line
+            // Draw the line for undergrads
             svg
                 .append("path")
                 .attr("fill", "none")
@@ -119,8 +109,6 @@
                         .y(function (d) { return y(+d.percent); })
                         .curve(d3.curveMonotoneX)
                         (d.values);
-
-
                 });
 
             // undergrad  circles            
@@ -148,10 +136,7 @@
                         .style("opacity", 0);
                 });
 
-
-
-
-            // graduate path
+            // graduate line
             svg
                 .data(grad)
                 .append("path")
