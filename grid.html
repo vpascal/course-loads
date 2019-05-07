@@ -83,9 +83,10 @@
             var y = d3.scaleLinear()
                 .domain([0, 100])
                 .range([height, 0]);
+          
 
             svg.append("g")
-                .call(d3.axisLeft(y).ticks(5));
+                .call(d3.axisLeft(y).ticks(10));
 
 
 
@@ -98,7 +99,7 @@
                 .attr("stroke-width", 1.9)
                 .attr("d", function (d) {
                     return d3.line()
-                        .x(function (d) { return x(d.year); })
+                        .x(function (d) { return x(d.year)+22; })
                         .y(function (d) { return y(+d.percent); })
                         .curve(d3.curveMonotoneX)
                         (d.values);
@@ -112,7 +113,7 @@
                 .data(function (d) { return d.values })
                 .enter()
                 .append("circle")
-                .attr("cx", function (d) { return x(d.year) })
+                .attr("cx", function (d) { return x(d.year)+22 })
                 .attr("cy", function (d) { return y(+d.percent) })
                 .attr("r", 4)
                 .attr('fill', 'red')
@@ -122,8 +123,8 @@
                         .duration(200)
                         .style("opacity", .9);
                     div.html(d.percent + '%')
-                        .style("left", (d3.event.pageX) + "px")
-                        .style("top", (d3.event.pageY - 28) + "px");
+                        .style("left", (d3.event.pageX)-25 + "px")
+                        .style("top", (d3.event.pageY - 30) + "px");
                 })
                 .on("mouseout", function (d) {
                     div.transition()
@@ -143,7 +144,7 @@
                 .attr("stroke-width", 1.9)
                 .attr("d", function (d) {
                     return d3.line()
-                        .x(function (d) { return x(d.year); })
+                        .x(function (d) { return x(d.year)+22; })
                         .y(function (d) { return y(+d.percent); })
                         .curve(d3.curveMonotoneX)
                         (d.values)
@@ -155,7 +156,7 @@
                 .data(function (d) { return d.values })
                 .enter()
                 .append("circle")
-                .attr("cx", function (d) { return x(d.year) })
+                .attr("cx", function (d) { return x(d.year)+22 })
                 .attr("cy", function (d) { return y(+d.percent) })
                 .attr("r", 4)
                 .attr('fill', 'black')
@@ -165,8 +166,8 @@
                         .duration(200)
                         .style("opacity", .9);
                     div.html(d.percent + "%")
-                        .style("left", (d3.event.pageX) + "px")
-                        .style("top", (d3.event.pageY - 28) + "px");
+                        .style("left", (d3.event.pageX)-25 + "px")
+                        .style("top", (d3.event.pageY - 30) + "px");
                 })
                 .on("mouseout", function (d) {
                     div.transition()
