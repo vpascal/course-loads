@@ -99,9 +99,10 @@
           
 
             svg.append("g")
-                .call(d3.axisLeft(y).ticks(10))
+                .call(d3.axisLeft(y).ticks(10))//.tickSize(-width)//
                 .call(g => g.select(".domain").remove())
                 .attr("class", "axis");
+              //  .style("stroke-dasharray",("1,1"));
 
 
 
@@ -109,12 +110,12 @@
             svg
                 .append("path")
                 .attr("fill", "none")
-                .attr("stroke", 'red')
+                .attr("stroke", '#03a9f4')
                 .attr('id', 'ugrad')
                 .attr("stroke-width", 1.9)
                 .attr("d", function (d) {
                     return d3.line()
-                        .x(function (d) { return x(d.year)+22; })
+                        .x(function (d) { return x(d.year)+21; })
                         .y(function (d) { return y(+d.percent); })
                         .curve(d3.curveMonotoneX)
                         (d.values);
@@ -128,10 +129,10 @@
                 .data(function (d) { return d.values })
                 .enter()
                 .append("circle")
-                .attr("cx", function (d) { return x(d.year)+22 })
+                .attr("cx", function (d) { return x(d.year)+21 })
                 .attr("cy", function (d) { return y(+d.percent) })
                 .attr("r", 4)
-                .attr('fill', 'red')
+                .attr('fill', '#03a9f4')
                 .attr("stroke", "white")
                 .on("mouseover", function (d) {
                     div.transition()
@@ -155,11 +156,11 @@
                 .data(grad)
                 .append("path")
                 .attr("fill", "none")
-                .attr("stroke", 'black')
+                .attr("stroke", '#8bc34a')
                 .attr("stroke-width", 1.9)
                 .attr("d", function (d) {
                     return d3.line()
-                        .x(function (d) { return x(d.year)+22; })
+                        .x(function (d) { return x(d.year)+21; })
                         .y(function (d) { return y(+d.percent); })
                         .curve(d3.curveMonotoneX)
                         (d.values)
@@ -171,10 +172,10 @@
                 .data(function (d) { return d.values })
                 .enter()
                 .append("circle")
-                .attr("cx", function (d) { return x(d.year)+22 })
+                .attr("cx", function (d) { return x(d.year)+21 })
                 .attr("cy", function (d) { return y(+d.percent) })
                 .attr("r", 4)
-                .attr('fill', 'black')
+                .attr('fill', '#8bc34a')
                 .attr("stroke", "white")
                 .on("mouseover", function (d) {
                     div.transition()
@@ -194,12 +195,13 @@
             svg
                 .append("text")
                 .attr("text-anchor", "start")
-                .attr("y", -5)
+                .attr("y", -7)
                 .attr("x", 0)
                 .text(function (d) { return (d.key) })
-                .style("fill", 'black')
+                .style("fill", '#676767')
                 .style("font-size", 16)
                 .style('font-family', 'monospace')
+
 
         });
 
