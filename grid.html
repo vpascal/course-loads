@@ -136,6 +136,22 @@
                         .style("opacity", 0);
                 });
 
+// label
+            svg
+                .selectAll('.grid')
+                .data(function (d) { return d.values })
+                .enter()
+                .append("text")
+                    .datum('Undergraduate')
+                    .attr("transform", 'translate(17,10)')
+                    .text('Undergraduate')
+                    .style("fill",'#03a9f4' )
+                    .style("font-size", 11)
+                    .style('font-family', 'monospace');
+
+
+
+
             // graduate line
             svg
                 .data(grad)
@@ -175,6 +191,18 @@
                         .duration(500)
                         .style("opacity", 0);
                 });
+
+             svg
+                .selectAll('.grid')
+                .data(function (d) { return d.values })
+                .enter()
+                .append("text")
+                    .datum('Grad')
+                    .attr("transform", 'translate(17,22)')
+                    .text('Graduate')
+                    .style("fill",'#8bc34a' )
+                    .style("font-size", 11)
+                    .style('font-family', 'monospace');
 
             // Add titles
             svg
