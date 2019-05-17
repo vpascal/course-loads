@@ -31,3 +31,24 @@ button {
     background-color: #666;
     color: white;
   }
+
+  iframe{
+
+    border:0px #ffffff none;
+    display:block;
+    margin: 0 auto;
+
+  }
+
+  #desc{
+    margin: auto;
+    width: 66%;
+    display: block;
+    
+  }
+
+  #mainheader, #dataviz{
+    margin: auto;
+    width: 66%;
+    display: block;
+  }
