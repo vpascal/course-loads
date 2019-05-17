@@ -5,7 +5,7 @@
 <head>
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400&display=swap" rel="stylesheet">  <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 </head>
 
@@ -13,37 +13,37 @@
 <body>
   <div id ='desc'>
   <h1>Course Fill Rate</h1>
-  <h3>The fill rate can be used as a practical metric for measuring the extent to which courses are filled. It is calculated by dividing the number of students enrolled in each class by the course's maximum capacity.</h3>
+  <p>The fill rate can be used as an important metric for measuring the extent to which courses are filled. It is calculated by dividing the number of students enrolled in each class by the course's maximum capacity.</p>
 </div>
 <br>
- <!-- First Photo Grid-->
- <div class="w3-row-padding">
+ <!-- logo row-->
+ <div id ='logo' class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="/svg/chart.svg" alt="Norway" style="width:25%">
       <div class="w3-container w3-white">
-        <p><b>Lorem Ipsum</b></p>
-        <p>Access your data interactively and </p>
+         <img src="/svg/chart.svg" style="width:25%">
+        <p><b>Examine data</b></p>
+        <p>Access your data interactively and examine it by academic level. </p>
       </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="/svg/diagram.svg" alt="Norway" style="width:25%">
       <div class="w3-container w3-white">
+        <img src="/svg/diagram.svg" style="width:25%">
         <p><b>Track Trends</b></p>
-        <p> Identify declines or low fill rates in certain course over a period of time.</p>
+        <p> Identify declines or low fill rates in courses over a period of time.</p>
       </div>
     </div>
     <div class="w3-third w3-container">
-      <img src="/svg/document.svg" alt="Norway" style="width:25%">
       <div class="w3-container w3-white">
-        <p><b>Lorem Ipsum</b></p>
-        <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
-      </div>
+        <img src="/svg/document.svg"  style="width:25%">
+        <p><b>Make decisions</b></p>
+        <p>Be strategic about scheduling and offering courses.</p>
     </div>
   </div>
-  <iframe src="grid.html" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="250px" width=100% allowfullscreen></iframe>
- <br>
+  </div>
+  <iframe src="grid.html" allowfullscreen></iframe>
+  <br>
   <div id ='mainheader' class='center'>
-        <h3>The chart below shows fill rate by each course over the last five years. Please select:</h3>
+        <p>The chart below shows fill rate by each course over the last five years. Please select:</p>
        <div class='row'> 
           <div id='department'>Department: 
                 <button class="btn active" name="C&HE">C&HE</button>

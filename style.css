@@ -35,8 +35,10 @@ button {
   iframe{
 
     border:0px #ffffff none;
-    display:block;
-    margin: 0 auto;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    border: 0;
 
   }
 
@@ -44,11 +46,19 @@ button {
     margin: auto;
     width: 66%;
     display: block;
+    text-align: center;
     
   }
 
-  #mainheader, #dataviz{
+  #mainheader, #dataviz, #logo{
     margin: auto;
     width: 66%;
     display: block;
   }
+
+  body,h1,h2, h3, p{
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: lighter !important;
+
+  }
+
