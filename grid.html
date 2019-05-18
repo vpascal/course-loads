@@ -5,17 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <script src="https://d3js.org/d3.v4.min.js"></script>
 
 </head>
 
 <body>
-    <div id="grid"></div>
+    <div class="row">
+   
+         <div id="grid"></div>
+  
+    </div>
     <style>
+
         #grid{
-            width: 50%;
+            width: 66% ;
             margin: auto;
         }
+
         div.tooltip {
             position: absolute;
             text-align: center;
@@ -41,7 +48,7 @@
     </style>
 
     <script>
-        var margin = { top: 30, right: 20, bottom: 30, left: 20 },
+        var margin = { top: 20, right: 20, bottom: 30, left: 40 },
             width = 250 - margin.left - margin.right,
             height = 250 - margin.top - margin.bottom;
 
