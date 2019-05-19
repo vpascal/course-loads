@@ -29,10 +29,8 @@ button {
   }
 
   #desc{
-    margin: auto;
-    width: 66%;
-    display: block;
-    text-align: center;
+  max-width: 980px;
+  padding-bottom: 25px;
     
   }
 
