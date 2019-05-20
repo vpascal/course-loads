@@ -23,25 +23,25 @@ d3.selectAll(".btn").on("click", function () {
 
     if (radio_value == 'Undergraduate' && (button_value == 'C&HE' || button_value == 'EDST')) {
       height = 400 - margin.top - margin.bottom;
-      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
     }
     if (radio_value == 'Graduate' && button_value == 'EDST') {
       height = 1350 - margin.top - margin.bottom;
-      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
     }
 
     if (radio_value == 'Graduate' && button_value == 'C&HE') {
       height = 1350 - margin.top - margin.bottom;
-      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
     }
 
     else if (radio_value == 'Undergraduate' && button_value == 'HCSE') {
 
       height = 950 - margin.top - margin.bottom;
-      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
     }
@@ -49,7 +49,7 @@ d3.selectAll(".btn").on("click", function () {
     else if (radio_value == 'Graduate' && button_value == 'HCSE') {
 
       height = 650 - margin.top - margin.bottom;
-      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
     }
@@ -57,7 +57,7 @@ d3.selectAll(".btn").on("click", function () {
     else if (radio_value == 'Undergraduate' && button_value == 'TEDU') {
 
       height = 1050 - margin.top - margin.bottom;
-      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
     }
@@ -65,21 +65,21 @@ d3.selectAll(".btn").on("click", function () {
     else if (radio_value == 'Graduate' && button_value == 'TEDU') {
 
       height = 1050 - margin.top - margin.bottom;
-      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
     }
 
     else if (radio_value == 'Undergraduate' && button_value == 'RSP') {
       height = 1550 - margin.top - margin.bottom;
-      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
     }
 
     else if (radio_value == 'Graduate' && button_value == 'RSP') {
       height = 1050 - margin.top - margin.bottom;
-      d3.select("svg").attr("height", height + margin.top + margin.bottom);
+      d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
       d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
     }
@@ -96,54 +96,54 @@ d3.selectAll('input').on('click', function () {
 
   if (radio_value == 'Graduate' && button_value == 'C&HE') {
     height = 1050 - margin.top - margin.bottom;
-    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   } else if (radio_value == 'Undergraduate' && button_value == 'C&HE') {
     height = 450 - margin.top - margin.bottom;
-    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
 
   else if (radio_value == 'Graduate' && button_value == 'EDST') {
     height = 1350 - margin.top - margin.bottom;
-    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
 
   else if (radio_value == 'Undergraduate' && button_value == 'EDST') {
     height = 400 - margin.top - margin.bottom;
-    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
 
   else if (radio_value == 'Graduate' && button_value == 'HCSE') {
     height = 650 - margin.top - margin.bottom;
-    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
 
   else if (radio_value == 'Undergraduate' && button_value == 'HCSE') {
     height = 950 - margin.top - margin.bottom;
-    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
 
   else if (radio_value == 'Undergraduate' && button_value == 'RSP') {
     height = 1550 - margin.top - margin.bottom;
-    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
 
   else if (radio_value == 'Graduate' && button_value == 'RSP') {
     height = 1050 - margin.top - margin.bottom;
-    d3.select("svg").attr("height", height + margin.top + margin.bottom);
+    d3.select("#heatmap").attr("height", height + margin.top + margin.bottom);
     d3.select('#xtext').attr("transform", "translate(0," + height + ")");
 
   }
@@ -159,6 +159,7 @@ draw('dataset.csv');
 // append the svg object to the body of the page
 let svg = d3.select("#dataviz")
   .append("svg")
+  .attr('id','heatmap') // new id used with button interactions
   .attr("width", width + margin.left + margin.right)
   .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -256,8 +257,8 @@ let mousemove = function (d) {
       + "<br>Term: " + d.Term
       + "<br>Course ID: " + d.course
       + "<br>Course: " + d.class)
-    .style("left", (d3.mouse(this)[0] + 200) + "px")
-    .style("top", (d3.mouse(this)[1] + 920) + "px")
+    .style("left", (d3.mouse(this)[0] + 500) + "px")
+    .style("top", (d3.mouse(this)[1] + 900) + "px")
 }
 let mouseleave = function (d) {
   tooltip

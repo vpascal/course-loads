@@ -49,3 +49,13 @@ year,Department,level,sum_enrolled,sum_max_size,percent
 17-18,RSP,Undergraduate,4096,6862,59.7
 17-18,TEDU,Graduate,738,4079,18.1
 17-18,TEDU,Undergraduate,5095,9750,52.3
+13-14,PCOE,Graduate,4166,13546,30.8
+13-14,PCOE,Undergraduate,12431,17881,69.5
+14-15,PCOE,Graduate,4189,13261,31.6
+14-15,PCOE,Undergraduate,12575,18205,69.1
+15-16,PCOE,Graduate,3981,14661,27.2
+15-16,PCOE,Undergraduate,12700,18694,67.9
+16-17,PCOE,Graduate,4037,13847,29.2
+16-17,PCOE,Undergraduate,12638,20321,62.2
+17-18,PCOE,Graduate,3436,14103,24.4
+17-18,PCOE,Undergraduate,11993,21748,55.1

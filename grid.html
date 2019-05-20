@@ -11,17 +11,11 @@
 </head>
 
 <body>
-    <div class="row">
    
          <div id="grid"></div>
   
-    </div>
     <style>
 
-        #grid{
-            width: 66% ;
-            margin: auto;
-        }
 
         div.tooltip {
             position: absolute;
@@ -45,191 +39,10 @@
   stroke:#888787;
 }
 
-    </style>
+</style>
 
-    <script>
-        var margin = { top: 20, right: 20, bottom: 30, left: 40 },
-            width = 250 - margin.left - margin.right,
-            height = 250 - margin.top - margin.bottom;
-
-        var div = d3.select("body").append("div")
-            .attr("class", "tooltip")
-            .style("opacity", 0);
-
-        //Read the data
-        d3.csv("FillRate.csv", function (data) {
-
-            var ugrad = data.filter(function (d) { return (d.level == 'Undergraduate'); })
-            var grad = data.filter(function (d) { return (d.level == 'Graduate'); })
-
-            ugrad = d3.nest()
-                .key(function (d) { return d.Department; })
-                .entries(ugrad);
-
-            grad = d3.nest()
-                .key(function (d) { return d.Department; })
-                .entries(grad);
-
-
-            allKeys = ugrad.map(function (d) { return d.key })
-
-            var svg = d3.select("#grid")
-                .selectAll("uniqueChart")
-                .data(ugrad)
-                .enter()
-                .append("svg")
-                .attr('class', 'grid')
-                .attr("width", width + margin.left + margin.right)
-                .attr("height", height + margin.top + margin.bottom)
-                .append("g")
-                .attr("transform",
-                    "translate(" + margin.left + "," + margin.top + ")");
-
-            var x = d3.scaleBand()
-                .domain(['13-14', '14-15', '15-16', '16-17', '17-18'])
-                .range([0, width]);
-
-            svg
-                .append("g")
-                .attr("transform", "translate(0," + height + ")")
-                .call(d3.axisBottom(x))
-                .attr("class", "axis");
-
-            //Add Y axis
-            var y = d3.scaleLinear()
-                .domain([0, 100])
-                .range([height, 0]);
-          
-
-            svg.append("g")
-                .call(d3.axisLeft(y).ticks(10))//.tickSize(-width)//
-                .call(g => g.select(".domain").remove())
-                .attr("class", "axis");
-              //  .style("stroke-dasharray",("1,1"));
-
-            // Draw the line for undergrads
-            svg
-                .append("path")
-                .attr("fill", "none")
-                .attr("stroke", '#03a9f4')
-                .attr('id', 'ugrad')
-                .attr("stroke-width", 1.9)
-                .attr("d", function (d) {
-                    return d3.line()
-                        .x(function (d) { return x(d.year)+21; })
-                        .y(function (d) { return y(+d.percent); })
-                        .curve(d3.curveMonotoneX)
-                        (d.values);
-                });
-
-            // undergrad  circles            
-            svg
-                .selectAll('.grid')
-                .data(function (d) { return d.values })
-                .enter()
-                .append("circle")
-                .attr("cx", function (d) { return x(d.year)+21 })
-                .attr("cy", function (d) { return y(+d.percent) })
-                .attr("r", 4)
-                .attr('fill', '#03a9f4')
-                .attr("stroke", "white")
-                .on("mouseover", function (d) {
-                    div.transition()
-                        .duration(200)
-                        .style("opacity", .9);
-                    div.html(d.percent + '%')
-                        .style("left", (d3.event.pageX)-25 + "px")
-                        .style("top", (d3.event.pageY - 30) + "px");
-                })
-                .on("mouseout", function (d) {
-                    div.transition()
-                        .duration(500)
-                        .style("opacity", 0);
-                });
-
-// label
-            svg
-                .selectAll('.grid')
-                .data(function (d) { return d.values })
-                .enter()
-                .append("text")
-                    .datum('Undergraduate')
-                    .attr("transform", 'translate(17,10)')
-                    .text('Undergraduate')
-                    .style("fill",'#03a9f4' )
-                    .style("font-size", 11)
-                    .style('font-family', 'monospace');
-
-
-
-
-            // graduate line
-            svg
-                .data(grad)
-                .append("path")
-                .attr("fill", "none")
-                .attr("stroke", '#8bc34a')
-                .attr("stroke-width", 1.9)
-                .attr("d", function (d) {
-                    return d3.line()
-                        .x(function (d) { return x(d.year)+21; })
-                        .y(function (d) { return y(+d.percent); })
-                        .curve(d3.curveMonotoneX)
-                        (d.values)
-                });
-
-            // grad  circles            
-            svg
-                .selectAll('.grid')
-                .data(function (d) { return d.values })
-                .enter()
-                .append("circle")
-                .attr("cx", function (d) { return x(d.year)+21 })
-                .attr("cy", function (d) { return y(+d.percent) })
-                .attr("r", 4)
-                .attr('fill', '#8bc34a')
-                .attr("stroke", "white")
-                .on("mouseover", function (d) {
-                    div.transition()
-                        .duration(200)
-                        .style("opacity", .9);
-                    div.html(d.percent + "%")
-                        .style("left", (d3.event.pageX)-25 + "px")
-                        .style("top", (d3.event.pageY - 30) + "px");
-                })
-                .on("mouseout", function (d) {
-                    div.transition()
-                        .duration(500)
-                        .style("opacity", 0);
-                });
-
-             svg
-                .selectAll('.grid')
-                .data(function (d) { return d.values })
-                .enter()
-                .append("text")
-                    .datum('Grad')
-                    .attr("transform", 'translate(17,22)')
-                    .text('Graduate')
-                    .style("fill",'#8bc34a' )
-                    .style("font-size", 11)
-                    .style('font-family', 'monospace');
-
-            // Add titles
-            svg
-                .append("text")
-                .attr("text-anchor", "start")
-                .attr("y", -7)
-                .attr("x", 0)
-                .text(function (d) { return (d.key) })
-                .style("fill", '#676767')
-                .style("font-size", 16)
-                .style('font-family', 'monospace')
-
-
-        });
-
-    </script>
+   
+<script src="grid.js"></script>
 </body>
 
 </html>
