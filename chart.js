@@ -126,10 +126,7 @@ d3.selectAll('input').on('click', function() {
     draw('dataset.csv');
 });
 
-
 draw('dataset.csv');
-
-
 
 // append the svg object to the body of the page
 let svg = d3.select("#dataviz")
@@ -234,7 +231,7 @@ let mousemove = function(d) {
             "<br>Course ID: " + d.course +
             "<br>Course: " + d.class)
         .style("left", (d3.event.pageX - 34) + "px")
-        .style("top", (d3.event.pageY + 25) + "px")
+        .style("top", (d3.event.pageY - 150) + "px")
 }
 let mouseleave = function(d) {
     tooltip
