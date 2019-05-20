@@ -1,57 +1,63 @@
-
-#department, #level_gr{
-  padding-left: 20px;
-  font-family: monospace;
-  font-size: 15px;
-  
+#department,
+#level_gr {
+    padding-left: 20px;
+    font-family: monospace;
+    font-size: 15px;
 }
 
-#level_gr{
+#level_gr {
     padding-top: 5px;
     padding-bottom: 15px;
 }
 
 button {
-
     padding: 7px;
     font-family: monospace;
     background-color: white;
     cursor: pointer;
-  }
+}
 
- .tooltip{
-      position: absolute;
-      pointer-events: none;
-      text-align: left;
-  }
+.tooltip {
+    position: absolute;
+    pointer-events: none;
+    text-align: left;
+}
 
-  .active, .btn:hover {
+.active,
+.btn:hover {
     background-color: #666;
     color: white;
-  }
+}
 
-  #desc{
-  max-width: 980px;
-  padding-bottom: 25px;
-    
-  }
+#desc {
+    max-width: 980px;
+    padding-bottom: 25px;
+}
 
-  #mainheader, #logo, #chartdesc{
+#mainheader,
+#logo,
+#chartdesc {
     margin: auto;
     width: 66%;
     display: block;
-  }
+}
 
- 
-  body,h1,h2, h3, p{
+body,
+h1,
+h2,
+h3,
+p {
     font-family: 'Open Sans', sans-serif !important;
     font-weight: lighter !important;
+}
 
-  }
+html,
+body,
+iframe {
+    height: 100%;
+}
 
-  html, body, iframe { height: 100%; }
-
-  div.linetooltip{
+div.linetooltip {
     position: absolute;
     text-align: center;
     width: 60px;
@@ -63,12 +69,14 @@ button {
     pointer-events: none;
 }
 
-.axis text{
-fill: #888787;
+.axis text {
+    fill: #888787;
 }
-.axis path{
-stroke:#888787;
+
+.axis path {
+    stroke: #888787;
 }
-.axis line{
-stroke:#888787;
+
+.axis line {
+    stroke: #888787;
 }
