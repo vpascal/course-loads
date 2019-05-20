@@ -257,8 +257,8 @@ let mousemove = function (d) {
       + "<br>Term: " + d.Term
       + "<br>Course ID: " + d.course
       + "<br>Course: " + d.class)
-    .style("left", (d3.mouse(this)[0] + 500) + "px")
-    .style("top", (d3.mouse(this)[1] + 900) + "px")
+    .style("left",  (d3.event.pageX - 34) + "px")
+    .style("top", (d3.event.pageY + 25) + "px")
 }
 let mouseleave = function (d) {
   tooltip

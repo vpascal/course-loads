@@ -21,6 +21,7 @@ button {
 
  .tooltip{
       position: absolute;
+      pointer-events: none;
   }
 
   .active, .btn:hover {
