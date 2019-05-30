@@ -327,3 +327,38 @@ function draw(dataset) {
     })
 
 }
+
+let legendcolor = d3.scaleSequential()
+    .interpolator(d3.interpolateOranges)
+    .domain([0, 1])
+
+let legend = d3.select("#legend")
+    .append("svg")
+    .attr("width", 550)
+    .attr("height", 70);
+
+legend.append('text')
+    .style("font-size", 12)
+    .style('font-family', 'monospace')
+    .attr("x", 20)
+    .attr("y", 12)
+    .text("Darker color indicates higher fill rate.");
+
+legend.append("g")
+    .attr("class", "legendSequential")
+    .attr("transform", "translate(20,20)");
+
+let legendSequential = d3.legendColor()
+    .shapeWidth(30)
+    .cells(10)
+    .orient("horizontal")
+    .scale(legendcolor)
+    .shapePadding(2)
+    .labelFormat('.0%');
+
+legend.select(".legendSequential")
+    .call(legendSequential)
+    .style("font-size", 12)
+    .style('font-family', 'monospace')
+    .attr("x", -10)
+    .attr("y", -25);
