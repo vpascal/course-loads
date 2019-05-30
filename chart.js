@@ -350,10 +350,10 @@ legend.append("g")
 
 let legendSequential = d3.legendColor()
     .shapeWidth(30)
-    .cells(10)
+    .cells(5)
     .orient("horizontal")
     .scale(legendcolor)
-    .shapePadding(2)
+    .shapePadding(0)
     .labelFormat('.0%');
 
 legend.select(".legendSequential")
